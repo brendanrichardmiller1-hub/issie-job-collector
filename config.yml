@@ -1,0 +1,132 @@
+# Search settings for the daily job collector.
+# Edit freely: the collector reads this file on every run.
+
+location: "London, UK"
+radius_miles: 15
+hours_old: 26            # look back a little over 24h so nothing slips between runs
+
+# One search per line. Kept to the target roles.
+search_terms:
+  - "marketing manager"
+  - "brand marketing manager"
+  - "marketing communications manager"
+  - "content marketing manager"
+  - "campaign manager marketing"
+  - "integrated marketing manager"
+  - "senior marketing executive"
+  - "digital marketing manager"
+  - "communications manager"
+  - "brand manager"
+
+# A job title must contain at least one of these (case-insensitive) ...
+title_include:
+  - marketing
+  - brand
+  - communications
+  - comms
+  - content
+  - campaign
+  - marcomms
+  - partnerships
+  - creative
+
+# ... and none of these.
+title_exclude:
+  - director
+  - head of
+  - vp
+  - vice president
+  - chief
+  - intern
+  - internship
+  - graduate
+  - apprentice
+  - assistant
+  - coordinator
+  - co-ordinator
+  - trainee
+  - junior
+  - sales executive
+  - account executive
+  - business development representative
+  - sdr
+  - bdr
+  - ppc
+  - paid social
+  - paid search
+  - performance marketing
+  - seo executive
+  - teacher
+  - nurse
+  - engineer
+  - developer
+  - designer
+  - design lead
+  - illustrator
+  - animator
+
+# Drop jobs whose advertised salary tops out below this (undisclosed salaries are kept).
+min_salary_gbp: 45000
+
+# Locations must mention one of these (empty location is kept).
+location_include:
+  - london
+  - city of london
+  - westminster
+  - camden
+  - islington
+  - southwark
+  - lambeth
+  - hackney
+  - shoreditch
+  - kings cross
+  - king's cross
+  - farringdon
+  - clerkenwell
+  - soho
+  - fitzrovia
+  - holborn
+  - canary wharf
+  - hammersmith
+  - battersea
+  - wimbledon
+  - richmond
+  - croydon
+  - stratford
+  - greenwich
+  - chiswick
+  - uxbridge
+  - watford
+  - surrey
+  - kingston
+  - greater london
+
+# Sources to run. Turn any off by setting it to false.
+sources:
+  linkedin: true
+  indeed: true
+  glassdoor: false  # blocks GitHub's servers (403)
+  google: false     # returns nothing from GitHub's servers
+  reed: true      # needs REED_API_KEY secret
+  adzuna: true    # needs ADZUNA_APP_ID and ADZUNA_APP_KEY secrets
+  ats: true       # employers' own job boards, listed below
+
+# Adzuna calls per run. Free test tier = 25 calls in total, so keep at 1.
+# If you upgrade to the paid plan (500 calls a day), raise this to 3-4.
+adzuna_pages: 1
+
+# Employers' own job boards (career-ops style). Provider + board name.
+# Boards that don't exist are reported in data/run-report.md so the list can be pruned.
+# Add employers to watch: greenhouse -> boards.greenhouse.io/<board>,
+# lever -> jobs.lever.co/<board>, ashby -> jobs.ashbyhq.com/<board>.
+ats_boards:
+  - {company: Monzo, provider: greenhouse, board: monzo}
+  - {company: Deliveroo, provider: greenhouse, board: deliveroo}
+  - {company: Wise, provider: greenhouse, board: wise}
+  - {company: Spotify, provider: lever, board: spotify}
+  - {company: Lendable, provider: ashby, board: lendable}
+  - {company: Synthesia, provider: ashby, board: synthesia}
+  - {company: ElevenLabs, provider: ashby, board: elevenlabs}
+  - {company: Patch Plants, provider: greenhouse, board: patch}
+  - {company: Unmind, provider: ashby, board: unmind}
+  - {company: Marshmallow, provider: ashby, board: marshmallow}
