@@ -1,98 +1,64 @@
-# Jobs collected 2026-11-12 (96 new)
+# Jobs collected 2026-11-13 (62 new)
 
-- **B2B Campaign Manager (French) - Contract** — Salt Search — £350 — London — posted 2026-11-12 — reed — https://www.reed.co.uk/jobs/b2b-campaign-manager-french-contract/57560917
-- **B2B Marketing Lead** — Page Group — salary not stated — London — posted 2026-11-12 — reed — https://www.reed.co.uk/jobs/b2b-marketing-lead/57561524
-- **Brand Experience Manager UK & Ireland** — Nordberg Medical — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490345006
-- **Brand and Content Manager** — Act — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489080175
-- **Business Operations Manager, Experiential Marketing** — Xsolla — £70,000–£100,000 — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=b1f665365f5cd0fd
-- **CRM Marketing Manager** — Fender Musical Instruments Corporation — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4473520799
-- **CRM Marketing Manager** — HealthHero — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490326725
-- **Campaigns Lead** — Grant Thornton UK — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4479412049
-- **Campaigns Manager Cpay** — South Western Railway — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489240791
-- **Communications Lead** — Orbital Industries — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4463558629
-- **Content Adaptation Manager (Mandarin Speaker)** — Novartis — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489247501
-- **Content Delivery and Support Manager** — Cancer Research UK (CRUK) — salary not stated — Stratford, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490330187
-- **Content Marketing Manager** — EF Corporate Learning — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4445193297
-- **Corporate Communications Manager (12 Month Fixed Term Contract)** — Lidl GB — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489209197
-- **Corporate Communications Manager (12 Month Fixed Term Contract)** — Lidl — £52,800–£70,400 — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=7045a4abb254c54f
-- **Digital Content & Edit Manager** — Banijay Rights — salary not stated — Greater London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4488506828
-- **Digital Marketing Manager** — Crew Clothing Company — salary not stated — Kingston Upon Thames, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4481363196
-- **Digital Marketing Manager, The Savoy Hotel** — Fairmont — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=c4d1db32964f237a
-- **Founding EMEA Marketing Lead** — Listen Labs — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4455528980
-- **Growth Marketing Manager** — Add Some Zest — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489246727
-- **Growth Marketing Manager** — Act — salary not stated — Greater London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489083078
-- **Influencer Marketing Manager 12M FTC | Cult Beauty** — THG — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=2677d8e03c17f353
-- **Integrated Brand Marketing Manager** — Voy — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489222015
-- **Integrated Marketing Manager** — Carta — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4479443286
-- **Integrated Marketing Manager - DACH** — Plaud — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4480795743
-- **Manager, Content Marketing** — Stantec — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489049811
-- **Manager, Digital Marketing Operations** — Stantec — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489060115
-- **Marketing Lead, Executive Programmes - UKI** — Salesforce — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4482056802
-- **Marketing Manager** — Ultima Markets UK limited — £55,000–£60,000 — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=cbee62e610ee8878
-- **Marketing Manager (12-18 month FTC)** — Carwow — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490312755
-- **Marketing Manager - Insurance (12-14 Month FTC)** — Aon — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=cdc6f6e05b8e1729
-- **Marketing Manager - Market Data** — Alpaca — salary not stated — London, England, UK — posted 2026-11-12 — linkedin, indeed — https://www.linkedin.com/jobs/view/4490316181
-- **Marketing and Audience Development Manager** — Financial Times — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4473256995
-- **Planning and Campaigns Manager** — Universities Superannuation Scheme (Ltd) — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4488297688
-- **Product Marketing Manager** — Minut — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4477723090
-- **Sales and marketing representative** — Inc Recruitment — £30,299 (estimate) — Catford, South East London — posted 2026-11-12 — adzuna — https://www.adzuna.co.uk/jobs/land/ad/5963222327?se=cto3EaLe8RGOyadC4uqgGw&utm_medium=api&v=DFA26B7C127020AF0DE259630DBF167E1C2C6E46
-- **Senior Brand Manager** — Bill's Restaurants — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4488513422
-- **Senior Campaign Manager (Strategic Programmes)** — Navantia UK — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4482126075
-- **Senior Content Marketing Manager** — Xelix — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4478512781
-- **Senior Digital Marketing Manager (14 month FTC)** — Colliers — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490338860
-- **Senior Internal Communications Manager, 12m FTC** — Charles Russell Speechlys — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490316419
-- **Senior Leader - Product Marketing** — Multiverse — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4451261249
-- **Senior Manager Internal Communications** — Anthem Consulting — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490336934
-- **Senior Marketing Manager** — Caselton Clark — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4488537011
-- **Senior Planner (brand)** — Havas Lynx — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489203539
-- **Social Content Lead** — Genflow — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490340334
-- **UK Communications Manager** — Allianz Global Investors — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4487527354
-- **Brand Marketing Manager – Retail and Visitor Attractions** — Tottenham Hotspur Football Club — salary not stated — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4488254205
-- **Brand Marketing Manager- Laser (EMEA) -12 Month Fixed Term Contract** — Bausch Health Companies Inc. — salary not stated — Greater London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489952643
-- **CRM & Digital Content Manager** — Pret A Manger — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=100f5c38c0f9bbd6
-- **CRM Campaign Executive** — Anglo American / De Beers Group — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=ed3e7c9ac58db9cf
-- **Campaign Development Manager** — UNiDAYS — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=4e6ddc71516788f3
-- **Campaign Manager** — Hyve Group — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4471443232
-- **Campaigns Manager** — Smart Energy GB — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489970400
-- **Client Project Manager – Global Consumer Brand Campaign (Contract)** — Native — £50,000–£55,000 — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=a40d463820f640ea
-- **Comms & Content Marketing Lead (Fynapse)** — Aptitude Software — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=36e128b26b33824d
-- **Communications Manager** — Quadrature Charitable Foundation — salary not stated — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4488222975
-- **Communications Manager** — AKQA — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489974455
-- **Content & Communications Manager (Architectural Industry)** — Dar — salary not stated — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4486194944
-- **Content & Growth Marketer** — Tradeaze — £40,000–£48,000 — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=d797536dfd0b414f
-- **Content & Marketing Manager (social-led) | Premium aesthetics clinic, central London** — Confidential Employer - London W1 — salary not stated — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489958817
-- **Corporate Communications Lead** — Novartis UK — £65,590–£121,810 — London, England, UK — posted 2026-11-11 — linkedin, indeed — https://www.linkedin.com/jobs/view/4488246044
-- **Corporate Communications Manager** — Yusen Logistics — £60,000–£70,000 — London, ENG, UK — posted 2026-11-11 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=20d12ffcba0d3263
-- **Creative Lead** — EssilorLuxottica — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=26f88a7d2dc2fea9
-- **International Marketing Lead** — Boden — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=f30fe41c652952f2
-- **Lead product marketing manager** — Seccl — £80,000–£95,000 — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4490026787
-- **Manager, Digital Marketing, B2B Events** — ACAMS — £60,000–£75,000 — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489004807
-- **Marketing Executive - Multi-channel** — Marsh — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=87f0f73e61a49399
-- **Marketing Lead** — MongoDB — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=733619e1e69d9909
-- **Marketing Lead** — Omaze — salary not stated — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489006266
-- **Marketing Manager** — Cornwall Insight — salary not stated — London, England, UK — posted 2026-11-11 — linkedin, indeed — https://www.linkedin.com/jobs/view/4489980063
-- **Marketing Manager** — Entourage Sport & Entertainment — salary not stated — Greater London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489955456
-- **Marketing Manager - Film** — Handle Recruitment — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489005421
-- **Marketing Manager - Music Festival** — Handle Recruitment — salary not stated — London, England, UK — posted 2026-11-11 — linkedin, reed — https://www.linkedin.com/jobs/view/4489010214
-- **Marketing Manager, International Competitive Management** — Insulet Corporation — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489008908
-- **Marketing Manager, SEO** — OpenTable — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4481119399
-- **Marketing Manager, UK - FTC** — Molton Brown — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4481140246
-- **Partnerships Manage** — Independent Media — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=c09fe17602c08a8b
-- **Product Marketing Manager** — Loop Recruitment — £75,000–£85,000 — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489958415
-- **Risk & Reputation Communications Manager** — Preply — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4471533607
-- **Risk Passport - Global Content Manager** — Marsh Agency — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4490017023
-- **Senior External Communications Manager** — The Alan Turing Institute — salary not stated — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489988000
-- **Senior Global Communications Executive** — Walkers — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=c8bd170c443abc0c
-- **Senior Healthcare Brand Strategist** — Chemistry Search & Selection — £55,000–£65,000 — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489034327
-- **Senior Internal Communications Manager** — Ambition Europe Limited — salary not stated — London — posted 2026-11-11 — reed — https://www.reed.co.uk/jobs/senior-internal-communications-manager/57559192
-- **Senior Internal Communications Manager (12- month FTC)** — Larbey Evans — salary not stated — City Of London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489971228
-- **Senior Internal Communications Manager - 12 month FTC - Global Law Firm** — Talent Frame — salary not stated — London Area, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489013282
-- **Senior Manager - Creative Services** — Dr Martens plc — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=e282a7e6282dc1e2
-- **Senior Marketing Manager** — Somerset House — £43,000–£45,000 — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4489951947
-- **Senior Marketing Manager** — SOMERSET HOUSE TRUST — £43,000–£45,000 — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=30784a2840a9341f
-- **Senior Product Marketing Manager** — IG Group — salary not stated — City Of London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4471729678
-- **Senior Product Marketing Manager - Online Payments** — Mollie — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4482064811
-- **Senior Sales & Partnerships Manager** — Ｚｉｌｃｈ — salary not stated — London, ENG, UK — posted 2026-11-11 — indeed — https://uk.indeed.com/viewjob?jk=4be239d3f1431d84
-- **Social & Creative Strategy Lead** — s360 — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4463462015
-- **Sr. Content Marketing Manager** — Quantexa — salary not stated — London, England, UK — posted 2026-11-11 — linkedin — https://www.linkedin.com/jobs/view/4490058078
-- **Sr. Product Marketing Manager - Hedge Funds** — Clearwater Analytics (CWAN) — £102,000–£144,000 — London, ENG, UK — posted 2026-11-11 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=127a6d22740b578f
+- **Anthropologie - Digital Marketing Manager** — Anthropologie — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=0095f6198b456700
+- **Communications Manager - Europe (6635)** — Shield — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490558081
+- **Communications and Public Affairs Manager, UK and Europe** — Auror — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490563872
+- **Growth Marketing Leader, EMEA** — Gallagher — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=4786039e1e60b959
+- **Marketing Manager** — FUKU — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=1b1cc70981d9b9f5
+- **Senior Marketing Executive – ROAR B2B** — CloserStill Media — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4487229261
+- **Senior Marketing Manager** — Optio Incentives — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=90c019208cfd5871
+- **Sr. Content & Editorial Partnerships Manager, Amazon Music** — Amazon Music — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490539849
+- **Amazon Advertising Manager (Brand-side)** — Vertical Advantage — salary not stated — Greater London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490345542
+- **Anthropologie - Digital Marketing Manager** — Anthropologie Europe — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4488526856
+- **Brand & Event Manager UK** — Simonelli Group — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4473948695
+- **Brand Manager** — Axia Beauty — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4488539756
+- **Brand Manager - 9 Month FTC** — Trainline — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4482711682
+- **CRO Content Manager, AI-First** — Puffy — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4488546182
+- **Campaign Manager** — Xapien — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=f5e80d5b764d3f60
+- **Channel Marketing Manager German Speaking - DACH Regions** — eFinancialCareers — salary not stated — London — posted 2026-11-12 — reed — https://www.reed.co.uk/jobs/channel-marketing-manager-german-speaking-dach-regions/57563046
+- **Content and Influencer Marketing Manager** — Foundry — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490380119
+- **Corporate Partnerships Development Manager – Maternity Cover (12 months)** — Women for Women International — £47,000–£53,000 — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=62c39b03aded00d5
+- **Digital Marketing Executive - Premier League FTC 12 months)** — Beyond Sports — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=c30318858f0604ba
+- **Digital Marketing Manager** — Theramex — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4482461771
+- **Digital Marketing Manager, The Savoy Hotel** — Fairmont Hotels & Resorts — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490369787
+- **Enterprise Growth Marketing Lead, EMEA** — Fivetran — £96,398–£120,497 — London, ENG, UK — posted 2026-11-12 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=479c7cbfeba33bad
+- **Go-To-Market Brand Strategist** — Bloomberg — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=3dc2ea015e809b09
+- **Grocery Marketing Manager** — Ottolenghi Group — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490378842
+- **Grocery Marketing Manager** — Ottolenghi HQ — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=5ec523b30d64e80f
+- **Growth Marketing Manager - UK** — Everlab — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490518708
+- **Growth Marketing Manager at fast-growing Health & Wellness brand (£50-60k)** — Jumpstart — £50,000–£60,000 — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490348391
+- **Harry’s Brand Manager, International** — Harry's — salary not stated — London, England, UK — posted 2026-11-12 — linkedin, indeed — https://www.linkedin.com/jobs/view/4489505079
+- **Harry’s Brand Manager, International** — Mammoth Brands — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489515108
+- **Internal Communications Manager – 10 Month Fixed Term Contract** — Acast — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=41b2c2fbf436fb3d
+- **Lead Product Marketing Manager** — DT — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4472396453
+- **Manager, Product Marketing** — 2K — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4464683820
+- **Marketing & Growth Lead** — London Egg Bank — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4478105542
+- **Marketing Lead** — Flock — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=06dc126abca0c920
+- **Marketing Lead** — IXL Learning — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4454287898
+- **Marketing Manager** — Corinthia London — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490364461
+- **Marketing Manager - London Marriott Hotel County Hall** — Marriott International — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4489512115
+- **Owned Social Brand Manager - Luxe Division** — L'Oréal — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=7662f849277b6e34
+- **Paid Media and Partnerships Manager - Germany** — HeliosX Group — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490354794
+- **Performance Creative Strategist** — Growth & Company — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490335099
+- **Personal Brand Lead** — Humanoid — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4481316708
+- **Product Marketing Manager** — CUBE AI — salary not stated — Greater London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490384634
+- **Retail Activation Marketing Manager - FTC** — Molton Brown — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=4ff4d93dec6986c2
+- **Sales and Marketing Manager - Multi floor AA Venue** — Smiths of Smithfield — £52,000 — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=1348c86eb52d97ba
+- **Senior Brand Manager - 9 Month FTC** — Trainline — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4473905953
+- **Senior Communications Manager** — World Wide Technology — salary not stated — London Area, UK — posted 2026-11-12 — linkedin, indeed — https://www.linkedin.com/jobs/view/4489292717
+- **Senior Global Marketing Manager, RTD** — Suntory Global Spirits — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=e0565419822b8c46
+- **Senior Manager, CRM and Membership Marketing** — Victoria and Albert Museum — £55,000–£60,000 — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=abeade408d915e70
+- **Senior Manager, Marketing Transformation** — EY — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4480060129
+- **Senior Manager, Member Lifecycle & Communications** — CFA Institute — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=69bd9a542be1000e
+- **Senior Manager, Membership Growth Marketing** — CFA Institute — salary not stated — London, England, UK — posted 2026-11-12 — linkedin, indeed — https://www.linkedin.com/jobs/view/4490377762
+- **Senior Marketing Manager** — Marks & Spencer — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=4dcab3180e0e7f4c
+- **Senior Marketing Manager** — Marks and Spencer — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490358850
+- **Senior Marketing Manager (Ark UK Programmes)** — Ark Curriculum Plus — £47,000–£50,000 — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4490365338
+- **Senior Marketing Manager (Ark UK Programmes)** — ARK SCHOOLS — £47,000–£50,000 — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=0547eb7199e4de0e
+- **Senior Marketing Manager, Channel Sales** — Square — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4479442294
+- **Senior Marketing Manager, Institutional Clients** — HSBC — salary not stated — London, England, UK — posted 2026-11-12 — linkedin, indeed — https://www.linkedin.com/jobs/view/4490501599
+- **Senior Product Marketing Manager, AI Compute** — Telnyx — salary not stated — London, England, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4482199333
+- **Sr. Content & Editorial Partnerships Manager, Amazon Music** — Amazon.com — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=ff2a146d875795a9
+- **Student Communications and Events Manager** — Birkbeck, University of London — £39,761–£45,132 — London, ENG, UK — posted 2026-11-12 — indeed — https://uk.indeed.com/viewjob?jk=bf92868e29f4f179
+- **Trade Marketing Manager** — Veblen International — salary not stated — London Area, UK — posted 2026-11-12 — linkedin — https://www.linkedin.com/jobs/view/4488545269
+- **Wealth Product Marketing Manager** — Macquarie Group — salary not stated — London, ENG, UK — posted 2026-11-12 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=913eb3de4adbbe73
