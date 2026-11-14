@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-14T10:28:58.669848+00:00",
+ "generated_at": "2026-11-14T12:28:03.897742+00:00",
  "window_start": "2026-11-13",
  "counts": {
-  "raw": 1314,
-  "after_filters": 121,
-  "new_in_window": 68,
+  "raw": 1294,
+  "after_filters": 118,
+  "new_in_window": 71,
   "dropped": {
-   "title": 830,
-   "salary": 42,
+   "title": 821,
+   "salary": 38,
    "location": 27
   }
  },
@@ -136,6 +136,30 @@
    "is_new": true
   },
   {
+   "title": "Product Marketing Lead",
+   "company": "Kernel",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-14",
+   "url": "https://www.linkedin.com/jobs/view/4472308013",
+   "description": "**About Kernel**\nAI agents are starting to do sales, procurement and operations work. They need to know which company they are dealing with.\n  \n  \nMost company data is in CRMs, ERPs and third-party datasets. Records are duplicated, parent companies are missing, and addresses are outdated. This costs sales teams revenue and leaves operations and finance teams with avoidable risk and bad debt. Agents need a business identity layer they can trust.\n  \n  \nKernel is building that layer: the business registry for agents. Every business gets a permanent KERN ID, along with the context an agent needs to act on it. Ops, data and revenue teams at\n**Gong, Legora, Mistral, Canva and Checkout**\nalready use Kernel in their own systems, and we expect agents to use it far more.\n  \n  \nWe have raised\n**$20M**\nfrom top VCs and operators at Plaid, OpenAI, Slack and others, and we are growing\n**12x YoY**\n.\n  \n  \n**The role**\nYou’ll be\n**Kernel’s Product Marketing Lead**\n, building product marketing from the ground up. There’s a lot of potential here, and you’ll set the direction.\n  \n  \nYour mission:\n**make Kernel easy to understand and easy to buy**\n, for customers and for the partners who sell it.\n  \n  \n**What You’ll Do**\n\n* Own positioning and narrative: for customers we sell to directly and for our partners.\n* Write the technical story: work with Anders, Marcus, and Zak on product positioning and technical documentation.\n* Own announcements and launches: plan each one and get it out.\n* Equip sales: work with the sales team on messaging, demos and battlecards.\n* Build our social proof: case studies and customer references.\n* 5% “other stuff”: events, the website and anything else that helps the business.\n\n**What We’re Looking For**\n\n* Most important is product marketing experience at a high-growth startup and examples of work that had a real impact on the business.\n* You have written technical content before.\n* You have led large projects such as a launch or a repositioning, and set the plan yourself.\n* You work fast and closely with sales and the founders.\n* You have taste and you execute well.\n* Experience with video content is a plus but not a requirement.\n\n**⚠️ This role may not be for you if you:**\n\n* Need other product marketers around you to work best.\n* Prefer to be handed a brief than to write one.\n* Need perfect clarity before starting.\n* Prefer long cycles and big “reveals.”\n* Want fully remote work (we move faster in-person).\n\n**What We Offer**\nWe will do our best to offer you a ride of a lifetime. It will not be easy, but it will be thrilling.\n  \n  \n\n* 💰 Salary: £90,000 – £120,000 base + equity\n* 🗓️ 24 days holiday per year + bank holidays\n* 🥕 £450 Monthly Office Dinner Allowance\n* ✈️ 2 weeks work-from-anywhere\n* 🍼 Generous parental leave policy\n* 💼 Pension plan\n* 💻 Top-spec equipment and central London office\n* 🎉 Team events and dinners\n* 🚀 Work directly with the founders to scale the systems that power enterprise AI\n* 🏆 High-autonomy, high-trust environment with a small team shipping at pace\n\n**🎫 Visas & Relocation**\nWe sponsor visas for exceptional candidates and provide relocation support for those moving to London.\n  \n  \n**Interview Process**\n**Stage 1:**\nIntroductory Call with Zak, Founding Growth (30 minutes)\n  \n  \n**Stage 2:**\nCase Study with Zak & Anders (CEO)\n  \n  \n**Final Stage:**\nFounders Interview. A conversation with the founders focused on values alignment and long-term vision.\n  \n  \n*Following Mutual Fit: Reference checks and offer stage.*",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Software Development",
+   "key": "kernel|product marketing lead",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-14",
+   "is_new": true
+  },
+  {
    "title": "Senior Internal Communications Manager, EMEA & UK",
    "company": "Ashurst Perkins Coie",
    "location": "London Area, UK",
@@ -160,21 +184,72 @@
    "is_new": true
   },
   {
-   "title": "Team Lead, Global Alliance Partnerships",
-   "company": "Adyen",
-   "location": "London, UK",
-   "salary_min": 50537.75,
-   "salary_max": 50537.75,
-   "salary_text": "£50,538",
-   "salary_is_estimate": true,
+   "title": "Senior Lifecycle Marketing Manager",
+   "company": "Provenir",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "",
+   "contract": "fulltime",
    "date_posted": "2026-11-14",
-   "url": "https://www.adzuna.co.uk/jobs/details/5965598305?utm_medium=api",
-   "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at sc…",
-   "key": "adyen|team lead global alliance partnerships",
+   "url": "https://www.linkedin.com/jobs/view/4454419021",
+   "description": "**Who We Are**\nProvenir is the unified Decision Intelligence Platform that gives enterprises full control over end- to-end customer decisioning — to manage risk, drive growth, and transform business outcomes. By consolidating data, AI models, intelligence, agents and governance into a single decisioning environment, Provenir empowers business teams to configure and evolve strategy directly, while maintaining enterprise-grade reliability and regulatory compliance. Trusted by 120+ institutions in 60+ countries, Provenir processes over 4 billion decisions annually — turning architectural coherence into sustained risk performance and measurable value. Ready to solve meaningful challenges, work with enterprise customers, and help shape the future of AI-powered decisioning? Join us.\n  \n  \nWe are seeking an experienced Marketing Lifecycle Manager to play a central role in our transition to a full-funnel Growth Marketing model. This is a strategic and executional role, responsible for designing and delivering data-driven, multi-touch lifecycle programs that engage prospects and customers across long, complex buying journeys.\n  \n  \nYou will own the marketing automation ecosystem, leveraging\n**Salesforce**\n/ Pardot\n**to build sophisticated segmentation, personalised campaigns, and measurable lifecycle strategies**\nthat directly contribute to pipeline progression, revenue growth, and customer expansion. Working closely with the Head of Growth Marketing, Marketing RevOps, Field Marketing, and BDRs, you will ensure that all campaigns are connected, contextual, and aligned with regional and account-level strategies.\n  \n  \n**Responsibilities**\n\n* Lifecycle Strategy and Campaign Development\n* Design and implement end-to-end lifecycle marketing strategies across prospect nurturing, opportunity acceleration, customer onboarding, retention, and expansion using Salesforce data\n* Translate field marketing briefs into structured, multi-touch campaigns aligned with market-specific strategies and business priorities\n* Build non-linear, multi-step engagement journeys that reflect complex B2B buying processes\n* Email Marketing and Marketing Automation\n* Own the strategy, execution, and optimisation of email marketing programs across the full funnel\n* Build and manage automated nurture journeys in Salesforce/Pardot, tailored by lifecycle stage, role/persona, industry and region, engagement signals\n* Develop personalised, behaviour-driven communications to increase engagement and conversion quality\n* Ensure best practices in deliverability, compliance, and performance optimisation\n* Segmentation, Personalization and Audience Analytics\n* Define and maintain advanced segmentation frameworks across the database\n* Leverage behavioural, firmographic, and engagement data to:\n\n+ Build highly targeted audiences\n+ Deliver personalised campaign experiences\n+ Analyse user behaviour across touchpoints to identify:\n\n- Engagement patterns\n- Drop-off points\n- Opportunities for optimisation\n\n* Performance Measurement and Reporting\n* Own campaign performance tracking and reporting within Salesforce/Pardot\n* Develop and maintain lifecycle reporting frameworks reflecting the complexity of the sales cycles and the contribution of leads to accounts’ conversion\n* Provide actionable insights to optimise campaigns and inform broader growth strategies\n* Cross-channel Collaboration\n* Work closely with:\n\n+ Paid Media Manager to align acquisition and nurture strategies\n+ UI Designer and Website Manager to optimise conversion paths and content journeys\n+ Field Marketing to localise and adapt campaigns to regional needs\n+ Sales teams to align on lead quality, engagement, and pipeline progression\n+ Ensure lifecycle programs are fully integrated into the content marketing calendar\n+ Work with SEO and content to create engaging website content across the sales cycle based on the knowledge of the audience\n\n* Required Skills and Experience\n* Extensive experience in email marketing and lifecycle marketing, ideally in B2B environments\n* Proven advanced expertise in Salesforce is essential and Pardot, including:\n\n+ Campaign setup and automation workflows\n+ Advanced reporting and performance analysis\n\n* Strong experience in audience segmentation and personalised campaign execution\n* Demonstrated ability to design and manage complex, multi-touch nurture journeys\n* Strong analytical skills, with the ability to translate data into actionable insights\n* Focus on revenue impact\n* Experience working across multiple digital channels within integrated campaigns\n* Desirable Skills and Experience\n* Background in B2B enterprise SaaS, fintech, or similarly complex industries\n* Experience managing long sales cycles with multiple stakeholders and decision-makers\n* Experience working across international markets and multi-language campaigns\n* Understanding of multi-touch attribution and revenue-focused marketing metrics\n\nOur employees are our top priority; we offer comprehensive health and wellness plans. You will enjoy paid time off and company holidays, flexible and remote-friendly opportunities, and maternity/paternity leave.\n  \n  \n*At Provenir, we recognize that diversity and inclusion make our teams stronger. We are committed to equal employment opportunity and welcome everyone regardless of race, colour, ancestry, religion, national origin, age, sex, gender identity, sexual orientation, disability, marital status, domestic partner status, citizenship, or veteran status or medical condition. We encourage people from all backgrounds to apply.*",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Software Development",
+   "key": "provenir|senior lifecycle marketing manager",
    "sources": [
-    "adzuna"
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-14",
+   "is_new": true
+  },
+  {
+   "title": "Senior Product Marketing Manager | UK | Remote",
+   "company": "Grafana Labs",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "Remote",
+   "contract": "fulltime",
+   "date_posted": "2026-11-14",
+   "url": "https://www.linkedin.com/jobs/view/4483184790",
+   "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at grafana.com and follow us on LinkedIn and X.\n  \n  \nWe’re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.\n  \n  \nYou may not meet every requirement, and that’s okay. If this role excites you, we’d love you to raise your hand for what could be a truly career-defining opportunity.\n  \n  \n**The Opportunity**\nWe’re looking for an enthusiastic, tech-forward product marketer to grow our Observability products by boldly positioning them and running campaigns to attract, convert and retain customers. As a Senior Product Marketing Manager, you will be in charge of the messaging and positioning for a broad product area. Then you’ll work closely with product managers and the marketing team to deliver campaigns, content, events, and training that help buyers buy (and sellers sell) our value.\n  \n  \nProduct Marketing lives within the Product org rather than the Marketing org at Grafana Labs, and we think differently about the job. Rather than purely executing launches or campaigns, we want PMMs to teach product managers and engineers in our org how to think about growth and demand, and to codify product marketing knowledge into AI-forward tools and processes that anyone in the organization can use. For example, we all contribute product information to a shared knowledge base, which we use to generate enablement materials and decks.\n  \n  \nGrafana Labs is a fast-paced and growing organization. As such, this role requires strategic skills, an interest in teaching, and hands-on tactical execution (blogs, webinar outlines, video scripts, etc). Our team is full of people who crave impact and independence - if you are seeking a role with narrow scope where you run a defined playbook, this is not the job for you.\n  \n  \n**What You'll Be Doing**\n\n* Actively partner with and teach product managers to define product value, messaging, and go-to-market strategy, from competitive positioning to sales enablement collateral.\n* Partner with product management, engineering and various go-to-market functions to create materials that help customers evaluate and adopt our products: reference architectures, implementation guides, detailed product information and more.\n* Own customer lifecycle campaigns (competitive positioning, retention, upsell/cross-sell) to strategically shape marketing programs and drive growth across the entire customer journey.\n* Conduct market and customer research to understand pain points, competition and opportunities.\n* Teach go-to-market and sales teams our products’ capabilities and the value they provide, deliver training and enablement, ensure customer facing teams are able to effectively engage with customers, partners, and prospects.\n\n**What Makes You a Great Fit**\n\n* 4+ years of relevant experience (product marketing, solutions marketing, product management)\n* Experience with marketing and selling to a technical audience\n* A passion for open source, cloud native, and infrastructure technologies\n* Proven ability to take on complex projects and efficiently drive them from start to finish\n* Ability to clearly articulate the value of technical products to customers and sellers alike\n* Experience leading product or feature launches autonomously as well as part of a team\n* Experience working with AI tools like ChatGPT and Claude to automate messaging and workflows\n* Comfort working with a variety of internal and external stakeholders in complicated processes\n* Strong product and technical curiosity that translate to clear packaging, positioning, and messaging\n* Demonstrated quantitative analytical skills for analyzing campaign performance, evaluating lifecycle metrics, and making data-driven recommendations.\n* Exceptional writing and communication skills\n* A high “say-do” ratio in executing and delivering impact\n\n**Compensation & Rewards**\nIn the UK, the base compensation range for this role is GBP 91,755 - GBP 110,106. Actual compensation may vary based on level, experience, and skillset as assessed throughout the interview process. All of our roles include Restricted Stock Units (RSUs), giving every team member ownership in Grafana Labs' success. We believe in shared outcomes—RSUs help us stay aligned and invested as we scale globally.\n  \n  \n\n* Compensation ranges are country specific. If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market’s defined pay range & benefits at the beginning of the process.\n\n**Why You’ll Thrive At Grafana Labs**\n\n* 100% Remote, Global Culture - As a remote-only company, we bring together talent from around the world, united by a culture of collaboration and shared purpose.\n* Scaling Organization – Tackle meaningful work in a high-growth, ever-evolving environment.\n* Transparent Communication – Expect open decision-making and regular company-wide updates.\n* Innovation-Driven – Autonomy and support to ship great work and try n",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Software Development",
+   "key": "grafana labs|senior product marketing manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-14",
+   "is_new": true
+  },
+  {
+   "title": "senior manager, brand engagement and social media (EMEA)",
+   "company": "Starbucks EMEA",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-14",
+   "url": "https://www.linkedin.com/jobs/view/4446566173",
+   "description": "We’re looking for a senior manager, brand engagement and social media to join our team here at Starbucks EMEA. A place where you’re valued, challenged, and inspired. Where your voice is brewed into everything we do. At Starbucks, we’re all about you.\n  \n  \nAs part of this role, you’ll be responsible for leading regional brand engagement programmes, including EMEA’s Culture and Social Media strategy, culturally resonant activations, and brand collaborations & partnerships that strengthen the brand and support commercial growth.\n  \n  \nWe’ll look to you to bring your experience in brand and customer experience, ideally in a retail or consumer-facing market, including working within brand partnerships or experiential marketing with a proven track record of leading large-scale activations alongside influencer and content marketing. You’ll have strong strategic planning, forecasting and business case management capability, with experience leading cross-functional workstreams. We’re looking for a leader with excellent communication and influencing skills, with the ability to engage stakeholders both internally and externally. Ideally, you’ll be familiar with license commercial agreements, key terms and value exchange negotiations.\n  \n  \n**About**\nThe best part about this role is that no two days are ever the same! Working as our senior manager, brand engagement and social media, you’ll get involved in:\n  \n  \n\n* Leading regional brand engagement programmes, activations, and partnerships that bring the brand to life in a culturally relevant and commercially effective way.\n* Leading on EMEA’s culture strategy, building a culture-led brand calendar for the region, leveraging global programs and scaling local best practices\n* Leading Social Media Agency Relationship, shape Strategy and establishing a new Operating Model for local markets\n* Leading Partner/Licensor negotiations and establishing value exchange and key terms of partnership\n* Leading the adaptation & localisation of Global campaigns/programs\n* Coordinating with COE / US and other regions on global campaigns, bringing together cross-functional teams and outsourced support where needed to enable effective delivery.\n* Supporting licensees in executing brand activations by sharing best practices and auditing market-level execution to drive alignment with regional and global brand guidelines.\n* Promoting strong and consistent brand execution across touchpoints, while recognising local needs and market nuance.\n\nIn return, we’ll offer you a competitive salary and benefits that include:\n  \n  \n\n* 25 days holiday a year (plus Bank Holidays)\n* Up to 10% bonus.\n* Flexible benefits – in addition to the benefits listed here we’ll also provide you with an additional 4% to allow you to select the benefits that suit you\n* Life assurance and private medical insurance for yourself\n* Comprehensive training (including coffee knowledge!) and access to Starbucks Global Academy (our online learning platform to help continuously develop yourself)\n* Free bag of coffee each week and a 30% partner discounts on food, beverages, and merchandise\n* Discounts with local and national retailers (cell phones, gym memberships, entertainment tickets, hotels, etc.) through Perks at Work platform\n* Subscription to Headspace\n* Home Sweet Loan (Interest-free loans that can be paid back over 12 months to help pay your rental deposit)\n* Bean stock options for all partners (own part of Starbucks!)\n* A free 24/7 Employee Assistance Programme available to you and your family\n\nSo, if you’re looking for a new opportunity, with us you’ll be welcomed, you’ll be challenged, you’ll be inspired. Here you’ll be heard. Because here, you’re a part of it all. Here you belong.\n  \n  \nStarbucks is committed to building an inclusive and diverse workforce. All applicants and partners will be treated fairly, without regard to race, religion, sex, nationality, age, physical or mental disability, sexual orientation, marital status, gender identity and expression.\n  \n  \n*Know someone who would be a perfect fit? Share this opportunity with them! At Starbucks, there’s always room for one more*",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Manufacturing, Food and Beverage Services, and Retail",
+   "key": "starbucks emea|senior manager brand engagement and social media",
+   "sources": [
+    "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-14",
@@ -692,30 +767,6 @@
    "company_size": "",
    "company_industry": "Higher Education",
    "key": "imperial college london|external communications manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-14",
-   "is_new": true
-  },
-  {
-   "title": "Field Marketing Lead, Hospitality Cloud - Europe",
-   "company": "Cvent",
-   "location": "City Of London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-13",
-   "url": "https://www.linkedin.com/jobs/view/4481691789",
-   "description": "**Our Culture and Impact**\nCvent is a leading meetings, events, and hospitality technology provider with more than 5,500+ employees and ~30,000 customers worldwide, including 60% of the Fortune 500. Founded in 1999, Cvent delivers a comprehensive event marketing and management platform for marketers and event professionals and offers software solutions to hotels, special event venues and destinations to help them grow their group/MICE and corporate travel business. Our technology brings millions of people together at events around the world. In short, we’re transforming the meetings and events industry through innovative technology that powers the human connection.\n  \n  \nCvent's strength lies in its people, fostering a culture where everyone is encouraged to think like entrepreneurs, taking risks and making decisions confidently. We value diverse perspectives and celebrate differences, working together with colleagues and clients to build strong connections.\n  \n  \n**AI at Cvent: Leading the Future**\nAre you ready to shape the future of work at the intersection of human expertise and AI innovation? At Cvent, we’re committed to continuous learning and adaptation—AI isn’t just a tool for us, it’s part of our DNA. We’re looking for candidates who are eager to evolve alongside technology. If you love to experiment boldly, share your discoveries, and help define best practices for AI-augmented work, you’ll thrive here. Our team values professionals who thoughtfully integrate AI into their daily work, delivering exceptional results while relying on the human judgment and creativity that drive real innovation.\n  \n  \nThroughout our interview process, you’ll have the chance to demonstrate how you use AI to learn, iterate, and amplify your impact. If you’re excited to be part of a team that’s leading the way in AI-powered collaboration, we’d love to meet you.\n  \n  \nCvent is seeking a UK-based Team Lead to own and execute integrated field marketing initiatives for the DACH region across the full funnel, while also supporting strategic European Hospitality Cloud programmes. This role will be responsible for end-to-end campaign planning and execution across demand generation, webinar programmes, partner marketing, content localisation, and event delivery. The position involves reporting to the Senior Marketing Manager based in India and collaborating closely with counterparts in India and the US.\n  \n  \nThe position will play a critical role in driving awareness, engagement, and pipeline across the DACH market, while also contributing to broader European initiatives for the Hospitality Cloud business. The successful candidate will work closely with sales, digital, content, product marketing, customer marketing, external partners, freelance writers, and translation agencies to deliver impactful regional programmes.\n  \n  \n\n* DACH Field Marketing Strategy: Lead end-to-end field marketing strategy and execution for the DACH region, ensuring alignment to business goals, regional sales priorities, and Hospitality Cloud growth objectives.\n* Campaign Execution: Serve as the German-language marketing specialist, owning regional campaign activity including website updates, messaging, webinar promotion, and localised content across channels.\n* Digital Content & Localisation: Maintain DACH website content and manage translation agencies and freelancers to localise campaigns, blogs, and long-form assets. Develop German-language content including nurture copy, landing pages, and thought leadership pieces.\n* Webinar Programme Management: Own the planning and execution of German and English webinars across the funnel, including stakeholder coordination, campaign execution, and performance tracking.\n* Partner Marketing: Build and manage relationships with German hospitality partners to identify co-marketing opportunities and support regional demand generation.\n* Conferences & Tradeshows: Leading the annual Cvent Accelerate conference end to end (content planning, speaker management, promotion, and onsite execution) and providing onsite support for Cvent CONNECT Europe, including Innovation Pavilion activations, interview testimonials, and audience engagement.\n* Unique Venue Segment Marketing: Lead nurture programmes for the Unique Venue segment, including webinars, digital promotions, and close collaboration with the sales team.\n* Performance Tracking & AI-Assisted Execution: Track, measure, and report on programme performance, using insights to optimise future activity. Integrate AI tools into content creation, localisation, and campaign optimisation to drive efficiency and improve output quality.\n* Perform other duties as assigned.\n* Bachelor's degree in Marketing, Business, Communications or relevant experience.\n* Proven track record of marketing experience, preferably in B2B field marketing, demand generation, or integrated campaign roles.\n* Fluent German and strong English language skills, with the ability to create, review, and refine German-language marketing content.\n* Experience managing regional marketing programmes across Europe, ideally with direct ownership of DACH markets.\n* Experience delivering webinars, nurture campaigns, digital promotions, and in-person or hybrid events.\n* Experience working with agencies, freelancers, and cross-functional internal teams in a matrixed organisation.\n* Strong project management and campaign execution skills with the ability to manage multiple initiatives at once.\n* Knowledge of digital marketing, inbound and outbound campaign techniques, webinar best practices, and content localisation processes.\n* Strong stakeholder management skills and the ability to collaborate effectively with regional sales teams and senior internal partners.\n* Familiarity with AI tools for marketing execution, including content generation, translation support, and campaign optimisation. Comfortable experimenting with and adopting new tools to improve efficiency.\n\nDesirable\n  \n  \n\n* Understanding",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Civil Engineering",
-   "key": "cvent|field marketing lead hospitality cloud europe",
    "sources": [
     "linkedin"
    ],
@@ -1656,6 +1707,30 @@
    "is_new": true
   },
   {
+   "title": "Social Content Lead",
+   "company": "Suna",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-13",
+   "url": "https://www.linkedin.com/jobs/view/4491009220",
+   "description": "**About Suna**\n\nWe want people to experience their healthiest bodies, on their own terms.\n\nTo do that, we're closing the data gap that exists in wearables today, gut health and nutrition.\n\nSuna is a wellness wearable for your gut. It listens to your gut around the clock, through sound, and turns what it hears into something you can read every morning. Think of it as the Fitbit for your gut and nutrition. On top of it sits the Oracle, a personal health agent. It joins what the patch hears to the context of your life, what you ate, your calendar, the weather, your email, and talks to you where you already are, on WhatsApp or iMessage. We are a small founding team in London and San Francisco, and we build the device, the models and the app ourselves.\n\nYou own what Suna looks and sounds like everywhere people scroll and work closely with our Designer to do so. Short form that gets watched, long form that explains something this new, and a team that ships every day.\n\n**You may own**\n\n* Short form across every account we run, the brand's and the founders'. Hooks, shoots, edits, and something out every day.\n* Long form: a YouTube channel from zero. Founder interviews, deep dives, the videos that explain a new category properly.\n* The people who make it: our in-house team, editors, freelancers and creators. The briefs, the feedback and the bar.\n* Creators and UGC: who we work with, what we send them, and a pipeline that lasts.\n* The calendar. What goes out when, on which account, and why.\n* The numbers: views, follows, saves, and how many people joined or ordered because of a video. What worked becomes an ad, with our performance marketer.\n* Launch: the content that carries the device out of the door.\n* Taste. With design, you keep every frame recognisably ours.\n* Accuracy. With science, everything we say holds up.\n\n**You'll fit if**\n\n* You have made content for a living for 3+ years, for a brand or a creator, and you can show us the accounts and the numbers.\n* You still shoot, edit and write the hook yourself.\n* You have grown an account from small to large and can explain which videos did it.\n* You have led editors or creators and made their work better.\n* Chronically online. You know the format that is about to be everywhere.\n* You care about craft. You can name the consumer hardware brands whose content you actually watch, and why.\n* AI native. You automate a chore rather than repeat it.\n\n**Bonus**\n\n* Came up in a creator house or a consumer tech content team\n* Worked a hardware launch\n* Built a YouTube channel\n* Comfortable on camera\n* Knows the US audience\n* Health or wellness background",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Wellness and Fitness Services",
+   "key": "suna|social content lead",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-14",
+   "is_new": true
+  },
+  {
    "title": "Social Media Manager & Content Creator",
    "company": "Haypp Group",
    "location": "London, ENG, UK",
@@ -1803,54 +1878,6 @@
    "is_new": false
   },
   {
-   "title": "Campaign Development Manager 12 months FTC",
-   "company": "UNiDAYS",
-   "location": "London Area, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-13",
-   "url": "https://www.linkedin.com/jobs/view/4488917585",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Advertising Services",
-   "key": "unidays|campaign development manager 12 months ftc",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-13",
-   "is_new": false
-  },
-  {
-   "title": "Communications Manager",
-   "company": "SoTalent",
-   "location": "London Area, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-13",
-   "url": "https://www.linkedin.com/jobs/view/4488905826",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Advertising Services and Marketing Services",
-   "key": "sotalent|communications manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-13",
-   "is_new": false
-  },
-  {
    "title": "Content Manager",
    "company": "ivee",
    "location": "London Area, UK",
@@ -1869,30 +1896,6 @@
    "key": "ivee|content manager",
    "sources": [
     "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-13",
-   "is_new": false
-  },
-  {
-   "title": "Content Marketing Manager (6 Month FTC)",
-   "company": "Mitie",
-   "location": "London, ENG, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "contract",
-   "date_posted": "2026-11-13",
-   "url": "https://uk.indeed.com/viewjob?jk=ccc7f41756ed2e1d",
-   "description": "",
-   "apply_url": "https://careers.mitie.com/jobs/vacancy/107674/description?_channelid=87",
-   "company_size": "10,000+",
-   "company_industry": "",
-   "key": "mitie|content marketing manager",
-   "sources": [
-    "indeed"
    ],
    "other_urls": [],
    "first_seen": "2026-11-13",
@@ -2167,30 +2170,6 @@
   },
   {
    "title": "Marketing Manager",
-   "company": "The Opportunity Hub UK",
-   "location": "London Area, UK",
-   "salary_min": 45000.0,
-   "salary_max": 50000.0,
-   "salary_text": "£45,000–£50,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-13",
-   "url": "https://www.linkedin.com/jobs/view/4488903948",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Marketing Services",
-   "key": "opportunity hub|marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-10",
-   "is_new": false
-  },
-  {
-   "title": "Marketing Manager",
    "company": "Michael Page Marketing",
    "location": "London",
    "salary_min": null,
@@ -2256,30 +2235,6 @@
    ],
    "other_urls": [],
    "first_seen": "2026-11-13",
-   "is_new": false
-  },
-  {
-   "title": "Organic Marketing Lead",
-   "company": "Emma - we are hiring!",
-   "location": "Islington, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-13",
-   "url": "https://www.linkedin.com/jobs/view/4488941933",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Financial Services",
-   "key": "emma we are hiring|organic marketing lead",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-07",
    "is_new": false
   },
   {
@@ -2419,30 +2374,6 @@
    "company_size": "",
    "company_industry": "Biotechnology Research",
    "key": "vericel corporation|senior marketing manager maci",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-13",
-   "is_new": false
-  },
-  {
-   "title": "Strategy and Content Lead",
-   "company": "vovi®",
-   "location": "London, England, UK",
-   "salary_min": 60000.0,
-   "salary_max": 80000.0,
-   "salary_text": "£60,000–£80,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-13",
-   "url": "https://www.linkedin.com/jobs/view/4490700266",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Advertising Services",
-   "key": "vovi|strategy and content lead",
    "sources": [
     "linkedin"
    ],
