@@ -1,8 +1,12 @@
-# Jobs collected 2026-11-14 (65 new)
+# Jobs collected 2026-11-14 (68 new)
 
 - **Content Manager** — The Chancery Rosewood — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4449998625
 - **EU - Senior Marketing Manager** — Jellycat — salary not stated — London, England, UK — posted 2026-11-14 — linkedin, indeed — https://www.linkedin.com/jobs/view/4491048487
+- **Manager, Publicity - Brand Slate & Live UK** — Netflix — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4480654559
 - **Marketing Manager – HR Technologies UK** — CloserStill Media Germany GmbH — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4488991911
+- **Product & Partner Marketing Manager** — Yonda — £55,000–£70,000 — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491065193
+- **Senior Internal Communications Manager, EMEA & UK** — Ashurst Perkins Coie — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4480669295
+- **Team Lead, Global Alliance Partnerships** — Adyen — £50,538 (estimate) — London, UK — posted 2026-11-14 — adzuna — https://www.adzuna.co.uk/jobs/details/5965598305?utm_medium=api
 - **AVP/Corporate Communications Manager, EMEA** — AllianceBernstein — salary not stated — London, England, UK — posted 2026-11-13 — linkedin, indeed — https://www.linkedin.com/jobs/view/4490738800
 - **B2B Marketing Activation Manager** — LIXIL — salary not stated — London Area, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490753200
 - **Brand Manager** — Checkout.com — salary not stated — London, England, UK — posted 2026-11-13 — linkedin, indeed — https://www.linkedin.com/jobs/view/4488963074
@@ -11,8 +15,8 @@
 - **Brand Manager - Rocketship Food SME - London** — ECW Search — salary not stated — Greater London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4488931849
 - **Business Development & Marketing Manager** — Kingsley Napley — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490757260
 - **Campaign Manager, Commercial (Maternity Cover)** — Copado — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=19cd79261df4ecb4
-- **Campaigns Manager** — Wise — £45,000–£66,000 — London, ENG, UK — posted 2026-11-13 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=99d5047f1a68b12b
 - **Campaigns Manager** — Wise Australia Investments — £45,000–£66,000 — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=c7f5b10d259f55fb
+- **Campaigns Manager** — Wise — £45,000–£66,000 — London, ENG, UK — posted 2026-11-13 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=99d5047f1a68b12b
 - **Content & Social Media Manager** — Togather — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490757523
 - **Content Adaptation Manager** — PE Global — salary not stated — London Area, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490751656
 - **Content Creator** — VML — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=d94f599f1e2baf3f
@@ -30,7 +34,6 @@
 - **Global Account Based Marketing Manager** — Wello Worldwide — salary not stated — London Area, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4488981421
 - **Global Account Based Marketing Manager** — Emplifi — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490762148
 - **Global Marketing Communications Manager** — Civica — salary not stated — London, England, UK — posted 2026-11-13 — linkedin, indeed — https://www.linkedin.com/jobs/view/4490736251
-- **Global Marketing Events Manager - 12- month contract** — Boston Consulting Group (BCG) — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4472316744
 - **Group Social Media & Brand Manager** — Sauce hospitality — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490749514
 - **Influencer Marketing Associate** — Raycon, Inc. — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=99b317d3b813f84d
 - **Manager, Digital & Artist Communications** — Universal Music Group UK — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490736565
@@ -41,7 +44,7 @@
 - **Marketing Manager - Events & Media** — Life Science Connect — salary not stated — London Area, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4473355062
 - **Marketing Manager - Media and Campaigns** — IG Group — salary not stated — City Of London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4452858392
 - **Marketing Manager – HR Technologies UK** — CLOSERSTILL MEDIA — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=0d1687698e5a5ae6
-- **Marketing Operations Manager** — Marcura — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=b8eae1194ced466f
+- **Marketing Operations Manager** — Marcura — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=b8eae1194ced466f
 - **Marketing Placement - June 2027** — Pernod Ricard — salary not stated — London, ENG, UK — posted 2026-11-13 — indeed — https://uk.indeed.com/viewjob?jk=7cebaab79ed9fd71
 - **Marketing Strategist - EMEALA** — Daktronics — salary not stated — London, England, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4487556911
 - **Marketing and Branded Collaborations manager** — MIISTA — salary not stated — London Area, UK — posted 2026-11-13 — linkedin — https://www.linkedin.com/jobs/view/4490755286
