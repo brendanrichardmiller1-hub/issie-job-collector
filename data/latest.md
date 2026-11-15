@@ -1,14 +1,14 @@
-# Jobs collected 2026-11-15 (21 new)
+# Jobs collected 2026-11-15 (20 new)
 
 - **Marketing Acquisition Manager** — Welocalize — £51,149 (estimate) — London, UK — posted 2026-11-15 — adzuna — https://www.adzuna.co.uk/jobs/details/5966733413?utm_medium=api
+- **Product Marketing Manager, Metals** — S&P Global — salary not stated — London, England, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4482685158
 - **Communications Manager** — Cover Genius — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4470219403
 - **Content Strategist** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491086313
 - **Corporate Communications Principal** — Apollo Global Management, Inc. — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4437038172
 - **Digital Marketing Manager - Music** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491083370
-- **Experiential Marketing Manager** — ivee — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4489346198
 - **Growth Marketing Manager** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491069998
 - **Manager, Product Marketing - Global** — DECIEM | THE ABNORMAL BEAUTY COMPANY — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4480678877
-- **Marketing Operations Manager** — Mimecast — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4483138022
+- **Marketing Mix Modelling (MMM) Lead** — Adecco — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4489825836
 - **Mktg Production Manager, Sports, PVI Marketing Production** — Prime Video & Amazon MGM Studios — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4475056502
 - **Product Marketing Manager - UK - 6 months** — OLIVER | The Brandtech Group — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4473364126
 - **Product Marketing Manager, International Product Marketing** — Amazon — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4483120569
@@ -20,4 +20,3 @@
 - **Senior Marketing Manager (International Growth)** — OpenTable — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4473349276
 - **Shopper Marketing Manager** — Church & Dwight Co., Inc. — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4474787564
 - **Sr Product Marketing Manager** — Bell Integration — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4459994711
-- **Sr. Marketing Effectiveness Manager (MMM) - Europe** — Mars — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4481942616

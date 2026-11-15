@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-15T10:56:49.785355+00:00",
+ "generated_at": "2026-11-15T12:56:28.793228+00:00",
  "window_start": "2026-11-14",
  "counts": {
-  "raw": 1042,
-  "after_filters": 54,
-  "new_in_window": 21,
+  "raw": 1073,
+  "after_filters": 48,
+  "new_in_window": 20,
   "dropped": {
-   "title": 835,
+   "title": 872,
    "salary": 1,
-   "location": 23
+   "location": 24
   }
  },
  "jobs": [
@@ -28,6 +28,30 @@
    "key": "welocalize|marketing acquisition manager",
    "sources": [
     "adzuna"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-15",
+   "is_new": true
+  },
+  {
+   "title": "Product Marketing Manager, Metals",
+   "company": "S&P Global",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-15",
+   "url": "https://www.linkedin.com/jobs/view/4482685158",
+   "description": "**About The Role**\n**Grade Level (for internal use):**\n11\n  \n  \n**About the Role:**\nWe are seeking an experienced\n**Product Marketing Manager**\nto join our global Product Marketing team, with responsibility for our Metals portfolio.\n  \n  \nWorking closely with Product Management, Commercial teams, commodity experts and Global Marketing, you will develop and execute go-to-market strategies that connect our products and capabilities with the needs of customers across global metals markets.\n  \n  \nYou will own and evolve product positioning and messaging, lead product launches, create high-impact sales enablement, and help drive\n**customer adoption, retention, market awareness and revenue growth**\n.\n  \n  \nDeep metals expertise is\n**not essential**\n. What matters is curiosity and a willingness to quickly build an understanding of global commodity markets and become the Product Marketing team's go-to expert for Metals.\n  \n  \nThis is a role for someone who combines\n**strategic thinking with hands-on execution**\n: someone equally comfortable shaping a go-to-market strategy, developing a compelling value proposition, partnering with senior stakeholders and turning that strategy into customer-facing campaigns and content.\n  \n  \n**The Team:**\nYou will be part of a dynamic, global Product Marketing team covering the energy and commodities value chain, including oil, gas, power, chemicals, agriculture and metals.\n  \n  \nWe work closely with Product Management, Commercial, Research, commodity experts and Global Marketing to translate market and customer needs into compelling product positioning, successful launches and marketing strategies that support customer and business growth.\n  \n  \n**Responsibilities And Impact**\n**Positioning and messaging**\n\n* Develop and continually refine differentiated, value-led positioning, messaging and customer value propositions.\n* Translate complex product capabilities and market intelligence into clear, compelling customer benefits.\n* Tailor messaging to different personas, customer workflows, products, solutions and stages of the buyer journey.\n\n**Go-to-market strategy**\n\n* Develop and lead go-to-market strategies and marketing plans for Metals products, solutions, launches and strategic initiatives.\n* Use customer, market, competitor and commercial insights to identify opportunities and inform product marketing priorities.\n* Partner with Global Marketing and Demand teams to translate GTM strategy into integrated campaigns and programmes that drive awareness, engagement and commercial outcomes.\n\n**Product launches**\n\n* Lead the product marketing workstream for launches and major product initiatives, from audience definition and positioning through to launch execution and post-launch optimisation.\n* Ensure Product, Commercial and Marketing stakeholders are aligned around the customer value proposition, target audiences and routes to market.\n\n**Content and sales enablement**\n\n* Create high-impact customer and sales content, including pitch decks, battlecards, FAQs, product collateral, videos, infographics and campaign assets.\n* Equip Commercial teams with the messaging, knowledge, tools and training they need to confidently articulate product value and respond to customer needs.\n* Translate technical or complex propositions into accessible, commercially compelling stories.\n\n**Digital, SEO and AI discoverability**\n\n* Take ownership of Metals product and pricing webpages from a Product Marketing perspective.\n* Continuously improve digital customer journeys, content and product discovery.\n* Partner with relevant teams to strengthen SEO, GEO and AI-search discoverability, ensuring our products and expertise can be found as customer search behaviours evolve.\n\n**Measurement and optimisation**\n\n* Define success measures and KPIs for product marketing programmes.\n* Analyse campaign, content, adoption and commercial performance to understand what is working and identify opportunities for optimisation.\n* Use data and customer feedback to continually improve messaging and go-to-market execution.\n\n**Cross-functional leadership**\n\n* Build strong partnerships across Product Management, Commercial, Research, commodity experts and Global Marketing.\n* Bring customer and market perspectives into product and commercial conversations.\n* Influence across teams and senior stakeholders to align priorities and deliver shared business objectives.\n\n**What’s In It For You**\n\n* Shape the story of a leading Metals and Energy intelligence business, translating complex markets and products into compelling customer propositions.\n* Build deep expertise in global commodities and metals markets, where changing supply, demand, policy and market dynamics create new challenges every day.\n* Work on strategic projects with colleagues across Product, Commercial, Research and Marketing around the world.\n* Join a collaborative global Product Marketing team with opportunities to learn across the broader energy and commodities value chain.\n* Work at the intersection of markets, data, technology, AI and customer workflows as the way customers discover and consume market intelligence continues to evolve.\n\n**What We’re Looking For**\n**Basic Required Qualifications**\n\n* Proven experience in Product Marketing, B2B Marketing or a closely related role.\n* Excellent written and verbal communication skills, with the ability to turn complex ideas into clear, compelling customer stories.\n* Strong understanding of product positioning, value propositions and go-to-market strategy.\n* Strategic and analytical thinker with strong problem-solving skills.\n* Ability to develop structured plans from customer, market, product and commercial inputs.\n* Strong stakeholder management and relationship-building skills, including the ability to influence across functions and levels.\n* Customer-focused mindset and an ability to understand different personas, needs and workflows.\n* Strong project management, prioritisation and organisational sk",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Financial Services",
+   "key": "s p global|product marketing manager metals",
+   "sources": [
+    "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-15",
@@ -130,30 +154,6 @@
    "is_new": true
   },
   {
-   "title": "Experiential Marketing Manager",
-   "company": "ivee",
-   "location": "London Area, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4489346198",
-   "description": "We are hiring across events and marketing. Join our talent bank to apply.\n\nThis is a talent bank listing. Apply once and we will consider you for Experiential Marketing Manager and similar roles across the team, now and as we grow. Not sure which role fits? Apply anyway and we will work it out together.\n\n**Apply here:**\nhttps://km8e88imo76.typeform.com/to/k4Cf0NMi\n\n**Location:**\nLondon (hybrid). Our co-working space is dog friendly, with a barista and a gym.\n\n**Who we are**\n\nivee is building the platform that helps everyone actually adopt AI, the layer between powerful models and the people who need to use them. We have an AI Learning App that sits inside your AI tools, helping you get better at AI as you work. Our consulting and upskilling services sit on top, so teams get the tech and the hands-on support to make it stick.\n\nOur north star is simple: no-one should get left behind as AI changes the way we work.\n\nOur clients include Lucky Saint, Red Bull, and Deliveroo. We have been named the UK Government's primary AI upskilling events partner and have trained over 1,000 teams. We recently closed a $1M seed round backed by Steven Bartlett and partners at Microsoft AI, Balderton Capital, and Dawn Capital.\n\nWe move fast, operate with high ownership, and are led by co-founders Amelia Miller (Cambridge Fellow) and Lydia Miller (ex-Deloitte Ventures), both recently named Forbes 30 Under 30. We are building the infrastructure for how a billion people learn to work with AI. We are at the start and growing fast.\n\nThis is your opportunity to join us.\n\n**Why join now**\n\n* **Real ownership:**\n  you will make decisions that shape how ivee grows, not just deliver someone else's plan.\n* **Founder access:**\n  you will work side by side with our co-founders and see how a scaling company runs from the inside.\n* **A say in the product, if you want it:**\n  help shape what we build and why.\n* **Room to grow:**\n  we promote based on output and delivery, not tenure.\n* **A team worth showing up for:**\n  sharp people who do not take life too seriously.\n\n**The role: Experiential Marketing Manager**\n\nYou'll design moments that make AI feel real: hands-on sessions, demos, pop-ups and brand activations people talk about afterwards.\n\n**What you will do**\n\n* Concept and deliver experiential campaigns and activations\n* Design hands-on demos and workshops that make AI click\n* Manage suppliers, budgets and timelines\n* Work with brand and social to capture and share the moment\n* Measure attendance, leads and what people remember\n\n**What we are looking for**\n\n* Experience in experiential, events or brand marketing\n* Creative ideas and the practical skills to deliver them\n* Strong project management\n* Comfortable working with clients, partners and suppliers\n\n**Nice to have**\n\n* Experience with corporate or B2B activations\n* Experience with video or photo content at events\n* Experience working with sponsors or partners\n\n**Our benefits**\n\n* Equity\n* Regular team socials\n* Dog friendly co-working space with barista and gym\n* Pension scheme\n* 25 days annual leave + UK bank holidays\n* Your birthday off\n* Working from abroad allowance (starting at 1 week per year)\n* Unlimited AI credit allowance and AI tool experimentation\n\n**Not a perfect match?**\nIf you tick around half of this list, we would still love to hear from you. We care far more about your mindset and your appetite to learn than a perfect set of skills. Career changers, returners and people from non-traditional backgrounds are very welcome. If you need any adjustments during the process, just tell us.\n\n**Ready?**\nJoin our talent bank: https://km8e88imo76.typeform.com/to/k4Cf0NMi\n\n**How to apply**\n\n* Click apply to join ivee's talent bank for this role\n* Download the ivee app and tell us how you would improve it, or a bug you have found (nice-to-have): https://ivee.jobs/download-ivee-app?utm\\_source=linkedin&utm\\_medium=post&utm\\_campaign=app-launch&utm\\_content=job-copy",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Professional Training and Coaching",
-   "key": "ivee|experiential marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-15",
-   "is_new": true
-  },
-  {
    "title": "Growth Marketing Manager",
    "company": "Tribal Recruitment - The UK's Leading Digital & R2R Recruiters",
    "location": "London Area, UK",
@@ -202,22 +202,22 @@
    "is_new": true
   },
   {
-   "title": "Marketing Operations Manager",
-   "company": "Mimecast",
+   "title": "Marketing Mix Modelling (MMM) Lead",
+   "company": "Adecco",
    "location": "London, England, UK",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "contract",
    "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4483138022",
-   "description": "London\n  \n  \n**About Mimecast**\nThe work people build is worth protecting, and it's harder to protect than it used to be. AI agents now move at machine speed with human-level access, and a small slip-up can become a very public one. We disrupt cybercriminal activity before that happens. We think fast, go big, and always demand more of ourselves. We work hard, deliver, and repeat. We grow with real determination and put success well within reach. We push each other to be better and expect to be pushed back, in a community built on respect, where everyone is counted. Work Protected.\n  \n  \n**Overview**\nMarketing Operations at Mimecast connects marketing to revenue: we architect, govern and scale the systems, data, processes that make campaign execution agile, lead quality high, and pipeline conversion measurable. We are an AI first Team: human expertise combined with AI agents built to handle the repeatable, high-volume work, so our capacity to deliver grows faster than our headcount.\n  \n  \nWe are rebuilding lead management from the ground up. Our BDR coverage model, our scoring approach, and our routing logic are all changing at the same time, and the system that got us here won't carry us forward. We're hiring someone to design the new one, not to maintain the old one.\n  \n  \nAs a Marketing Operations Manager, you will own lead management end-to-end: campaign orchestration in support of demand generation, predictive lead scoring, enrichment and data quality governance, and routing that gets every lead to the correct recipient for timely evaluation and follow-up. You'll define the model, not only operate the tools that run it.\n  \n  \nYou'll manage outcomes, workflows, and AI agents rather than people. Reporting to the Director of Marketing Operations, you'll work alongside our Marketing Automation and GTM Engineering specialists, and you'll hold the design decisions for lead management end to end.\n  \n  \nWhat You'll Do\n  \n  \nCampaign & Audience Execution\n  \n  \n\n* Take an audience-first approach to every campaign: build, segment, and continuously optimise target lists so each send reaches the right audience against that campaign's specific objective.\n* Own campaign orchestration end to end, turning requirements into scalable, self-service workflows that free marketers from manual list-building and repetitive setup.\n* Act as the hands-on technical partner behind complex, multi-region programs from webinars and events to intent-driven lifecycle campaigns.\n\nLead Intelligence, Scoring & Routing\n  \n  \n\n* Own lead scoring end to end: build the model, validate it against pipeline outcomes, and evolve it from rules-based to predictive.\n* Govern data quality and enrichment across the funnel: cleansing, deduplication, and enrichment that keeps data usable. Extending data ownership beyond the marketing automation platform in partnership with GTM Operations and IT.\n* Bring strong command of lead routing tools with such as Traction and Qualified, so every lead lands with the right person, at the right time, for timely evaluation and follow-up.\n\nAI Agents & MarTech Stack\n  \n  \n\n* Direct and continuously improve the AI agents responsible for campaign orchestration, lead scoring, and routing. You will set the rules, review the output, and make judgement based decisions.\n* Manage campaign activation via Marketo and Salesforce, alongside intent and enrichment tools like 6Sense, Qualified, and UserGems, so signal flows cleanly from first touch through to conversion.\n\nPartnership & Enablement\n  \n  \n\n* Be the consultative partner marketers turn to for managing lead quality and follow up.\n* Help the wider team get more from AI and automation, building confidence and self-sufficiency as our tools mature.\n* Partner across GTM, Data, IT, Legal teams to enable campaign solutions that are fast, reliable, and responsible.\n\nWhat You'll Bring\n  \n  \n\n* Solid experience marketing operations, demand generation operations, role with direct ownership of lead management, scoring, routing and data quality.\n* Hands-on experience with Marketo and Salesforce, including how lead and account data flows between them.\n* Experience with intent and automation platforms such as 6Sense, Clay, G2 and Usergems. Understand signal quality, not just tool configuration.\n* Expertise in lead routing and lifecycle tools such as Traction (or an equivalent LeanData), and how routing logic connects to scoring, territory rules, and sales handoff.\n* Experience creating automations, integrations, internal tools, or AI-powered workflows that have been adopted by their intended users.\n* Comfort working with data, APIs, and technical systems. You do not need to be a software engineer. You should be interested in building, troubleshooting, and continuing to develop your technical skills.\n* The ability to understand complex or evolving business needs and translate them into practical, scalable solutions.\n* Clear communication and documentation skills for non-technical audiences.\n* A continuous-improvement mindset and an interest in identifying opportunities, reducing bottlenecks, and making recurring work more efficient.\n\n*The base salary range for this position is £60,000 - £90,000 base + benefits. This reflects the minimum and maximum target for new hire salaries for this position. This position may also be eligible for incentive plans and other related benefits. Our salary ranges are determined by role, level, and location. These factors and individual capabilities will also determine the individual pay offered.*\nBelonging at Mimecast\n  \n  \nCybersecurity is a community effort. That's why we're committed to building an inclusive, diverse community that celebrates and welcomes everyone – unless they're a cybercriminal, of course.\n  \n  \nWe're proud to be an Equal Opportunity and Affirmative Action Employer, and we'd encourage you to join us whatever your background. We particularly welcome applicants from traditionally underrepresented groups.\n  \n  \nWe conside",
+   "url": "https://www.linkedin.com/jobs/view/4489825836",
+   "description": "**Marketing Effectiveness Lead**\n**Marketing Mix Models (MMM)**\n**Location:**\nLondon, United Kingdom (Hybrid: Tuesday, Wednesday & Thursday in-office)\n  \n  \n**Contract:**\n12-Month Contract\n  \n  \n**Pay Rate:**\n£46.15 per hour\n  \n  \n**About The Role**\nWe are seeking an experienced Marketing Effectiveness Lead to join a high-performing team focused on driving business growth through data-driven sales strategies, customer insights, and marketing effectiveness solutions.\n  \n  \nThis role will suit someone with a strong background in digital advertising, media effectiveness, marketing analytics, or commercial strategy who is passionate about helping clients unlock growth opportunities through consultative selling and actionable insights.\n  \n  \nYou will work closely with customers, agencies, and cross-functional stakeholders to develop strategic recommendations, deliver workshops, support product adoption, and identify revenue growth opportunities.\n  \n  \n**Key Responsibilities**\n\n* Analyse complex business and marketing data to uncover actionable insights and strategic opportunities.\n* Deliver data-driven recommendations to clients, stakeholders, and leadership teams.\n* Build and strengthen relationships with customers and internal stakeholders, acting as a trusted advisor.\n* Develop and execute sales and product strategies to drive adoption, revenue growth, and customer success.\n* Lead client-facing workshops, presentations, and strategic discussions.\n* Identify opportunities to improve processes, workflows, and product effectiveness.\n* Share best practices, sales strategies, and market intelligence across teams.\n* Collaborate with cross-functional teams to create solutions that address client challenges and business objectives.\n* Influence stakeholders through strong commercial acumen, strategic thinking, and consultative engagement.\n\n**Required Experience**\nExpertise in running\n**Marketing Mix Models (MMM)**\nfrom either a client-side or agency environment.\n  \n  \n**Strong Experience In**\n\n* Sales and partnership strategy\n* Marketing analytics and data interpretation\n* Customer consulting and stakeholder management\n* Opportunity and pipeline management\n* Strategic problem-solving\n* Influencing and negotiation\n* Revenue growth initiatives\n* Presenting recommendations to senior stakeholders\n\n**Preferred Experience**\n\n* Experience working in a consultative client-facing role.\n* Understanding of advertising effectiveness and brand measurement methodologies.\n* Knowledge of digital marketing, media measurement, and marketing performance analysis.\n* Experience translating complex data into clear business recommendations.\n\n**Ideal Candidate**\nYou are commercially minded, analytical, and comfortable working with senior stakeholders. You can turn data into compelling stories, drive strategic conversations, and help businesses make informed decisions that deliver measurable outcomes.\n  \n  \nAdecco acts as an employment agency for permanent recruitment and an employment business for the supply of temporary workers. The Adecco Group UK & Ireland is an Equal Opportunities Employer.\n  \n  \nBy applying for this role your details will be submitted to Adecco. Our Candidate Privacy Information Statement explaining how we will use your information is available on our website.",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "IT Services and IT Consulting, Software Development, and Computer and Network Security",
-   "key": "mimecast|marketing operations manager",
+   "company_industry": "Staffing and Recruiting",
+   "key": "adecco|marketing mix modelling lead",
    "sources": [
     "linkedin"
    ],
@@ -490,30 +490,6 @@
    "is_new": true
   },
   {
-   "title": "Sr. Marketing Effectiveness Manager (MMM) - Europe",
-   "company": "Mars",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4481942616",
-   "description": "**Job Description**\nThe Sr. Marketing Effectiveness Manager is responsible for the successful delivery, adoption and continuous improvement of the Marketing Mix Modelling (MMM) capability across their region. Acting as the regional owner of the capability, the role leads the end-to-end execution of the regional roadmap, ensuring high-quality model delivery, stakeholder engagement and business value realisation.\n  \n  \nWorking closely with market teams, MMM vendors, Data & Digital teams and the broader Global MMM team, the role ensures regional priorities are delivered in alignment with global standards while identifying opportunities to enhance the capability through continuous improvement.\n  \n  \nThe Senior MMM Manager serves as the primary business partner for markets, ensuring MMM insights are translated into actionable business decisions and embedded into ongoing marketing planning and investment processes.\n  \n  \n**What are we looking for?**\n\n* 6–10+ years' experience in Marketing Mix Modelling, marketing analytics, commercial analytics or marketing effectiveness.\n* Proven experience delivering end-to-end MMM projects from business requirements, data preparation, data science through to business recommendations.\n* Demonstrated and strong project management and stakeholder management and communication skills.\n* Experience working directly with MMM vendors or analytics consultancies.\n* Experience working across multiple markets within a regional or global organisation is highly desirable.\n* Ability to interpret modelling outputs and translate findings into actionable business recommendations.\n\n**What will be your key responsibilities?**\n**Regional Roadmap & Programme Delivery**\n\n* Own and execute the regional MMM roadmap, ensuring delivery milestones, priorities and business commitments are achieved.\n* Lead programme planning, governance and execution across all markets within the region.\n* Facilitate working groups, steering meetings and project governance forums.\n* Monitor programme progress, proactively managing risks, issues, dependencies and mitigation plans.\n* Produce regular status reporting and provide clear escalation of risks and decisions to regional and global leadership.\n* Coordinate cross-functional activities across markets, Digital, Data, vendors and business stakeholders to ensure successful delivery.\n\n**End-to-End MMM Delivery**\n\n* Lead the end-to-end execution of MMM studies across assigned markets.\n* Partner with market teams, Digital and Vendors to ensure data quality, business validation and model readiness prior to modelling activities.\n* Review model outputs, challenge results where appropriate and ensure analytical quality before business release.\n* Develop market-specific insight reports and strategic recommendations based on modelling outcomes.\n* Support quality assurance and validation of outputs within MMM platforms and reporting tools.\n\n**Business Partnership & Stakeholder Management**\n\n* Act as the primary MMM business partner for regional marketing, media and commercial teams.\n* Facilitate insight workshops and business review sessions to support interpretation and application of MMM findings.\n* Capture business requirements and translate market needs into product enhancements and capability improvements.\n* Drive adoption of MMM recommendations within annual planning and media investment decisions.\n* Build trusted relationships across markets and act as the regional advocate for the MMM capability.\n\n**Continuous Improvement & Product Development**\n\n* Maintain and prioritise the regional backlog of enhancements, data improvements and capability requirements.\n* Identify opportunities to improve data quality, modelling processes and business adoption.\n* Partner with the Global MMM Operations & Governance Manager to ensure regional improvements are aligned with global standards and product roadmaps.\n* Contribute regional learnings, feature requests and innovation ideas to support the evolution of the global capability.\n* Ensure regional documentation, process maps and knowledge assets remain current and consistent.\n\n**Governance, Adoption & Value Realisation**\n\n* Ensure all regional activities comply with global governance, modelling standards and operating procedures.\n* Owns regional adoption, training, business outcomes and value delivered through the MMM capability.\n* Support the measurement and reporting of regional performance against defined KPIs.\n* Share best practices, lessons learned and successful case studies with the global MMM community.\n\n**What can you expect from Mars?**\n\n* Work with diverse and talented Associates, all guided by the Five Principles.\n* Join a purpose driven company, where we’re striving to build the world we want tomorrow, today.\n* A strong focus on learning and development support from day one, including access to our in-house Mars University.\n* An industry competitive salary and benefits package, including company bonus.\n\n#TBdigital",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Food and Beverage Manufacturing",
-   "key": "mars|sr marketing effectiveness manager europe",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-15",
-   "is_new": true
-  },
-  {
    "title": "Customer Experience & Communications Manager",
    "company": "Policy Expert",
    "location": "London, UK",
@@ -655,78 +631,6 @@
    "is_new": false
   },
   {
-   "title": "Manager, Publicity - Brand Slate & Live UK",
-   "company": "Netflix",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4480654559",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Entertainment Providers",
-   "key": "netflix|manager publicity brand slate live",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-14",
-   "is_new": false
-  },
-  {
-   "title": "Marketing Lead",
-   "company": "Omaze",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4464518215",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Entertainment Providers and Broadcast Media Production and Distribution",
-   "key": "omaze|marketing lead",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-12",
-   "is_new": false
-  },
-  {
-   "title": "Product & Partner Marketing Manager",
-   "company": "Yonda",
-   "location": "London Area, UK",
-   "salary_min": 55000.0,
-   "salary_max": 70000.0,
-   "salary_text": "£55,000–£70,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4491065193",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "IT Services and IT Consulting, Financial Services, and Accounting",
-   "key": "yonda|product partner marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-14",
-   "is_new": false
-  },
-  {
    "title": "Product Marketing Lead",
    "company": "Kernel",
    "location": "London Area, UK",
@@ -743,30 +647,6 @@
    "company_size": "",
    "company_industry": "Software Development",
    "key": "kernel|product marketing lead",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-14",
-   "is_new": false
-  },
-  {
-   "title": "Senior Internal Communications Manager, EMEA & UK",
-   "company": "Ashurst Perkins Coie",
-   "location": "London Area, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4480669295",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Law Practice",
-   "key": "ashurst perkins coie|senior internal communications manager emea",
    "sources": [
     "linkedin"
    ],
@@ -815,30 +695,6 @@
    "company_size": "",
    "company_industry": "Software Development",
    "key": "grafana labs|senior product marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-14",
-   "is_new": false
-  },
-  {
-   "title": "senior manager, brand engagement and social media (EMEA)",
-   "company": "Starbucks EMEA",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4446566173",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Manufacturing, Food and Beverage Services, and Retail",
-   "key": "starbucks emea|senior manager brand engagement and social media",
    "sources": [
     "linkedin"
    ],
