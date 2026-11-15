@@ -1,73 +1,31 @@
 {
- "generated_at": "2026-11-15T07:54:33.480959+00:00",
+ "generated_at": "2026-11-15T10:56:49.785355+00:00",
  "window_start": "2026-11-14",
  "counts": {
-  "raw": 1089,
-  "after_filters": 56,
-  "new_in_window": 24,
+  "raw": 1042,
+  "after_filters": 54,
+  "new_in_window": 21,
   "dropped": {
-   "title": 861,
-   "salary": 6,
+   "title": 835,
+   "salary": 1,
    "location": 23
   }
  },
  "jobs": [
   {
-   "title": "Content Policy Counsel",
-   "company": "Amazon UK Services Ltd.",
+   "title": "Marketing Acquisition Manager",
+   "company": "Welocalize",
    "location": "London, UK",
-   "salary_min": 54164.93,
-   "salary_max": 54164.93,
-   "salary_text": "£54,165",
+   "salary_min": 51149.32,
+   "salary_max": 51149.32,
+   "salary_text": "£51,149",
    "salary_is_estimate": true,
    "work_pattern": "",
    "contract": "full_time",
    "date_posted": "2026-11-15",
-   "url": "https://www.adzuna.co.uk/jobs/details/5966625824?utm_medium=api",
-   "description": "Amazon's Content Policy Legal Team is looking for a lawyer to advise on global content policy and online safety across Amazon's products and services. In this role, you will partner with Amazon's public policy teams to analyse proposed content policy and online safety legislation around the world and develop Amazon's legal positions. As new laws take effect, you will advise teams across Amazon on compliance strategies and partner with product counsel and business teams to implement practical so…",
-   "key": "amazon services|content policy counsel",
-   "sources": [
-    "adzuna"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-15",
-   "is_new": true
-  },
-  {
-   "title": "Marketing Category Manager – Bakery to Major Multi retail",
-   "company": "Midas",
-   "location": "London, UK",
-   "salary_min": 55000.0,
-   "salary_max": 55000.0,
-   "salary_text": "£55,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "contract",
-   "date_posted": "2026-11-15",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5966664850?se=iPm-98rg8RGNl561rfNY_A&utm_medium=api&v=4167422958BDD3E6A09596175B34173C66506E95",
-   "description": "Marketing Category Manager – Bakery to Major Mult retail REWARDS: 55K basic Salary, plus car allowance and benefits Location: 1) Leicester Or 2) West London Unique Trainee National Account Manager position with a market leading European bakery manufacturer THE COMPANY : We are a company who have been established for a number years in providing bakery solutions to the Foodservice sector. Our extensive product range can be found in many in-store bakeries within retail across the UK – both with Ma…",
-   "key": "midas|marketing category manager bakery to major multi retail",
-   "sources": [
-    "adzuna"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-15",
-   "is_new": true
-  },
-  {
-   "title": "Media Communications Expert - Fully Remote",
-   "company": "Mercor",
-   "location": "London, UK",
-   "salary_min": 37460.78,
-   "salary_max": 37460.78,
-   "salary_text": "£37,461",
-   "salary_is_estimate": true,
-   "work_pattern": "",
-   "contract": "contract",
-   "date_posted": "2026-11-15",
-   "url": "https://www.adzuna.co.uk/jobs/details/5966482664?utm_medium=api",
-   "description": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Creative & Media Expert Type: Contract Compensation: $80–$90/hour Location: Remote Role Responsibilities Write realistic creative briefs based on professional practice. Include a clear audience, constraints, and a single end deliverable. Prepa…",
-   "key": "mercor|media communications expert fully",
+   "url": "https://www.adzuna.co.uk/jobs/details/5966733413?utm_medium=api",
+   "description": "If you have a Candidate Login already, but have forgotten your password please use the steps to reset your password. If you have forgotten your email login, please contact servicedesk@welocalize.com subject Workday Candidate Login When creating your Workday account and entering personal information like name, address, please do not use ALL CAPS. Thank you! NOTICE: For Privacy Policy please review here Job Responsibilities: The Marketing Acquisition Manager is responsible for driving customer ac…",
+   "key": "welocalize|marketing acquisition manager",
    "sources": [
     "adzuna"
    ],
@@ -556,28 +514,49 @@
    "is_new": true
   },
   {
-   "title": "Technical Marketing Lead, EMEA - Bose Luxury (McIntosh & Sonus faber)",
-   "company": "Bose Corporation",
-   "location": "City Of London, England, UK",
+   "title": "Customer Experience & Communications Manager",
+   "company": "Policy Expert",
+   "location": "London, UK",
+   "salary_min": 48342.81,
+   "salary_max": 48342.81,
+   "salary_text": "£48,343",
+   "salary_is_estimate": true,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-15",
+   "url": "https://www.adzuna.co.uk/jobs/details/5966733011?utm_medium=api",
+   "description": "",
+   "key": "policy expert|customer experience communications manager",
+   "sources": [
+    "adzuna"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-13",
+   "is_new": false
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "company": "Marks and Spencer",
+   "location": "London, England, UK",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
    "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4446825825",
-   "description": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.\n  \n  \nToday, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.\n  \n  \n**Job Description**\nThe Technical Marketing Lead serves as the technical face of Bose Luxury across EMEA, combining partner enablement, system design consultation, installation support, and hands-on product demonstrations to elevate brand experiences and drive commercial success.\n  \n  \nThis highly visible, field-based role blends technical expertise, client engagement, and experiential marketing. The individual will lead technical training initiatives, support system design and installation projects, and play a hands-on role in commissioning, calibrating, and demonstrating Bose Luxury systems for dealers, partners, clients, and marketing activations throughout the region.\n  \n  \nActing as both a trusted technical advisor and client-facing specialist, the Technical Marketing Lead works directly with high-net-worth clients, architects, interior designers, consultants, dealers, and integrators to support product selection, system design, and project execution. This role is instrumental in influencing successful sales outcomes while ensuring every installation and customer interaction reflects the highest standards of performance, craftsmanship, and brand excellence.\n  \n  \nPrior experience with high-end 2-channel audio systems and custom installation environments is required. This role is a field-based position requiring travel.\n  \n  \n**Roles & Responsibilities**\nTechnical Training & Partner Enablement (EMEA)\n  \n  \n\n* Design and deliver technical training programs covering product architecture, system design, installation, and calibration.\n* Facilitate workshops, certification programs, onboarding sessions, and partner education initiatives.\n* Build technical capabilities across dealers, distributors, and integration partners.\n* Serve as a subject matter expert and technical resource for the EMEA market.\n\nPre-Sales Technical Support & Client Advisory\n  \n  \n\n* Provide technical consultation on system design, product selection, and project planning.\n* Engage directly with luxury clients, architects, designers, consultants, and integration partners.\n* Translate technical solutions into compelling customer benefits and exceptional listening experiences.\n* Support business development efforts and contribute to project conversion.\n\nSystem Commissioning, Calibration & Performance Optimization\n  \n  \n\n* Lead system setup, commissioning, calibration, and performance optimization efforts.\n* Support flagship installations, experience centers, and demonstration spaces across EMEA.\n* Install, configure, and demonstrate systems for events, pop-ups, trade shows, and brand activations.\n* Ensure all systems deliver best-in-class performance and customer experiences.\n\nPost-Sales Technical Support\n  \n  \n\n* Troubleshoot and resolve technical issues for partners and customers.\n* Provide guidance on system optimization, upgrades, and enhancements.\n* Develop and maintain technical documentation, standards, and best practices.\n* Support continuous improvement initiatives to enhance customer satisfaction.\n\nCross-Functional Collaboration\n  \n  \n\n* Partner closely with Sales, Marketing, Experience, and Product teams.\n* Support dealer success, project conversion, and customer satisfaction objectives.\n* Provide field and customer insights to influence product development, training programs, and customer experiences.\n* Represent the voice of the market by identifying emerging trends, opportunities, and customer needs.\n\n**Experience & Skills**\n\n* Required experience with high-end 2-channel audio systems and custom installation environments.\n* Demonstrated expertise in system design, installation, commissioning, and calibration.\n* Experience delivering technical training, workshops, and partner enablement programs.\n* Strong troubleshooting, problem-solving, and communication skills.\n* Ability to confidently engage with luxury clientele, architects, designers, consultants, and integration partners.\n* Experience supporting events, demonstrations, activations, or customer experiences preferred.\n* Experience within luxury audio, premium consumer electronics, custom integration, or high-end AV environments strongly preferred.\n* Ability to travel extensively throughout EMEA to support client engagements, training, installations, and brand activations.\n\nAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Milano, Milano is: €39,500-€57,275.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.\n  \n  \n‎",
+   "date_posted": "2026-11-15",
+   "url": "https://www.linkedin.com/jobs/view/4490358850",
+   "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Computers and Electronics Manufacturing",
-   "key": "bose corporation|technical marketing lead emea bose luxury",
+   "company_industry": "Retail",
+   "key": "marks and spencer|senior marketing manager",
    "sources": [
     "linkedin"
    ],
    "other_urls": [],
-   "first_seen": "2026-11-15",
-   "is_new": true
+   "first_seen": "2026-11-13",
+   "is_new": false
   },
   {
    "title": "Communications Manager - Europe (6635)",
@@ -601,30 +580,6 @@
    ],
    "other_urls": [],
    "first_seen": "2026-11-13",
-   "is_new": false
-  },
-  {
-   "title": "Content Manager",
-   "company": "The Chancery Rosewood",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-14",
-   "url": "https://www.linkedin.com/jobs/view/4449998625",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Hospitality",
-   "key": "chancery rosewood|content manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-14",
    "is_new": false
   },
   {

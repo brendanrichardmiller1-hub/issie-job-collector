@@ -1,8 +1,6 @@
-# Jobs collected 2026-11-15 (24 new)
+# Jobs collected 2026-11-15 (21 new)
 
-- **Content Policy Counsel** — Amazon UK Services Ltd. — £54,165 (estimate) — London, UK — posted 2026-11-15 — adzuna — https://www.adzuna.co.uk/jobs/details/5966625824?utm_medium=api
-- **Marketing Category Manager – Bakery to Major Multi retail** — Midas — £55,000 — London, UK — posted 2026-11-15 — adzuna — https://www.adzuna.co.uk/jobs/land/ad/5966664850?se=iPm-98rg8RGNl561rfNY_A&utm_medium=api&v=4167422958BDD3E6A09596175B34173C66506E95
-- **Media Communications Expert - Fully Remote** — Mercor — £37,461 (estimate) — London, UK — posted 2026-11-15 — adzuna — https://www.adzuna.co.uk/jobs/details/5966482664?utm_medium=api
+- **Marketing Acquisition Manager** — Welocalize — £51,149 (estimate) — London, UK — posted 2026-11-15 — adzuna — https://www.adzuna.co.uk/jobs/details/5966733413?utm_medium=api
 - **Communications Manager** — Cover Genius — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4470219403
 - **Content Strategist** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491086313
 - **Corporate Communications Principal** — Apollo Global Management, Inc. — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4437038172
@@ -23,4 +21,3 @@
 - **Shopper Marketing Manager** — Church & Dwight Co., Inc. — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4474787564
 - **Sr Product Marketing Manager** — Bell Integration — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4459994711
 - **Sr. Marketing Effectiveness Manager (MMM) - Europe** — Mars — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4481942616
-- **Technical Marketing Lead, EMEA - Bose Luxury (McIntosh & Sonus faber)** — Bose Corporation — salary not stated — City Of London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4446825825
