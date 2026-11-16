@@ -1,22 +1,17 @@
-# Jobs collected 2026-11-15 (20 new)
+# Jobs collected 2026-11-16 (15 new)
 
-- **Marketing Acquisition Manager** — Welocalize — £51,149 (estimate) — London, UK — posted 2026-11-15 — adzuna — https://www.adzuna.co.uk/jobs/details/5966733413?utm_medium=api
-- **Product Marketing Manager, Metals** — S&P Global — salary not stated — London, England, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4482685158
-- **Communications Manager** — Cover Genius — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4470219403
-- **Content Strategist** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491086313
-- **Corporate Communications Principal** — Apollo Global Management, Inc. — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4437038172
-- **Digital Marketing Manager - Music** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491083370
-- **Growth Marketing Manager** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491069998
-- **Manager, Product Marketing - Global** — DECIEM | THE ABNORMAL BEAUTY COMPANY — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4480678877
-- **Marketing Mix Modelling (MMM) Lead** — Adecco — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4489825836
-- **Mktg Production Manager, Sports, PVI Marketing Production** — Prime Video & Amazon MGM Studios — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4475056502
-- **Product Marketing Manager - UK - 6 months** — OLIVER | The Brandtech Group — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4473364126
-- **Product Marketing Manager, International Product Marketing** — Amazon — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4483120569
-- **Public Relations & Communications Manager** — Kraken — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4472580161
-- **Race Communications Manager** — Formula E — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491072919
-- **Senior Account Manager, Marketplace Demand Partnerships (Fluent/Proficient in French and English) - Comcast Advertising** — Comcast — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4491098011
-- **Senior Manager of Global Communications** — Quince — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4473365927
-- **Senior Market Strategy and Partnerships Manager - Theatre** — Fever — salary not stated — London Area, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4416839818
-- **Senior Marketing Manager (International Growth)** — OpenTable — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4473349276
-- **Shopper Marketing Manager** — Church & Dwight Co., Inc. — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4474787564
-- **Sr Product Marketing Manager** — Bell Integration — salary not stated — London, England, UK — posted 2026-11-14 — linkedin — https://www.linkedin.com/jobs/view/4459994711
+- **Brand Communications & Marketing Specialist** — Welly Ltd — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4491296175
+- **Brand Manager** — Yibi Hantang | China Lifestyle Extension Licensing Partner — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489713427
+- **Brand Strategy Manager – China Market Localization** — Yibi Hantang | China Lifestyle Extension Licensing Partner — salary not stated — Greater London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489715258
+- **Digital Marketing & Media Specialist** — Welly Ltd — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4491282711
+- **HEAVYWEIGHT MARKETING MANAGER – Major Food Brand [£100K+SALARY]** — Tarsh & Partners Marketing Recruitment — £90,000–£110,000 — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4478937579
+- **Product Marketing Manager** — Yibi Hantang | China Lifestyle Extension Licensing Partner — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489708514
+- **Regional Marketing Manager, Europe – BytePlus** — ByteDance — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490267392
+- **Senior Creative** — NSPCC — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4491287481
+- **Brand Manager Global Originals, Prime Video International, 12 month Fixed Term Contract, Marketing** — Prime Video & Amazon MGM Studios — salary not stated — London, England, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4457309796
+- **Communications Manager** — We Make Change — salary not stated — London Area, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4491275199
+- **Field Marketing Manager** — Alternateam Limited — £41,000–£45,000 — London, ENG, UK — posted 2026-11-15 — indeed — https://uk.indeed.com/viewjob?jk=4f2ef68b983cc0f9
+- **Founding Team Member: Operations, Growth & Partnerships** — Whitchurch Wellness — salary not stated — Greater London, England, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4491267487
+- **MarComms Intelligence Data Lead** — RSM UK — salary not stated — Greater London, England, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4464898239
+- **Midweight Content Producer [AQ-26838]** — Aquent — £546,000–£682,500 — London, England, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4489381790
+- **Performance Creative Lead, Europe** — Whatnot — £99,000–£121,000 — London, England, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4456052818
