@@ -1,26 +1,42 @@
-# Jobs collected 2026-11-16 (25 new)
+# Jobs collected 2026-11-16 (41 new)
 
+- **Brand Manager** — TipTopJob — salary not stated — City Of Westminster, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489760771
 - **Brand Manager** — MacGregor Black — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489721909
 - **Brand Manager** — Yibi Hantang | China Lifestyle Extension Licensing Partner — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489713427
 - **Brand Strategy Manager – China Market Localization** — Yibi Hantang | China Lifestyle Extension Licensing Partner — salary not stated — Greater London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489715258
-- **Brand and Content Marketing Specialist (Remote | $50–$105/hr)** — Synthires — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4487149261
 - **CRM Campaign & Planning Manager** — Groupe Clarins — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4491505591
+- **Communications Manager - 12 month FTC** — Slaughter and May — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490298413
 - **Communications Manager - EMEA (12 Month FTC)** — Stagwell — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490294335
+- **Communications Manager, Breathe Cities** — C40 Cities — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490607509
 - **Consumer Data Platform & Marketing Activation Lead** — Logitech — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4446752388
+- **Content Adaptation Manager** — Trust In SODA — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490290786
+- **Global Brand Manager** — DESIGNER PARFUMS — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489776063
+- **Global Partnerships & Memberships Lead** — Arup — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489743745
 - **HEAVYWEIGHT MARKETING MANAGER – Major Food Brand [£100K+SALARY]** — Tarsh & Partners Marketing Recruitment — £90,000–£110,000 — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4478937579
+- **Manager, Comms Design** — Initiative — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489762282
 - **Manager, Marketing Insights & Operations — EMEA** — Databricks — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4473602997
+- **Manager, Membership Expansion (Branded Channels)** — the LEGO Group — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489735840
 - **Marketing & Events executive** — Ambition Europe Limited — salary not stated — London — posted 2026-11-16 — reed — https://www.reed.co.uk/jobs/marketing-events-executive/57570783
-- **Marketing Manager** — Gordon Ramsay Restaurants — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489738430
+- **Marketing Lead - Identity Security** — Aspiron Search — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4481204291
+- **Marketing Manager** — Caselton Clark — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489742391
 - **Marketing Manager** — That Time — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489729583
+- **Marketing Manager** — Teneo — £63,555 (estimate) — London, UK — posted 2026-11-16 — adzuna — https://www.adzuna.co.uk/jobs/land/ad/5967810003?se=hDy5gMbh8RGDtoxXJCvQRQ&utm_medium=api&v=47696C23F5B657BB4E9CB90D8BDAA614F3240C30
+- **Marketing Manager - Recruitment Technology** — PIE Recruitment — £50,000–£55,000 — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4487162357
 - **Marketing Planner** — Fortnum & Mason — salary not stated — Greater London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4491519007
+- **Product Marketing Manager** — Inspired Selection — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489769412
 - **Product Marketing Manager** — Yibi Hantang | China Lifestyle Extension Licensing Partner — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489708514
 - **Regional Marketing Manager, Europe – BytePlus** — ByteDance — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490267392
+- **Senior Communications Executive - Tech B2B** — PRFutures — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4488225465
 - **Senior Digital Marketing Campaign Manager** — Armstrong Lloyd - Marketing & Sales Recruitment — £70,000–£80,000 — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4491256725
 - **Senior Influencer Campaigns Manager** — Charlie Oscar — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490290573
+- **Senior Marketing Executive** — Lumon — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4485209552
+- **Senior Marketing Manager** — COREcruitment Ltd — £60,000–£75,000 — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489753625
 - **Senior Marketing Manager - 6 mth FTC** — Stopgap - Marketing, Digital & Creative Recruitment — salary not stated — Croydon, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489732310
-- **Social Creative Lead** — Simply Social — salary not stated — London Area, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489738434
+- **Senior Marketing Operations Manager, EMEA** — Verkada — salary not stated — Greater London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4446946649
+- **Senior Product Marketing Manager** — Levellr — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490607106
 - **Social Media and Content Manager (Japanese Speaker)** — Agoda — salary not stated — London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4489729763
 - **Subscriptions Marketing Manager** — emap — salary not stated — City Of London, England, UK — posted 2026-11-16 — linkedin — https://www.linkedin.com/jobs/view/4490298130
+- **Technical Project Manager - Contact Centre Unified Comms** — Randstad Technologies Recruitment — £104,000–£104,260 — Farringdon, Central London — posted 2026-11-16 — adzuna — https://www.adzuna.co.uk/jobs/land/ad/5967815750?se=hDy5gMbh8RGDtoxXJCvQRQ&utm_medium=api&v=43FE54A290ABC494DC3153FE1C8711B4EC470975
 - **Brand Manager Global Originals, Prime Video International, 12 month Fixed Term Contract, Marketing** — Prime Video & Amazon MGM Studios — salary not stated — London, England, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4457309796
 - **Communications Manager** — We Make Change — salary not stated — London Area, UK — posted 2026-11-15 — linkedin — https://www.linkedin.com/jobs/view/4491275199
 - **Field Marketing Manager** — Alternateam Limited — £41,000–£45,000 — London, ENG, UK — posted 2026-11-15 — indeed — https://uk.indeed.com/viewjob?jk=4f2ef68b983cc0f9
