@@ -1,14 +1,14 @@
-# Run report — 2026-11-17 14:50 UTC
+# Run report — 2026-11-18 08:36 UTC
 
 ## Sources
 - **linkedin**: 400 raw results
-- **indeed**: 254 raw results
-- **reed**: 40 jobs posted in the last 2 days
+- **indeed**: 280 raw results
+- **reed**: 59 jobs posted in the last 2 days
 - **adzuna**: 50 results from the last day (1 call(s) max per run)
-- **employer job boards**: 10 boards read, 579 open roles in total (before filtering)
+- **employer job boards**: 10 boards read, 588 open roles in total (before filtering)
 
 ## Totals
-- raw results: 1323
-- dropped by filters: {'title': 803, 'location': 42, 'salary': 18}
-- unique jobs after filters: 129
-- new in the last ~24h: 94
+- raw results: 1377
+- dropped by filters: {'salary': 20, 'title': 829, 'location': 34}
+- unique jobs after filters: 137
+- new in the last ~24h: 50
