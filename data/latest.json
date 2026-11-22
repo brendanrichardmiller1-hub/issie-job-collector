@@ -1,16 +1,40 @@
 {
- "generated_at": "2026-11-22T08:03:51.069159+00:00",
+ "generated_at": "2026-11-22T11:27:50.975643+00:00",
  "window_start": "2026-11-21",
  "counts": {
-  "raw": 1018,
-  "after_filters": 60,
-  "new_in_window": 21,
+  "raw": 1003,
+  "after_filters": 66,
+  "new_in_window": 27,
   "dropped": {
-   "title": 807,
+   "title": 774,
    "location": 28
   }
  },
  "jobs": [
+  {
+   "title": "Brand Manager - Sweaty Betty - 9M FTC",
+   "company": "Sweaty Betty",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-22",
+   "url": "https://www.linkedin.com/jobs/view/4485160608",
+   "description": "We burst onto the scene as the OGs of female-first activewear back in 1998. And since then, we’ve been on a global mission to empower women through fitness and beyond. By uniting a global community of women – our sisterhood – together we encourage one another to embrace our bodies and everything we can do with them.\n  \n  \nOur sisterhood treats every day like it’s made for moving, and we’re always pushing to do better too. Like using responsibly sourced materials, launching our first-ever FemTech collection – designed to keep you moving through menstruation, maternity and menopause – and supporting girls from all backgrounds to get into sport through our Sweaty Betty Foundation.\n  \n  \nThis is an exciting opportunity to join us as a Brand Manager as we continue our mission to empower women through fitness and beyond. You in?\n  \n  \n**Our Values**\nWE REALLY CARE ∙ FIRST, BEST, BRAVEST ∙ OUR STRENGTH IS IN EACH OTHER ∙ STAND UP, SPEAK UP, SHOUT OUT.\n  \n  \nAs Brand Marketing Manager, you will help deliver Sweaty Betty’s global brand strategy across core markets. You will develop and execute integrated campaigns and brand initiatives that build cultural relevance, brand consideration and business growth. The role requires a strong understanding of our consumer, social media, the cultural landscape and our commercial priorities, translating these into distinctive ideas and consistent execution across every customer touchpoint.\n  \n  \nYou will manage campaigns from strategy and briefing through to activation and measurement, working closely with Creative, Product, Growth, eCommerce, Social, PR, CRM, Retail, Wholesale and global market teams. You will ensure the work is insight-led, unmistakably Sweaty Betty and aligned to our female-first, rebellious and fearlessly stylish brand positioning.\n  \n  \n**About The Role**\n\n* Develop and execute full-funnel, 360° brand campaigns and global initiatives that drive brand and business results\n* Own campaigns end to end, including strategy, insight, briefing, planning, creative development, production, activation, budget management and measurement\n* Support the Senior Brand Manager in developing and executing Seasonal Brand Plans across the business.\n* Own the organic social media strategy & calender for Sweaty Betty (predominately Instagram, Pinterest, TikTok & Strava) ensuring we are in her pathway and speaking to her in and unmistakably SB way with the most culturally relevant content. With the support of a Social Media Specialist.\n* Ensure the timely delivery of marketing activity from creation through to execution, maintaining clear plans, responsibilities, approvals and critical paths.\n* Be an expert on our consumer, category and cultural landscape, using insight to create relevant stories grounded in our brand truths.\n* Turn Sweaty Betty’s brand strategy into distinctive campaigns, content and cultural moments that build consideration, conversation and demand.\n* Create clear product stories within campaigns, connecting performance, style and consumer benefit while building fame for our icon products.\n* Work closely with internal and external creative partners to develop the right idea and content for each channel, while maintaining one consistent brand story.\n* Build joined-up brand experiences across owned, earned and paid touchpoints, turning audiences into brand and product fans.\n* Partner with Growth and eCommerce teams to amplify key content and moments, support the customer journey and optimise activity through the funnel.\n* Develop campaign objectives, metrics and measurement plans. Use brand and commercial results to assess effectiveness and improve future activity.\n\n**What Success Looks Like**\n\n* Campaigns are strategically clear, entertaining and unmistakably Sweaty Betty.\n* Brand activity supports growth in consideration, cultural relevance, product demand and commercial performance.\n* Campaigns land on time and on budget, with clear ownership and strong cross-functional alignment.\n* Global consistency is balanced with relevant market adaptation.\n* Performance is measured consistently and learning is applied to future plans.\n\n**About You**\n\n* Proven experience developing end-to-end marketing strategies and executing full-funnel, 360° campaigns within fashion, lifestyle, sport, fitness or a related industry.\n* Strong strategic planning, campaign development and execution skills, with experience moving work from insight and idea through to launch and evaluation.\n* A strong understanding of consumer behaviour, category dynamics and the cultural landscape, with the ability to turn insight into compelling brand stories.\n* Excellent creative judgement and the confidence to challenge safe or generic work constructively.\n* Commercial awareness and the ability to connect brand activity to consumer behaviour, product demand and business performance.\n* Excellent collaboration and stakeholder-management skills, with experience working across internal teams, global markets and external partners.\n* Strong project-management skills, including experience managing budgets, agencies, production partners and competing priorities.\n* Confident using metrics and results to evaluate activity, optimise performance and make recommendations.\n* A self-starter who can move seamlessly from strategy into action and maintain momentum in a fast-moving environment.\n* Clear, persuasive communication and presentation skills.\n* People-management experience is desirable.\n\nOn an interim basis (until July 2027) this role will also be responsible for leading Sweaty Betty’s influencer programme as a maternity cover, overseeing the programme strategy, talent and agency relationships, campaign integration and delivery, with an influencer specialist as a direct report.\n  \n  \nWolverine World Wide, Inc. (NYSE: WWW) is a global footwear and apparel company driven by a vision to Make. Every Day. Better.\n  \n  \nFounded in 1883, the Company builds and grows iconic brands including Merrell®, ",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Retail",
+   "key": "sweaty betty|brand manager sweaty betty 9m ftc",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
   {
    "title": "Digital Marketing Manager - German Speaking",
    "company": "Tribal Recruitment - The UK's Leading Digital & R2R Recruiters",
@@ -39,9 +63,9 @@
    "title": "Event Marketing Manager",
    "company": "S&P Global",
    "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
+   "salary_min": 50079.32,
+   "salary_max": 50079.32,
+   "salary_text": "£50,079",
    "salary_is_estimate": false,
    "work_pattern": "",
    "contract": "fulltime",
@@ -54,11 +78,159 @@
    "key": "s p global|event marketing manager",
    "sources": [
     "linkedin",
-    "indeed"
+    "indeed",
+    "adzuna"
    ],
    "other_urls": [
-    "https://uk.indeed.com/viewjob?jk=2f3b7013dd3752eb"
+    "https://uk.indeed.com/viewjob?jk=2f3b7013dd3752eb",
+    "https://www.adzuna.co.uk/jobs/land/ad/5974929509?se=MrRinGjm8RGB-bDIy5dDgQ&utm_medium=api&v=46DC546999F1A653DC9C62940C229F11B48EB4E6"
    ],
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
+  {
+   "title": "Growth Marketing Specialist",
+   "company": "Synthires",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-22",
+   "url": "https://www.linkedin.com/jobs/view/4492350445",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "synthires|growth marketing specialist",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
+  {
+   "title": "Marketing Manager",
+   "company": "Synthires",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-22",
+   "url": "https://www.linkedin.com/jobs/view/4492342705",
+   "description": "Marketing Expert – EMEA\n\n**Position:**\nMarketing Expert – EMEA\n\n**Type:**\n**Full-Time Employment**\n\n**Compensation:**\n**$60–$85/hour**\n\n**Location:**\n**Remote – United Kingdom, Ireland, Germany, Spain, or Switzerland**\n\n**Weekly Commitment:**\nApproximately 40 hours per week\n\n**About the Opportunity**\n\nAn opportunity for experienced marketing professionals to join the in-house marketing team of a leading technology company working in the AI space.\n\nIn this role, you will take ownership of a primary marketing discipline aligned with your professional background, such as product marketing, demand generation, growth, lifecycle marketing, brand, communications, or field marketing.\n\nYou will work closely with cross-functional teams to develop marketing strategies, execute campaigns, strengthen product positioning, and support regional go-to-market initiatives across EMEA.\n\nThis is a full-time, hands-on marketing role suited to senior professionals with substantial experience managing marketing programs and influencing business outcomes.\n\n**Key Responsibilities**\n\nResponsibilities will depend on your primary marketing specialization and may include:\n\n* Develop product positioning, messaging strategies, and launch plans for products and features.\n* Plan and execute marketing campaigns across demand generation, lifecycle marketing, events, and field marketing.\n* Create, review, and optimize marketing content for technical and business audiences.\n* Monitor campaign performance and report on key metrics, including pipeline contribution, engagement, and return on investment (ROI).\n* Collaborate with product, sales, and communications teams to develop regional go-to-market strategies.\n* Adapt global marketing programs to local market requirements and audience preferences across EMEA.\n* Manage marketing initiatives independently while coordinating with relevant stakeholders.\n* Contribute strategic recommendations to improve campaign effectiveness and overall marketing performance.\n\n**Required Qualifications**\n\n* **7+ years of professional marketing experience**\n  , primarily in in-house marketing roles.\n* Experience working in a technology company, B2B SaaS organization, or a related business environment is preferred.\n* Deep expertise in at least one of the following marketing disciplines:\n* Product Marketing\n* Demand Generation\n* Growth Marketing\n* Lifecycle Marketing\n* Brand Marketing\n* Marketing Communications\n* Field Marketing\n* Demonstrated experience independently owning and delivering substantial marketing programs.\n* Ability to influence senior stakeholders and collaborate across multiple business functions.\n* Strong written communication, content development, and presentation skills.\n* Comfortable working with marketing analytics, performance reporting, and campaign measurement tools.\n* Familiarity with platforms such as HubSpot, Salesforce, and Google Analytics.\n* Strong understanding of marketing strategy, campaign execution, and business performance metrics.\n\n**Preferred Qualifications**\n\n* Experience in technology, AI, or B2B SaaS marketing environments.\n* Background managing regional marketing initiatives across European markets.\n* Experience adapting global marketing strategies for local audiences.\n* Demonstrated ability to manage complex cross-functional marketing projects.\n* Senior individual contributors are welcome to apply; a formal management title is not required.\n* Candidates with exclusively agency-based experience may be less suited to this opportunity.\n\n**Marketing Specializations**\n\nCandidates should have substantial experience in at least one primary marketing discipline:\n\n* **Product Marketing:**\n  Product positioning, messaging, launches, and go-to-market strategy.\n* **Demand Generation:**\n  Campaign planning, lead generation, pipeline growth, and conversion optimization.\n* **Growth & Lifecycle Marketing:**\n  Customer acquisition, engagement, retention, and lifecycle campaigns.\n* **Brand & Communications:**\n  Brand strategy, content development, messaging, and corporate communications.\n* **Field Marketing:**\n  Regional campaigns, events, and market-specific marketing initiatives.\n\n**Employment Details**\n\n* **Employment Type:**\n  Full-time.\n* **Work Arrangement:**\n  Fully remote.\n* **Location Eligibility:**\n  United Kingdom, Ireland, Germany, Spain, and Switzerland.\n* **Weekly Commitment:**\n  Approximately 40 hours.\n* **Working Language:**\n  English.\n* **Interview Language:**\n  English.\n* **Role Structure:**\n  In-house marketing position within an established marketing team.\n\n**Compensation**\n\n**$60–$85 per hour**\n, depending on relevant experience and marketing specialization.\n\n**Application Process**\n\n1. **Submit Your Application:**\n   Upload your updated resume highlighting your marketing experience and primary area of specialization.\n2. **Complete the Screening Form:**\n   Provide details about your professional background and relevant marketing expertise.\n3. **AI Interview:**\n   Complete a short AI interview in English, selecting your primary marketing discipline, such as product marketing or demand generation.\n4. **Next Steps:**\n   Qualified candidates will be considered for the full-time opportunity.",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "synthires|marketing manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
+  {
+   "title": "Marketing Manager, B2B Lifecycle",
+   "company": "Financial Times",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-22",
+   "url": "https://www.linkedin.com/jobs/view/4469237158",
+   "description": "**About Us**\nThe Financial Times is one of the world’s leading news organisations, globally recognised for its authority, integrity and accuracy, with a mission to deliver quality information and services worldwide.\n  \n  \nAt the FT, curiosity thrives and ambitious thinking is rewarded. Here, you’re given the chance to reach millions, create work that matters and deliver impartial journalism in a polarised world.\n  \n  \nIn our warm, collaborative culture, you’ll connect with a diverse community of experts who support your growth, career aspirations and wellbeing.\n  \n  \nYour future at the FT will be filled with opportunities that challenge and inspire you. With no fixed path, you’ll discover new skills and forge a career that can take you anywhere.\n  \n  \nBuild a newsworthy career at the FT.\n  \n  \nOur commitment to diversity, equity and inclusion\n  \n  \nWe believe in the power of unique perspectives and want all voices in our organisation to be heard, respected and valued. A supportive workplace is one where employees feel they can be themselves and operate to their full potential. We are committed to removing barriers for everyone, with a focus on addressing those faced by underrepresented groups.\n  \n  \nThe Role\n  \n  \nThe Marketing Manager, B2B Lifecycle will own and develop defined areas of the B2B lifecycle strategy across FT Professional and the FT Specialist portfolio, with a primary focus on renewal and customer value growth through cross-sell and upsell.\n  \n  \nYou will own a portfolio of lifecycle programmes spanning renewal support, retention, cross-sell and upsell, delivering measurable improvements in account growth, renewal rates and customer lifetime value. The role will also flex across earlier lifecycle stages, including trial engagement, onboarding and in-life engagement, where required to support broader commercial priorities.\n  \n  \nWorking closely with the Head of B2B Lifecycle, you will translate the overall lifecycle strategy into quarterly plans, prioritised initiatives and commercial outcomes. Using customer insight and performance analysis, you will find opportunities, determine where resource should be focused and lead programmes designed to improve renewal outcomes and drive expansion within existing accounts.\n  \n  \nYou will work closely with collaborators across B2B Marketing, Sales, Data & Analytics and Marketing Automation to ensure lifecycle programmes support wider product, proposition and account strategies while remaining focused on customer outcomes. Marketing Automation will design and build campaigns and journeys from the briefs and strategic requirements you develop.\n  \n  \nA core part of the role is ownership of business performance. You will define KPIs, monitor progress against commercial objectives, identify risks and opportunities, and recommend interventions that improve renewal performance, account growth and customer lifetime value.\n  \n  \nAs part of the Experience and Lifecycle Centre of Excellence, you will also help establish and embed consistent lifecycle frameworks, playbooks and ways of working across FT Professional, FT Specialist and Consumer Lifecycle.\n  \n  \nKey responsibilities\n  \n  \n**Lifecycle strategy and planning**\n\n* Own lifecycle plans and a portfolio of programmes focused on renewal, retention, cross-sell and upsell, translating the overall B2B lifecycle strategy into quarterly priorities and measurable commercial outcomes.\n* Identify customer needs, behavioural trends and commercial opportunities, prioritising initiatives that maximise renewal rates, account expansion and customer lifetime value.\n* Define lifecycle approaches including audience segmentation, personalisation, contact strategy and customer experience, aligned with wider commercial and account priorities.\n* Prioritise initiatives within your area, balancing renewal performance, growth opportunity and available resource.\n* Lead the adoption of Experience and Lifecycle Centre of Excellence standards, supporting a consistent, premium customer experience.\n\n**Briefing and programme development**\n\n* Define programme and campaign objectives, customer journeys, content direction, KPIs and success measures, with a strong emphasis on renewal and expansion outcomes.\n* Develop campaign briefs and journey requirements for Marketing Automation, ensuring activity aligns with lifecycle strategy and commercial priorities.\n* Lead cross-functional planning with B2B Marketing, Sales and Data & Analytics to deliver integrated renewal and growth programmes.\n* Oversee programme delivery, proactively managing risks, dependencies and collaborator alignment.\n* Maintain programme documentation, governance and delivery standards across lifecycle activity.\n\n**Reporting, insight and performance management**\n\n* Own the performance of lifecycle programmes within your remit, defining KPIs and monitoring progress against renewal, retention and expansion objectives.\n* Lead regular performance reviews, identifying trends, risks and opportunities and recommending corrective action where required.\n* Translate customer behaviour, lifecycle performance and commercial insight into clear recommendations that inform future strategy and programme priorities.\n* Demonstrate the contribution of lifecycle activity to renewal rates, retention, cross-sell, upsell, account growth and customer lifetime value.\n* Provide clear performance updates and strategic recommendations to the Head of B2B Lifecycle and senior collaborators.\n\n**Optimisation and experimentation**\n\n* Own the testing and optimisation roadmap for your lifecycle portfolio, prioritising opportunities with the greatest potential impact on renewal and customer expansion.\n* Lead optimisation of audiences, journeys, messaging, content and customer experiences using customer insight and performance data.\n* Work with Marketing Automation and Data & Analytics to support robust test design, measurement and evaluation.\n* Embed successful approaches into future progra",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "financial times|marketing manager b2b lifecycle",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
+  {
+   "title": "Marketing Specialist",
+   "company": "Synthires",
+   "location": "London Area, UK",
+   "salary_min": 117000.0,
+   "salary_max": 165750.0,
+   "salary_text": "£117,000–£165,750",
+   "salary_is_estimate": false,
+   "work_pattern": "Remote",
+   "contract": "fulltime",
+   "date_posted": "2026-11-22",
+   "url": "https://www.linkedin.com/jobs/view/4492349473",
+   "description": "Marketing Expert – EMEA\n\n**Position:**\nMarketing Expert – EMEA\n\n**Type:**\n**Full-Time Employment**\n\n**Compensation:**\n**$60–$85/hour**\n\n**Location:**\n**Remote – United Kingdom, Ireland, Germany, Spain, or Switzerland**\n\n**Weekly Commitment:**\nApproximately 40 hours per week\n\n**About the Opportunity**\n\nAn opportunity for experienced marketing professionals to join the in-house marketing team of a leading technology company working in the AI space.\n\nIn this role, you will take ownership of a primary marketing discipline aligned with your professional background, such as product marketing, demand generation, growth, lifecycle marketing, brand, communications, or field marketing.\n\nYou will work closely with cross-functional teams to develop marketing strategies, execute campaigns, strengthen product positioning, and support regional go-to-market initiatives across EMEA.\n\nThis is a full-time, hands-on marketing role suited to senior professionals with substantial experience managing marketing programs and influencing business outcomes.\n\n**Key Responsibilities**\n\nResponsibilities will depend on your primary marketing specialization and may include:\n\n* Develop product positioning, messaging strategies, and launch plans for products and features.\n* Plan and execute marketing campaigns across demand generation, lifecycle marketing, events, and field marketing.\n* Create, review, and optimize marketing content for technical and business audiences.\n* Monitor campaign performance and report on key metrics, including pipeline contribution, engagement, and return on investment (ROI).\n* Collaborate with product, sales, and communications teams to develop regional go-to-market strategies.\n* Adapt global marketing programs to local market requirements and audience preferences across EMEA.\n* Manage marketing initiatives independently while coordinating with relevant stakeholders.\n* Contribute strategic recommendations to improve campaign effectiveness and overall marketing performance.\n\n**Required Qualifications**\n\n* **7+ years of professional marketing experience**\n  , primarily in in-house marketing roles.\n* Experience working in a technology company, B2B SaaS organization, or a related business environment is preferred.\n* Deep expertise in at least one of the following marketing disciplines:\n* Product Marketing\n* Demand Generation\n* Growth Marketing\n* Lifecycle Marketing\n* Brand Marketing\n* Marketing Communications\n* Field Marketing\n* Demonstrated experience independently owning and delivering substantial marketing programs.\n* Ability to influence senior stakeholders and collaborate across multiple business functions.\n* Strong written communication, content development, and presentation skills.\n* Comfortable working with marketing analytics, performance reporting, and campaign measurement tools.\n* Familiarity with platforms such as HubSpot, Salesforce, and Google Analytics.\n* Strong understanding of marketing strategy, campaign execution, and business performance metrics.\n\n**Preferred Qualifications**\n\n* Experience in technology, AI, or B2B SaaS marketing environments.\n* Background managing regional marketing initiatives across European markets.\n* Experience adapting global marketing strategies for local audiences.\n* Demonstrated ability to manage complex cross-functional marketing projects.\n* Senior individual contributors are welcome to apply; a formal management title is not required.\n* Candidates with exclusively agency-based experience may be less suited to this opportunity.\n\n**Marketing Specializations**\n\nCandidates should have substantial experience in at least one primary marketing discipline:\n\n* **Product Marketing:**\n  Product positioning, messaging, launches, and go-to-market strategy.\n* **Demand Generation:**\n  Campaign planning, lead generation, pipeline growth, and conversion optimization.\n* **Growth & Lifecycle Marketing:**\n  Customer acquisition, engagement, retention, and lifecycle campaigns.\n* **Brand & Communications:**\n  Brand strategy, content development, messaging, and corporate communications.\n* **Field Marketing:**\n  Regional campaigns, events, and market-specific marketing initiatives.\n\n**Employment Details**\n\n* **Employment Type:**\n  Full-time.\n* **Work Arrangement:**\n  Fully remote.\n* **Location Eligibility:**\n  United Kingdom, Ireland, Germany, Spain, and Switzerland.\n* **Weekly Commitment:**\n  Approximately 40 hours.\n* **Working Language:**\n  English.\n* **Interview Language:**\n  English.\n* **Role Structure:**\n  In-house marketing position within an established marketing team.\n\n**Compensation**\n\n**$60–$85 per hour**\n, depending on relevant experience and marketing specialization.\n\n**Application Process**\n\n1. **Submit Your Application:**\n   Upload your updated resume highlighting your marketing experience and primary area of specialization.\n2. **Complete the Screening Form:**\n   Provide details about your professional background and relevant marketing expertise.\n3. **AI Interview:**\n   Complete a short AI interview in English, selecting your primary marketing discipline, such as product marketing or demand generation.\n4. **Next Steps:**\n   Qualified candidates will be considered for the full-time opportunity.",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "synthires|marketing specialist",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [
+    "https://www.linkedin.com/jobs/view/4492346524"
+   ],
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
+  {
+   "title": "Product Manager, CRM Communications",
+   "company": "eBay",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-22",
+   "url": "https://www.linkedin.com/jobs/view/4457255911",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "ebay|product manager crm communications",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
+  {
+   "title": "Product Marketing Manager - Launches & Adoption",
+   "company": "Orbital",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-22",
+   "url": "https://www.linkedin.com/jobs/view/4463492055",
+   "description": "Orbital is the AI platform for real estate legal work.\n  \n  \nReal estate shapes the world around us: our homes, our workplaces and our cultural landmarks. It’s the infrastructure that powers everyday life and is the world's largest asset class. Yet behind every single deal, real estate and legal teams work hard to navigate decades-old complexity; manually connecting documents, hidden obligations, geo-spatial context, and multiple parties into a path forward. We connect the legal and physical record, so that path is clearer than ever before. Our mission is to make real estate transactions faster, clearer, and less manual.\n  \n  \nHere, you'll be part of changing how the deals behind the largest asset class get transacted, and will help shape the future of real estate.\n  \n  \n**A Bit About Us**\n🚀 We’re building at the forefront of AI technology, without losing the deeply human expertise our clients depend on.\n  \n  \n🏢 Orbital is built with former practising real estate lawyers and 250+ years of combined legal expertise. We're purpose-built for the complexity of real estate: accelerating due diligence, drafting and negotiation, and deal coordination with legal-grade precision.\n  \n  \n💰 We've just raised a $60m Series B, led by Brighton Park Capital, to accelerate our global expansion – $75m raised to date.\n  \n  \n🤝 We're trusted by 5,000+ real estate professionals, spanning UK Magic Circle and US Am Law 100 firms, to household names like M&S. Leading firms like BCLP, Orrick, Goodwin, Womble Bond Dickinson and Clifford Chance rely on Orbital to remove the busywork, freeing legal and real estate teams to focus on sharp judgment, standout client service, and closing deals faster.\n  \n  \n💡 Working at Orbital means joining a bold, ambitious team, with the trust to take ownership and make a real impact from day one.\n  \n  \n**About The Role**\nOrbital is looking for a Product Marketing Manager to lead how our product releases are brought to market and adopted.\n  \n  \nAs our product and release cadence continue to grow, this role will turn a steady stream of new capabilities into clear, compelling stories for customers, prospects and the wider market. You’ll work across the product roadmap to understand what matters most, shape how releases are positioned, and coordinate how and when they reach the right audiences.\n  \n  \nYou’ll independently lead a broad portfolio of product and feature launches, while playing a key supporting role in Tier 1 launches alongside our Senior Product Marketing Manager. You’ll also help embed and evolve the systems that enable us to launch consistently at scale, from our existing launch framework and calendar to our changelog, in-product communications and Help Centre.\n  \n  \nThis is a high-autonomy role at the intersection of Product, Marketing and Customer Success. It’s a great opportunity for a product marketer who combines strong messaging skills with excellent execution and enjoys creating structure around a fast-moving product organisation.\n  \n  \n**What You’ll Do**\n\n* Lead product launches end to end. Own the go-to-market strategy and execution for a portfolio of product and feature launches, from defining the audience and customer value through messaging, channel strategy, timing and measurement.\n* Run and evolve our launch programme. Implement our existing launch framework across Product and Marketing, managing roadmap intake, launch tiering and a single launch calendar. You’ll help teams apply the framework consistently and iterate it over time based on what we learn from launches and adoption.\n* Develop positioning and messaging. Turn complex product capabilities into clear, compelling value propositions and messaging that resonate with customers, prospects and the wider market.\n* Drive awareness and adoption. Plan how releases are brought to market across in-product messaging, email, the changelog, website and other channels, ensuring the right audiences understand what’s new, why it matters and how it strengthens the value of Orbital.\n* Own our product changelog. Build and manage an external changelog that gives customers and prospects a clear, useful and always-current view of what’s new in Orbital.\n* Evolve our Help Centre. Partner with Product and Customer Support to keep product education accurate, useful and up to date, and improve the experience through stronger written, visual and video content.\n* Raise the quality of product marketing. Create clear standards, templates and guidance that help teams communicate new capabilities effectively across customer and market-facing channels. You’ll act as an editor and trusted partner to Product, helping turn subject-matter expertise into high-quality product marketing.\n* Measure launch impact. Define and track success metrics across awareness, activation and adoption, using the results to improve how we prioritise, plan and execute future launches.\n* Partner across go-to-market teams. Work closely with Revenue Enablement, Customer Success and the wider Marketing team to ensure launches translate into effective market education, customer adoption, campaigns and commercial readiness.\n\n**How You’ll Work With The Team**\nYou’ll work closely with our Senior Product Marketing Manager, who leads overarching product positioning and Tier 1 launches. You’ll independently own a high volume of product and feature launches, while contributing to Tier 1 launches and helping ensure our overall launch programme works as one coherent system.\n  \n  \nYou’ll also partner closely with Product Managers across our UK and US products, as well as Revenue Enablement, Customer Success, Product Design and the wider Marketing team.\n  \n  \n**Your first few months**\nYou’ll start by building a deep understanding of our product, customers, market and current launch process, working closely with Product teams and spending time with customers.\n  \n  \nFrom there, you’ll embed our launch framework and calendar across the product organisation, launch our external",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "orbital|product marketing manager launches adoption",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
    "first_seen": "2026-11-22",
    "is_new": true
   },
@@ -79,6 +251,30 @@
    "company_size": "",
    "company_industry": "Marketing Services, Advertising Services, and Technology, Information and Media",
    "key": "tribal recruitment s leading digital r2r recruiters|senior content strategist",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
+  {
+   "title": "Senior Partner Marketing Manager - 12 Month Contract",
+   "company": "LHH",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "contract",
+   "date_posted": "2026-11-22",
+   "url": "https://www.linkedin.com/jobs/view/4492356175",
+   "description": "**Senior Partner Marketing Manager – EMEA - 12 Month Contract**\n\nI'm working with a global technology business that's looking to appoint an experienced\n**Senior Partner Marketing Manager**\nto lead strategic partner marketing across the EMEA region.\n\nThis is a commercially focused role where you'll be responsible for building and executing joint go-to-market plans with strategic technology and consulting partners to generate qualified pipeline, increase partner engagement and support regional revenue growth.\n\nWorking closely with Sales, Alliances and Marketing teams, you'll own the marketing strategy for a portfolio of high-profile partners, creating integrated campaigns that deliver measurable commercial outcomes. If you enjoy influencing senior stakeholders, driving partner relationships and seeing the direct impact of your marketing activity on revenue, this is an excellent opportunity.\n\nWhat you'll be doing\n\n* Develop and execute joint marketing strategies with strategic partners across EMEA.\n* Build integrated go-to-market plans focused on generating high-quality pipeline and accelerating revenue.\n* Partner with Alliance Managers and Sales teams to align marketing activity with commercial priorities and co-sell initiatives.\n* Deliver multi-channel campaigns including digital marketing, events, webinars, content and partner-led activity.\n* Manage partner marketing budgets and market development funds (MDF), ensuring strong ROI.\n* Track campaign performance, pipeline contribution and partner engagement, providing clear reporting and recommendations.\n* Shape quarterly partner marketing plans and identify new opportunities to drive growth.\n* Support partner onboarding and enablement, ensuring new partnerships are activated quickly and effectively.\n* Work cross-functionally with regional and global stakeholders to deliver integrated marketing programmes.\n\nWhat we're looking for\n\n* Strong experience in B2B Partner or Alliance Marketing within a technology or SaaS environment.\n* A proven track record of delivering integrated marketing campaigns that generate measurable pipeline and partner-influenced revenue.\n* Experience working alongside Sales and Partner teams to build successful go-to-market strategies.\n* Excellent commercial awareness with the ability to balance strategic planning and hands-on execution.\n* Strong stakeholder management skills, with experience influencing senior internal and external partners.\n* Confident managing multiple campaigns and strategic partnerships simultaneously.\n* Data-driven mindset with experience measuring marketing performance, pipeline and ROI.\n* Comfortable working across EMEA within a collaborative, matrix organisation.\n\nThis is an excellent opportunity for someone who thrives in a commercially driven marketing role where success is measured by pipeline generation, partner engagement and revenue impact.",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Technology, Information and Media",
+   "key": "lhh|senior partner marketing manager 12 month contract",
    "sources": [
     "linkedin"
    ],
@@ -111,30 +307,6 @@
    "is_new": true
   },
   {
-   "title": "Campaign Planning & Automation Technical Lead",
-   "company": "Jazz Pharmaceuticals",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-21",
-   "url": "https://www.linkedin.com/jobs/view/4491999944",
-   "description": "**How We Work - The Global Capability Product Operating Model:**\nAt Jazz, we are reimagining how we design and deliver more precise customer experiences, enabled by new technologies, modern ways of working, and high performing team behaviors. Through this work, we enable teams to better understand patients, caregivers, and HCPs, anticipate their needs across the enterprise, deliver timely and personalized engagement, and orchestrate seamless, end-to-end experiences as One Jazz.\n  \n  \nTo power this ambition with both speed and scale, we are embracing a new capability-oriented operating model, allowing business and technology teams to partner side by side in building, advancing, and delivering global capabilities across our enterprise. Cross-functional, empowered Global Capability teams own outcomes—not just outputs—and work from clear capability visions, strategies, and measurable goals. We prioritize user problems, validate solutions through experimentation and data, and iterate quickly to create real value for our users and the business. As part of this model, you’ll collaborate closely with users, stakeholders, and technical teams across the organization, using discovery and delivery practices to ensure we’re building the right things, in the right way, at the right time.\n  \n  \nThe Tech Lead, Campaign Planning & Automation, provides hands-on technical leadership and solution design expertise for the Campaign Planning Global Capability team within the Campaign Orchestration team. Reporting to the Technical Suite Lead, Campaign Orchestration and Content Development & Deployment, this role serves as the primary technical leader for the capability, partnering closely with the Global Capability Owner, Activation Lead, development teams, and/or vendor teams to ensure capability priorities and global standards.\n  \n  \nThe Campaign Planning team delivers campaign planning and execution capabilities that enable audience targeting, campaign activation, and coordinated engagement across marketing channels. As the Tech Lead, this role is a hands-on contributor and technical leader, directly involved in designing, building, and delivering solutions for Campaign Planning & Automation platforms supporting campaign execution, audience management, and multi-channel engagement alongside the development team, bringing technical depth and leadership to every stage of the work.\n  \n  \n**Essential Functions/Responsibilities**\n**Key Responsibilities:**\n**Strategy & Technical Roadmap Development**\n\n* Partner closely with the Campaign Planning & Automation Global Capability Owner to design solutions that solve business problems, providing technical insight on what the technology can and cannot do, effort levels, and tradeoffs.\n* Convert complex business requirements into clear technical specifications and executable technical work tasks.\n\n**Solution Architecture & Technical Delivery**\n\n* Lead the technical team and drive work plans, building, configuration, and integration of software aligned to business needs and technology standards, including:\n\n+ Campaign Planning platforms, enabling campaign configuration, execution, and orchestration across marketing channels.\n+ Audience management and segmentation capabilities, supporting targeting, list generation, and campaign audience activation.\n+ Integration with CRM, data platforms, and analytics systems to enable seamless campaign execution, tracking, and performance measurement.\n\n* Translate technical requirements into well‑defined work for the development team, lead agile ceremonies, and ensure disciplined execution of the capability roadmap, taking ownership of complex technical challenges end to end.\n* Guide development teams in campaign configuration, automation workflows, and execution frameworks that enable scalable and efficient campaign delivery across channels.\n* Enable seamless integration between campaign platforms, CRM systems, and data sources to support accurate audience targeting and campaign execution.\n* Support audience segmentation, list management, and campaign activation processes to ensure campaigns are executed effectively and at scale.\n* Support the optimization of campaign performance by monitoring execution, delivery metrics, and engagement outcomes, continuously improving campaign effectiveness and operational efficiency.\n\n**Cross-Functional Technical Leadership**\n\n* Partner with business, IT security, and vendor teams to ensure the Campaign Planning team technical solutions adhere to organizational standards, security policies, and regulatory requirements.\n* Organize and direct vendor partners to execute technical work, ensuring alignment with capability priorities, delivery timelines, and enterprise standards.\n* Partner with the Technical Suite Lead, Campaign Orchestration, Content Development & Deployment, to escalate and resolve complex technical challenges that span across Global Capability teams.\n* Mentor and guide software engineers and developers, elevating the team's overall technical capability.\n* Lead cross-team problem solving and resolution of technical challenges within the Global Capability team.\n\n**Technical Skills**\n**Required Knowledge, Skills, and Abilities**\n\n* Experience designing, testing, deploying, operating, and enhancing scalable, secure, and compliant technology solutions for large scale organizational use.\n* Understanding of enterprise software architecture, cloud platforms, and modern engineering frameworks. Knowledge of system integration patterns, APIs, and data architecture across enterprise technology platforms.\n* Experience owning tools for campaign planning, marketing automation logic, campaign execution, and campaign/tactic metadata management as enterprise systems of record. Strong understanding of cross-channel campaign planning workflows, marketing automation technologies and journeys built inside them, campaign execution platforms and related metrics.\n* Strong understanding of campaign orchestration ",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Pharmaceutical Manufacturing",
-   "key": "jazz pharmaceuticals|campaign planning automation technical lead",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-22",
-   "is_new": true
-  },
-  {
    "title": "HRIS Change & Comms Manager",
    "company": "Nord Anglia Education",
    "location": "London Area, UK",
@@ -143,13 +315,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "contract",
+   "contract": "",
    "date_posted": "2026-11-21",
    "url": "https://www.linkedin.com/jobs/view/4467189559",
-   "description": "Job Posting Date: 8 Nov 2026\n  \n  \nLocation:\n  \n  \nLondon, GB\n  \n  \nJob ID: 9905\n  \n  \nSchool: Group Central Support United Kingdom Office\n  \n  \nCompany: Nord Anglia Education\n  \n  \nLondon is our global headquarters where 220 colleagues across Finance, Risk, IT, Corporate Development, Legal, HR, MAC and Education drive the success of our 90+ schools in 35+ countries. By joining our fast paced and innovative organisation, you will be regularly liaising with our global team-mates from the Philippines to Peru, from Beijing to Boston and beyond.\n  \n  \nIf you have a global mindset, enjoy thinking outside the box and are prepared to go above and beyond to find solutions, then a career at Nord Anglia is for you.\n  \n  \n**HRIS Change & Comms Manager**\nOffering a 12 month fixed-term contract.\n  \n  \nJoin Nord Anglia Education's HR team as an\n**HRIS Change & Comms Manager**\n, based in our London Headquarter Office.\n  \n  \nThis role is crucial in managing and enhancing our HR Information Systems to ensure seamless change management and effective communication strategies across the organisation. You will spearhead HRIS-related projects, ensuring that change initiatives are implemented smoothly and that all stakeholders are engaged and informed throughout the process. This position offers the opportunity to work within the Group Central Support division, directly contributing to the strategic HR objectives that support our global educational network.\n  \n  \n**The Role**\n\n* You’ll lead the change, communication, and adoption strategy for the global SuccessFactors transformation, ensuring successful delivery, embedding, and long-term adoption across all schools and offices.\n* You’ll work closely with HR, Technology, and senior stakeholders to translate programme delivery into clear, engaging communications and adoption interventions that improve employee experience and drive measurable benefits realisation.\n* You will also support programme delivery by applying strong project management discipline across change activities, ensuring alignment to timelines, milestones, and governance frameworks.\n* As a team player, you’ll operate across global, regional, and local teams to enable a seamless transition to a digital, data-driven HR experience aligned to our 2030 vision.\n* Your role will impact the organisation by accelerating adoption, reducing risk, and ensuring the programme delivers its intended value at scale across 35+ countries.\n\n**See Full Job Description, Here.**\n**What we're looking for:**\n**Skills**\nWe are looking for an experienced and highly skilled HRIS Change & Communications Manager who can bring a strategic and proactive approach to managing HR information system transformations and communication channels. The ideal candidate will have the following skills and abilities:\n  \n  \n\n* Change Management Expertise: Proven experience in planning, executing and monitoring HR system changes and upgrades, with a strong ability to manage resistance and foster a positive adoption culture among employees.\n* Strong Communication Skills: Exceptional ability to craft clear, concise, and impactful messages tailored to different audiences within the organisation, ensuring effective stakeholder engagement and buy-in.\n* HRIS Knowledge: In-depth understanding of HRIS platforms, preferably with hands-on experience in leading system enhancements, data management, and troubleshooting.\n* Project Management Skills: Capable of managing multiple concurrent projects with excellent organisation, time management, and prioritisation skills to meet deadlines.\n* Analytical Abilities: Strong analytical mindset to assess system requirements, identify areas for improvement, and provide data-driven recommendations.\n* Collaboration and Influencing: Ability to work collaboratively across teams, including HR business partners, IT, and external vendors, to align change and communication strategies with business objectives.\n* Attention to Detail: Meticulous approach to managing communications, documentation, and project details ensuring accuracy and consistency.\n* Adaptability and Problem-Solving: Comfortable navigating a fast-paced environment and capable of anticipating challenges with creative solutions to maintain project momentum.\n* Technical Proficiency: Familiarity with digital communication tools, Microsoft Office Suite, and potentially other HR-related software to enhance system functionality and user engagement.\n* Commitment to Inclusion: Embrace and promote an inclusive work culture, ensuring communications respect diversity and encourage participation from all colleagues.\n\n**About Us**\nNord Anglia Education is the world’s leading international schools organisation. Our 90+ international schools are located in the Americas, Europe, China, Southeast Asia and the Middle East. Together, they educate more than 100,000 students from kindergarten through to the end of secondary education. We are driven by one unifying philosophy: we are ambitious for our students, our people and our family of schools.\n  \n  \nOur exclusive collaborations with prestigious institutions such as UNICEF, Massachusetts Institute of Technology (MIT), IMG Academy and the world-leading performing arts school Juilliard mean we’re at the forefront of educational thinking, while creating life-changing experiences for students.\n  \n  \nBy joining Nord Anglia Education you will become part of a committed and innovative team. As a member of the world’s leading premium schools group you will be joining an active network of like-minded people across the world.\n  \n  \nWe encourage individuals to join us with our “Create your Future” mindset – we will provide you with a range of experiences and opportunities to enhance your skillset and you will be given the autonomy to grow your career.\n  \n  \n**To Apply**\nOn-line applications need to be directly through the Nord Anglia Education careers page and should include a CV.\n  \n  \nAt Nord Anglia Education, we are an equal opportun",
+   "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Education Management",
+   "company_industry": "",
    "key": "nord anglia education|hris change comms manager",
    "sources": [
     "linkedin"
@@ -197,32 +369,8 @@
    "description": "At EY, we’re all in to shape your future with confidence.\n  \n  \nWe’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.\n  \n  \nJoin EY and help to build a better working world.\n  \n  \n**About EY Marketing Transformation**\nGrowth at EY comes from solving the most important challenges for our clients—helping them transform their marketing organizations to drive sustainable brand engagement, customer acquisition, and market leadership. The Marketing Transformation Team partners with organizations to reimagine marketing strategies, processes, and technologies, enabling high-performing teams and future-ready marketing capabilities.\n  \n  \nWe are a diverse group of marketing strategists, transformation consultants, and technologists. We deliver full-service business transformation, building a better working world by creating new ways to serve clients and help them grow—this is marketing re-imagined. Our team leverages advanced AI, analytics, and automation to unlock new opportunities and drive measurable impact.\n  \n  \n**The Opportunity**\nAs a Manager in the Marketing Practice, you will lead key workstreams and deliverables within our client engagements focused on transforming marketing strategies, operating models, and customer engagement approaches. You will take ownership of delivering high-impact outcomes that span marketing transformation, campaign development, customer experience, and data-driven performance optimisation.\n  \n  \nThis is a client-facing role requiring strong leadership, strategic thinking, and the ability to manage complex programmes. You will be accountable for driving outcomes, managing teams, and ensuring the delivery of innovative marketing solutions that deliver measurable growth and lasting impact.\n  \n  \n**Key Responsibilities**\n\n* Lead client-delivery workstreams: Own the delivery of marketing transformation deliverables, ensuring quality and timely outcomes.\n* Advise client stakeholders: Build trusted relationships with marketing leaders, guiding them through strategic decisions.\n* Design scalable operating models: Develop marketing governance frameworks and organisational structures that enable efficiency and agility.\n* Shape strategy and execution: Oversee the design of integrated marketing strategies across digital, social, and traditional channels.\n* Drive campaign excellence: Ensure end-to-end campaign lifecycle optimisation, from concept through execution and performance measurement.\n* Leverage analytics for impact: Translate data insights into actionable recommendations to improve ROI, customer acquisition, and retention.\n* Manage teams and mentor talent: Lead and coach consultants, fostering capability development and a high-performance culture.\n* Collaborate across EY: Work closely with Technology, Strategy, Tax, and People Consulting teams to deliver integrated solutions.\n* Support business growth: Contribute to business development through proposal creation, client pitches, and thought leadership.\n* Ensure quality and compliance: Maintain EY standards in project governance, risk management, and client delivery.\n\n**Required Skills & Experience**\n\n* Experience in marketing strategy, campaign management, or customer experience transformation.\n* Strong understanding of digital marketing platforms, CRM systems, and advanced analytics tools.\n* Proven ability to lead complex projects and manage multidisciplinary teams.\n* Exceptional communication, stakeholder management, and presentation skills.\n* Experience in consulting or agency environments.\n\n**Desirable Qualifications**\n\n* Degree in Marketing, Business, or related field.\n* Industry-recognised accreditation (e.g., CIM).\n* Certifications in digital marketing or analytics (e.g., Google Analytics, Adobe).\n\n**EY | Building a better working world**\nEY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.\n  \n  \nEnabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.\n  \n  \nEY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "Professional Services",
    "key": "ey|manager marketing transformation uki studio",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-22",
-   "is_new": true
-  },
-  {
-   "title": "Marketing Communications Manager",
-   "company": "B2BMarketing.com",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-21",
-   "url": "https://www.linkedin.com/jobs/view/4493304303",
-   "description": "Saved jobs\n  \n  \nSaved jobs\n  \n  \nLog in My account\n  \n  \n\n* Log in\n\n\n+ Our Brands\n+ Our Culture\n+ Rewards & Benefits\n+ Inclusion & Diversity\n+ Sustainability\n+ Wellbeing\n+ Military Schemes\n\n\n\n+ Head Office\n+ Cabin Crew\n\n- Cabin Crew FAQs\n\n+ Pilots\n\n- Future Pilots\n- Pilots FAQs\n\n+ Customer Services\n+ Engineering\n+ Ground Operations & Cargo\n\n\n\n+ Emerging Talent\n+ Graduates, Business Placements & Interns\n+ Apprentices\n+ Work Experience & School Programmes\n+ Speedbird Pilot Academy\n\n\n\n+ Hiring Process\n+ Recruitment FAQs\n+ What People Ask\n\n* Discover more\n\nOpen Search\n  \n  \nSearch job by keyword\n  \n  \nSearch job by location When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.\n  \n  \nJob not found\n  \n  \nOpen Search\n  \n  \nSearch job by keyword\n  \n  \nSearch job by location When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.\n  \n  \nJob not found\n  \n  \nWe are sorry this job post no longer exists. Luckily, we have other jobs you might also be interested in:\n  \n  \nSearch jobs\n  \n  \nWelcome to British Airways Careers\n  \n  \nWe use cookies and similar technologies. Some are essential to make our applications work or provide services which you request or expect. We'd also like to use optional cookies to improve your experience, analyse how our site is used, personalise content, show relevant ads and enable social media features. You can decide which optional cookies you allow now, or you can change those choices at any time. Find out more by reading our Cookie Policy.\n  \n  \nInformation about cookies",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Marketing Services",
-   "key": "b2bmarketing com|marketing communications manager",
    "sources": [
     "linkedin"
    ],
@@ -245,7 +393,7 @@
    "description": "Location\n  \n  \nLondon\n  \n  \nEmployment Type\n  \n  \nFull time\n  \n  \nLocation Type\n  \n  \nOn-site\n  \n  \nDepartment\n  \n  \nGo-To-Market\n  \n  \nOverviewApplication\n  \n  \nDatatonic is a leading data and AI consultancy and a 12x Google Cloud Partner of the Year. We help enterprises in financial services, media and entertainment, telecoms, retail and gaming build data platforms and activate agentic AI on Google Cloud. The team works from London, Stockholm and North America.\n  \n  \nOur GTM Marketing team turns that work into pipeline: executive dinners and roundtables, account-based campaigns for our key accounts, joint marketing with Google, and the content and data that support sales.\n  \n  \n**The role**\nAs Marketing Manager, you will own Datatonic's field marketing, account-based marketing and marketing operations in the UK and Europe, turning our GTM strategy into events and campaigns that create pipeline, while also ensuring effective reporting and data-driven insights for the team. You will plan and run executive events, run ABM programmes for named accounts alongside sales, and make sure every lead and opportunity is tracked and reported in Salesforce. You will use AI tools every day to plan, create and measure your work faster, and innovate on what’s possible.\n  \n  \n****In Your First Year, Success Looks Like:****\n\n* A 2027 events calendar delivered on budget, with leads followed up and attributed in Salesforce\n* ABM programmes running for priority accounts, with marketing-sourced and influenced pipeline reported monthly\n* Paid social and email campaigns that hit agreed lead targets\n* Strong working relationships with sales pods, Google Cloud marketing and our agencies\n\n****What You'll Do****\n**Events and field marketing**\n\n* Plan and run the events calendar: executive dinners, roundtables, workshops, sponsored conferences and Google Cloud events in the UK and Europe\n* Own each event end to end: brief, audience targeting, invitations, agency and venue logistics, on-the-day delivery and follow-up with sales\n* Brief and manage event agencies and sponsorship partners, holding them to registration and attendance targets\n* Build the annual events plan and budget and report return on each event\n* Build a strong working relationship with the sales team, ensuring support and collaboration for commercial success\n\n**Account-based marketing**\n\n* Run 1:1 and 1:few ABM programmes for priority accounts, working with account leads in our industry pods\n* Create account plans, direct mail, email sequences and LinkedIn campaigns for named buying groups\n* Report engagement and pipeline for each account at pod and account syncs\n\nPaid and digital channels\n  \n  \n\n* Plan, run and optimise LinkedIn paid campaigns, including budget, targeting and creative briefs\n* Build email campaigns and segmentation in Salesforce\n\n**Marketing operations and reporting**\n\n* Own marketing reporting: build and maintain the reports and dashboards for leads, campaign performance and marketing-sourced and influenced pipeline\n* Report performance weekly and monthly against targets, and turn the numbers into clear recommendations for the team and leadership\n* Keep campaign, lead and contact data clean in Salesforce, and follow the contact-to-opportunity process with sales\n* Manage marketing tools and vendor spend\n\n**Partners and team**\n\n* Run joint marketing with Google Cloud and other partners\n* Coach and give day-to-day guidance to junior marketers on the team\n\n**AI in your day-to-day**\n\n* Use AI tools (such as Gemini and Claude) daily for research, copy, event briefs, campaign assets and analysis\n* Build your own no-code marketing agents to continuously improve and innovate on how marketing functions\n* Find new ways to use AI to save the team time, and share what works\n\n****What You'll Bring****\n\n* Minimum 5+ years in B2B marketing, ideally in technology, consulting or professional services\n* A track record of running executive events, roundtables and large scale conferences from brief to follow-up, with the pipeline to show for it\n* Experience running ABM programmes with sales teams for enterprise accounts\n* Hands-on LinkedIn Ads experience, including budgets, targeting and reporting\n* Strong Salesforce skills: building your own reports and dashboards, not just reading them, as well as running campaigns, lists and email\n* Confidence turning data into insight: spotting what is working and recommending what to change\n* Daily, hands-on use of AI tools and agentic workflows in your work, with examples of how they made you faster or better\n* Experience managing agencies, vendors and budgets\n* Clear writing for senior audiences: invitations, briefs and follow-up emails\n* Organised and calm when running several campaigns at once\n\n**Nice to have**\n\n* Experience marketing with Google Cloud or another partner programme\n* Knowledge of data and AI services, or of selling to CTOs and CDOs\n* Experience in our key industries: financial services, media and entertainment, telecoms, retail or gaming\n* Experience running events outside the UK, for example in the Nordics\n* Comfort with Figma or similar tools for event and campaign assets\n\n**Team and location**\nYou will report to the Head of Marketing in the GTM Marketing team, working closely with sales pods, partnerships and Google Cloud marketing. The role is based at our London office with regular office days and some travel for events.\n  \n  \nDatatonic is a leading data and AI consultancy and a 12x Google Cloud Partner of the Year. We help enterprises in financial services, media and entertainment, telecoms, retail and gaming build data platforms and activate agentic AI on Google Cloud. The team works from London, Stockholm and North America.\n  \n  \nOur GTM Marketing team turns that work into pipeline: executive dinners and roundtables, account-based campaigns for our key accounts, joint marketing with Google, and the content and data that support sales.\n  \n  \n**The role**\nAs Marketing Manager, you will o",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Marketing Services",
+   "company_industry": "",
    "key": "b2bmarketing com|marketing manager",
    "sources": [
     "linkedin"
@@ -386,7 +534,7 @@
    "description": "**Why Harvey**\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n  \n  \nThis is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.\n  \n  \nOur team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.\n  \n  \nAt Harvey, the future of professional services is being written today — and we’re just getting started.\n  \n  \n**Role Overview**\nWe’re looking for a hands-on Field Marketing Manager to help scale Harvey’s EMEA field marketing motion as it grows from early foundations into a repeatable, region-wide programme.\n  \n  \nThe groundwork is underway: playbooks, agency relationships, event criteria, and reporting. Your job is to take them further. You’ll join a small EMEA field team, own a significant share of the event programme, and help transform our field motion across every market in EMEA.\n  \n  \nYou’ll own both first-party and third-party field events, from executive dinners and roundtables to conferences and sponsorships. The role is highly executional, but also highly strategic: you’ll be expected to get deep into the details while helping define what “great” looks like for field marketing at Harvey.\n  \n  \nThis is a role for someone who loves being close to the action: partnering with Sales, working events on the ground, improving every touchpoint, and turning a high-volume motion into a repeatable, measurable, high-quality growth engine.\n  \n  \n**What You'll Do**\n\n* Scale the EMEA field marketing engine: build on the existing playbooks, processes, planning rhythms, agency model, vendor bench, and measurement foundations, and strengthen them so field marketing can run at higher volume across more markets without losing quality.\n* Plan and execute high-quality field programmes: own a portfolio of third-party conferences and first-party events (executive dinners, roundtables, and hosted formats) end to end, from selection and planning through to onsite delivery and follow-up.\n* Partner deeply with GTM: work with Sales and customer-facing teams to prioritise markets, accounts, audiences, and event formats that support pipeline generation, opportunity acceleration, and strategic relationship building.\n* Raise the quality bar for how Harvey shows up: booth experiences, onsite execution, pre-event targeting, attendee briefing, Sales enablement, VIP moments, follow-up, and post-event reporting.\n* Make event motions scalable: apply and sharpen the frameworks for when we sponsor, when we host, what package we buy, who attends, what Sales needs to do, and how success is measured, so each new event is faster to stand up than the last.\n* Own execution details: manage budgets, logistics, vendors, agencies, timelines, staffing, swag, onsite delivery, lead capture, and follow-up across multiple events and markets.\n* Measure and improve impact: track performance across field activity and feed what you learn back into the shared EMEA field plan.\n\n**What You Have**\n\n* 4–7 years of experience in field marketing or event marketing, ideally in B2B SaaS, technology, or professional services, including experience scaling a motion rather than only running an established one.\n* Proven experience planning and executing high-quality events or field activations that support pipeline, lead generation, account engagement, or revenue impact.\n* Strong Sales partnership instincts and experience.\n* Comfortable working autonomously in a fast-paced environment.\n* Highly organised and operationally rigorous, with a high bar for detail and the ability to manage multiple events, stakeholders, vendors, and timelines at once.\n* Comfortable taking early-stage processes and making them stronger and more efficient.\n* Strong commercial judgement, with the ability to connect event activity to GTM priorities and measurable business outcomes.\n* Comfortable getting hands-on, from strategy and planning through to onsite execution, rep wrangling, logistics, and follow-up.\n* Familiarity with AI tooling is highly desirable.\n* Experience marketing to legal, financial services, consulting, enterprise, or other high-touch professional audiences is a plus.\n\n**Depending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices**\n**here**\n**.**\n*We are an AI company and we use AI to improve all of our processes, including in the recruitment process. While we do use AI to help improve efficiency in our recruitment process, we do not rely on AI to make any automated decisions and ensure that a human reviews AI output.*\n*Harvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.*\n*We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing*\n*accommodations@harvey.ai*",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Software Development",
+   "company_industry": "",
    "key": "harvey|senior field marketing manager emea",
    "sources": [
     "linkedin"
@@ -431,7 +579,7 @@
    "contract": "fulltime",
    "date_posted": "2026-11-21",
    "url": "https://www.linkedin.com/jobs/view/4484858886",
-   "description": "**Team - Marketing & Digital Analytics**\n**Working Pattern -**\nHybrid - 2 days per week in the Vitality London Office. Full time, 37.5 hours per week.\n  \n  \n**We are happy to discuss flexible working!**\n**Top 3 skills needed for this role:**\n\n* Advanced Marketing Analytics\n* Expert Statistical Modelling\n* Strong Stakeholder Influence\n\n**What This Role Is All About**\nWe’re looking for a Senior Marketing Data Analyst to lead analysis across Vitality’s member, brand, content and adviser engagement activity. Working across Marketing, Data and Technology teams, the role will use advanced analytics to uncover what drives audience engagement, establish its impact on customer and commercial outcomes, and turn complex behavioural data into clear recommendations that improve marketing decisions.\n  \n  \n**What You Will Be Doing**\n\n* Lead analysis across member communications, digital journeys, sponsorships, events, content and adviser engagement to identify the activity that creates meaningful customer and commercial value\n* Develop robust measurement frameworks and KPIs that assess behavioural impact and longer-term outcomes beyond traditional metrics such as opens, clicks, views and attendance\n* Analyse audience journeys and engagement funnels to identify behavioural patterns, points of friction and opportunities to improve progression towards desired actions\n* Conduct deep-dive analysis to establish which communications, experiences, content, propositions and audience characteristics drive stronger engagement and behaviour change\n* Design and evaluate A/B tests, control groups and other experimental approaches to measure incrementality and distinguish genuine impact from correlation\n* Build behavioural segmentations, propensity models and predictive solutions using SQL, Python and statistical techniques to support more targeted marketing activity\n* Evaluate how engagement influences longer-term outcomes, including app adoption, sustained member activity, brand consideration and adviser business\n* Create reusable analytical datasets and scalable measurement solutions by combining CRM, digital, communications, content, event and behavioural data\n* Translate complex analysis into clear recommendations covering expected impact, assumptions, uncertainty and risk, enabling stakeholders to make assured evidence-led choices\n* Test existing measurement approaches and raise analytical capability across Marketing by promoting experimentation, analytical rigour and continuous improvement\n\n**What do you need to thrive?**\n\n* 5+ years’ experience in marketing/customer analytics, marketing science, decision science or a related quantitative field.\n* Advanced SQL skills, working with large marketing, digital, CRM and customer datasets.\n* Strong Python skills for data analysis, statistical modelling and automation.\n* Experience using Power BI or similar BI tools to build dashboards and turn data into clear, actionable insights.\n* Experience working with cloud-based data environments, such as Google BigQuery, and combining multiple data sources.\n* Strong knowledge of applied statistics, including regression, hypothesis testing, experimental design and statistical significance.\n* Experience with customer and behavioural segmentation, including rule-based and statistical techniques such as clustering.\n* Experience working with APIs, automated data feeds or platform-level data exports.\n* Strong analytical storytelling and stakeholder skills, turning complex analysis into clear recommendations and business decisions.\n* Curious and proactive, with the ability to explore new analytical techniques, technologies and data sources independently.\n\n**So, what’s in it for you?**\n\n* Bonus Schemes - A bonus that regularly rewards you for your performance\n* A pension of up to 12%- We will match your contributions up to 6% of your salary\n* Our award-winning Vitality health insurance - With its own set of rewards and benefits\n* Life Assurance - Four times annual salary\n\nThese are just some of the many perks that we offer! To view the extensive range of benefits we offer, please visit our careers page.\n**Fantastic Benefits. Exciting rewards. Great career opportunities!**\n**If you are successful in your application and join us at Vitality, this is our promise to you, w**\n**e will:**\n\n* Help you to be the healthiest you’ve ever been\n* Create an environment that embraces you as you are and enables you to be your best self\n* Give you flexibility on how, where and when you work\n* Help you advance your career by playing you to your strengths\n* Give you a voice to help our business grow and make Vitality a great place to be\n* Give you the space to try, fail and learn\n* Provide a healthy balance of challenge and support\n* Recognise and reward you with a competitive salary and amazing benefits\n* Be there for you when you need us\n* Provide opportunities for you to be a force for good in society\n\nWe commit to all these things because we want you to feel that you belong, and are supported to be happy and healthy.",
+   "description": "**Team - Marketing & Digital Analytics**\n**Working Pattern -**\nHybrid - 2 days per week in the Vitality London Office. Full time, 37.5 hours per week.\n  \n  \n**We are happy to discuss flexible working!**\n**Top 3 skills needed for this role:**\n\n* Advanced marketing analytics\n* Strong commercial judgement\n* Proven stakeholder influence\n\n**What This Role Is All About**\nWe’re looking for a Senior Marketing Data Analyst who loves turning data into smarter marketing decisions. Working across our Health and Life businesses, you’ll dig into customer behaviour, media performance and digital journeys to understand what’s working, what isn’t and where the next opportunity lies. Your insight will help shape media strategy, audiences, creative, budget allocation and digital experiences, giving you real influence over how Vitality attracts and converts new customers.\n  \n  \n**What You Will Be Doing**\n\n* Own the analytical interpretation of direct acquisition performance, connecting marketing investment and activity to leads, sales, customer quality and commercial value\n* Identify the underlying drivers of acquisition performance by combining media, audience, creative, CRM, digital journey, sales and external market data\n* Develop evidence-based recommendations on marketing budget allocation using econometrics, experimentation, historical performance and marginal-return analysis\n* Provide an independent analytical perspective on audience targeting, bidding, campaign structure, channel mix and activation strategies\n* Build a structured experimentation programme, defining hypotheses, test designs and success measures and translating results into clear next actions\n* Strengthen the use of first-party customer and sales data across marketing measurement, audience activation, conversion tracking and optimisation\n* Partner with Vitality’s econometrics agency to challenge model assumptions, improve data inputs and translate findings into practical investment decisions\n* Coordinate reliable, automated and quality-controlled data feeds across media, customer and commercial data sources\n* Evaluate creative effectiveness to understand how messaging, proposition, format and execution influence acquisition and conversion outcomes\n* Apply statistical, predictive and causal analytical techniques to improve targeting, measurement and investment decisions\n\n**What do you need to thrive?**\n\n* Strong experience in marketing analytics, marketing science or performance marketing, ideally within a paid-media environment.\n* Strong SQL skills, with experience using Python or similar tools to analyse marketing and customer data.\n* Good understanding of paid-media measurement and performance across platforms such as Google Ads, Search Ads 360 and Meta.\n* Experience combining CRM, customer, digital and media data to understand campaign effectiveness and customer behaviour.\n* Good knowledge of marketing measurement and statistical techniques, including experimentation, regression and testing.\n* Strong commercial and communication skills, able to turn complex analysis into clear recommendations on marketing performance, investment and budget allocation.\n\n**So, what’s in it for you?**\n\n* Bonus Schemes - A bonus that regularly rewards you for your performance\n* A pension of up to 12%- We will match your contributions up to 6% of your salary\n* Our award-winning Vitality health insurance - With its own set of rewards and benefits\n* Life Assurance - Four times annual salary\n\nThese are just some of the many perks that we offer! To view the extensive range of benefits we offer, please visit our careers page.\n**Fantastic Benefits. Exciting rewards. Great career opportunities!**\n**If you are successful in your application and join us at Vitality, this is our promise to you, w**\n**e will:**\n\n* Help you to be the healthiest you’ve ever been\n* Create an environment that embraces you as you are and enables you to be your best self\n* Give you flexibility on how, where and when you work\n* Help you advance your career by playing you to your strengths\n* Give you a voice to help our business grow and make Vitality a great place to be\n* Give you the space to try, fail and learn\n* Provide a healthy balance of challenge and support\n* Recognise and reward you with a competitive salary and amazing benefits\n* Be there for you when you need us\n* Provide opportunities for you to be a force for good in society\n\nWe commit to all these things because we want you to feel that you belong, and are supported to be happy and healthy.",
    "apply_url": "",
    "company_size": "",
    "company_industry": "Financial Services",
@@ -518,6 +666,69 @@
    "is_new": true
   },
   {
+   "title": "Field/Partner Marketing Manager - EMEA",
+   "company": "Teleport",
+   "location": "London, UK",
+   "salary_min": 67000.0,
+   "salary_max": 73700.0,
+   "salary_text": "£67,000–£73,700",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "full_time",
+   "date_posted": "2026-11-22",
+   "url": "https://www.adzuna.co.uk/jobs/details/5974914624?utm_medium=api",
+   "description": "",
+   "key": "teleport|field partner marketing manager emea",
+   "sources": [
+    "adzuna"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-20",
+   "is_new": false
+  },
+  {
+   "title": "Global Partnerships & Memberships Lead",
+   "company": "Arup",
+   "location": "London, UK",
+   "salary_min": 35552.56,
+   "salary_max": 35552.56,
+   "salary_text": "£35,553",
+   "salary_is_estimate": true,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-22",
+   "url": "https://www.adzuna.co.uk/jobs/details/5974913032?utm_medium=api",
+   "description": "",
+   "key": "arup|global partnerships memberships lead",
+   "sources": [
+    "adzuna"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-16",
+   "is_new": false
+  },
+  {
+   "title": "Manager, Communications - PGIM",
+   "company": "PGIM",
+   "location": "London, UK",
+   "salary_min": 48054.19,
+   "salary_max": 48054.19,
+   "salary_text": "£48,054",
+   "salary_is_estimate": true,
+   "work_pattern": "",
+   "contract": "part_time",
+   "date_posted": "2026-11-22",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5974929472?se=MrRinGjm8RGB-bDIy5dDgQ&utm_medium=api&v=A61162C018790B5582349D4498C992D3D5F53DC9",
+   "description": "",
+   "key": "pgim|manager communications pgim",
+   "sources": [
+    "adzuna"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-11",
+   "is_new": false
+  },
+  {
    "title": "Strategic Communications Manager",
    "company": "Local Government Chronicle",
    "location": "London, England, UK",
@@ -558,30 +769,6 @@
    "company_size": "",
    "company_industry": "Artificial Intelligence",
    "key": "navan|change communications manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-21",
-   "is_new": false
-  },
-  {
-   "title": "Communications & Design Manager",
-   "company": "Lockton",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-21",
-   "url": "https://www.linkedin.com/jobs/view/4485643182",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Insurance",
-   "key": "lockton|communications design manager",
    "sources": [
     "linkedin"
    ],
@@ -652,37 +839,13 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Retail Apparel and Fashion",
+   "company_industry": "",
    "key": "herschel supply company|international marketing manager",
    "sources": [
     "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-21",
-   "is_new": false
-  },
-  {
-   "title": "Lifecycle & Revenue Marketing Manager",
-   "company": "Times Higher Education",
-   "location": "London, England, UK",
-   "salary_min": 60000.0,
-   "salary_max": 70000.0,
-   "salary_text": "£60,000–£70,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-21",
-   "url": "https://www.linkedin.com/jobs/view/4486996439",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Higher Education",
-   "key": "times higher education|lifecycle revenue marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-07",
    "is_new": false
   },
   {
@@ -750,30 +913,6 @@
    "company_size": "",
    "company_industry": "",
    "key": "skidmore owings merrill|senior marketing specialist",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-21",
-   "is_new": false
-  },
-  {
-   "title": "Senior Specialist, EMEA Field Marketing",
-   "company": "Relativity",
-   "location": "London Area, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-21",
-   "url": "https://www.linkedin.com/jobs/view/4485390918",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Software Development",
-   "key": "relativity|senior specialist emea field marketing",
    "sources": [
     "linkedin"
    ],
