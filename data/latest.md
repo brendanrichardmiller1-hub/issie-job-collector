@@ -1,29 +1,29 @@
 # Jobs collected 2026-11-22 (27 new)
 
 - **Brand Manager - Sweaty Betty - 9M FTC** — Sweaty Betty — salary not stated — London, England, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4485160608
+- **Channel Marketing Manager (German Speaking - DACH Regions)** — Jupiter Asset Management — salary not stated — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4413589436
 - **Digital Marketing Manager - German Speaking** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — salary not stated — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4493318723
 - **Event Marketing Manager** — S&P Global — £50,079 — London, England, UK — posted 2026-11-22 — linkedin, indeed, adzuna — https://www.linkedin.com/jobs/view/4493165022
 - **Growth Marketing Specialist** — Synthires — salary not stated — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4492350445
 - **Marketing Manager** — Synthires — salary not stated — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4492342705
+- **Marketing Manager [AQ-27951]** — Aquent — £93,600 — London, England, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4492364021
 - **Marketing Manager, B2B Lifecycle** — Financial Times — salary not stated — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4469237158
 - **Marketing Specialist** — Synthires — £117,000–£165,750 — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4492349473
-- **Product Manager, CRM Communications** — eBay — salary not stated — London, England, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4457255911
 - **Product Marketing Manager - Launches & Adoption** — Orbital — salary not stated — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4463492055
 - **Senior Content Strategist** — Tribal Recruitment - The UK's Leading Digital & R2R Recruiters — £50,000–£55,000 — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4490738394
 - **Senior Partner Marketing Manager - 12 Month Contract** — LHH — salary not stated — London Area, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4492356175
+- **Theatrical Marketing Manager, Amazon MGM Studios Theatrical Marketing** — Amazon — salary not stated — London, England, UK — posted 2026-11-22 — linkedin — https://www.linkedin.com/jobs/view/4478026651
 - **CRM Campaign Managers (Talent Pool)** — DEPT® — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4460375257
 - **HRIS Change & Comms Manager** — Nord Anglia Education — salary not stated — London Area, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4467189559
-- **Lead Insight Analyst - Marketing & Acquisition** — The Economist — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4447389379
 - **Manager, Marketing Transformation, UKI Studio+** — EY — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4466279252
+- **Marketing Compliance Manager** — M&G — salary not stated — London Area, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4462227158
 - **Marketing Manager** — B2BMarketing.com — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4493306284
 - **Marketing Manager** — Vuulr — salary not stated — London Area, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4493282909
-- **Performance Creative Lead** — Profiles Creative — £70,000 — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4483913429
 - **Project Manager - Live Brand Experiences** — Randstad Technologies — £120–£160 — London — posted 2026-11-21 — reed — https://www.reed.co.uk/jobs/project-manager-live-brand-experiences/57599074
 - **Senior Digital Marketing Manager** — B2BMarketing.com — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4493296539
 - **Senior Events Marketing Manager** — Haymarket Media Group — £47,000–£50,000 — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4449879328
 - **Senior Field Marketing Manager, EMEA** — Harvey — salary not stated — London Area, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4485171391
 - **Senior Manager, Corporate Communications, UKI** — WeWork — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4466225436
-- **Senior Marketing Data Analyst (Direct Acquisition)** — Vitality — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4484858886
 - **Senior Marketing Manager, Europe** — B2BMarketing.com — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4493308216
 - **Social Marketing Manager** — Zombie Snacks I B Corp™ — £50,000–£55,000 — London Area, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4493102495
 - **Strategic Impact Partnerships Manager | 12 Month Contract** — Movember — salary not stated — London, England, UK — posted 2026-11-21 — linkedin — https://www.linkedin.com/jobs/view/4485287540
