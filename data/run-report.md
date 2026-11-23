@@ -1,14 +1,14 @@
-# Run report — 2026-11-23 09:10 UTC
+# Run report — 2026-11-23 12:47 UTC
 
 ## Sources
-- **linkedin**: 210 raw results — error: response status code 429 (blocked: use a proxy)
-- **indeed**: 12 raw results
-- **reed**: 7 jobs posted in the last 2 days
+- **linkedin**: 310 raw results — error: response status code 429 (blocked: use a proxy)
+- **indeed**: 56 raw results
+- **reed**: 16 jobs posted in the last 2 days
 - **adzuna**: 50 results from the last day (1 call(s) max per run)
-- **employer job boards**: 10 boards read, 582 open roles in total (before filtering)
+- **employer job boards**: 10 boards read, 583 open roles in total (before filtering)
 
 ## Totals
-- raw results: 861
-- dropped by filters: {'title': 687, 'salary': 2, 'location': 20}
-- unique jobs after filters: 53
-- new in the last ~24h: 13
+- raw results: 1015
+- dropped by filters: {'title': 726, 'salary': 7, 'location': 29}
+- unique jobs after filters: 72
+- new in the last ~24h: 38
