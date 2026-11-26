@@ -1,36 +1,50 @@
-# Jobs collected 2026-11-26 (34 new)
+# Jobs collected 2026-11-26 (48 new)
 
 - **Brand Manager at Marketplace startups (£40-55k)** — Jumpstart — £40,000–£55,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495274281
+- **Brand Manager at VC backed Sport & Fitness startups (£40-55k)** — Jumpstart — £40,000–£55,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495283028
+- **Communications Associate** — TP ICAP — £52,045 (estimate) — London, UK — posted 2026-11-26 — adzuna — https://www.adzuna.co.uk/jobs/details/5979427387?utm_medium=api
 - **Content Marketing Manager at Consumer Brands startups (£50-65k)** — Jumpstart — £50,000–£65,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495267712
-- **Content Marketing Manager at PropTech startups (£50-65k)** — Jumpstart — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495280109
-- **Content Marketing Manager at VC backed Sport & Fitness startups (£50-65k)** — Jumpstart — £50,000–£65,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495278168
+- **Content Marketing Manager at PropTech startups (£50-65k)** — Jumpstart — £50,000–£65,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495280109
+- **Country Lead, Business Marketing, UK** — Reddit, Inc. — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4451652834
 - **Demand Marketing Lead, UK** — Euromonitor International — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4494997794
-- **Demand Marketing Lead, UK** — Euromonitor — £43,752 (estimate) — London, UK — posted 2026-11-26 — adzuna — https://www.adzuna.co.uk/jobs/details/5979362849?utm_medium=api
-- **Ecommerce Content Administrator** — Oliver Bonas — £24,174 (estimate) — Chessington, South West London — posted 2026-11-26 — adzuna — https://www.adzuna.co.uk/jobs/land/ad/5979343770?se=oN4RsH3p8RGDs_AlBR7DqA&utm_medium=api&v=73A857E5E8A10980E64BAFABE4B235123C0AE6AD
-- **Marketing Lead at VC backed Sport & Fitness startups (£45-55k)** — Jumpstart — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495278139
-- **Product Marketing Manager** — Seerist — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=fa93480fe7e65b58
-- **Regional Channel Marketing Manager - UK and Spain** — Fieldpiece Instruments — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=b905f15701c7c693
+- **Field Marketing Manager, EMEA** — Fireworks AI — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4461551740
+- **Growth Marketing Manager at Insurtech startups (£50-60k)** — Jumpstart — £50,000–£60,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495273326
+- **Growth Marketing Manager at PropTech startups (£50-60k)** — Jumpstart — £50,000–£60,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495265688
+- **Growth Marketing Manager at VC backed Climate Tech startups (£50-60k)** — Jumpstart — £50,000–£60,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495271546
+- **Growth Marketing Manager at VC backed EdTech startups (£50-60k)** — Jumpstart — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495263841
+- **Internal Communications Manager - 12 month FTC** — Legora — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4485078794
+- **Marketing Executive** — Deliveroo — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed, Deliveroo careers — https://uk.indeed.com/viewjob?jk=0ef60aac4115efd2
+- **Marketing Lead at VC backed EdTech startups (£45-55k)** — Jumpstart — £45,000–£55,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495278159
+- **Marketing Lead at VC backed Sport & Fitness startups (£45-55k)** — Jumpstart — £45,000–£55,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495278139
+- **Marketing Manager (Viewer Consideration)** — ITV — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495284705
+- **PR & Communications Manager at PropTech startups (£35-45k)** — Jumpstart — £35,000–£45,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495267730
+- **Product Marketing Manager** — Navan — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4442178249
+- **Product Marketing Manager** — Seerist — salary not stated — London Area, UK — posted 2026-11-26 — linkedin, indeed — https://www.linkedin.com/jobs/view/4494953605
+- **Project Manager - Partner Communications & Compliance (12 month FTC)** — tms — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495283711
+- **Regional Channel Marketing Manager - UK and Spain** — Fieldpiece Instruments — salary not stated — London, England, UK — posted 2026-11-26 — linkedin, indeed — https://www.linkedin.com/jobs/view/4495227600
 - **Sr Marketing Specialist** — Gartner — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4478417900
+- **Strategic Communications Programmes Manager - EMEA** — Principle — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495296356
+- **UKI Value & Promotions Marketing Executive** — Deliveroo — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed, Deliveroo careers — https://uk.indeed.com/viewjob?jk=4014488b897831bd
 - **Brand Manager - Fixed Term** — Bupa UK — salary not stated — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4494661602
 - **Communications Manager (Ref: 24569)** — Ministry of Justice UK — salary not stated — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4494932554
+- **Communications Manager - Interim (3-4 months)** — VMA Group — £50,000–£55,000 — London Area, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4493421912
 - **Content/Copy Lead- German Market** — Quince — salary not stated — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=607aaf183cdd3617
 - **Creative Strategist** — Humantra — salary not stated — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=d5b87fa8786cb9fd
-- **Creative Strategy Lead - Entertainment** — Handle Recruitment — £60,000–£75,000 — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4494925757
 - **Digital Content Manager- Education** — London Business School — salary not stated — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=5f0ff9a78c8b2eeb
-- **Discovery Content Senior Executive** — John Lewis & Partners — £36,000–£56,900 — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=718fdd5cd46c5906
-- **EMEA Marketing & Communications Lead (contract)** — Project Worldwide — salary not stated — London Area, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4493433632
-- **Group Brand Lead (FTC - 12 months)** — Arriva Group — salary not stated — London, England, UK — posted 2026-11-25 — linkedin, indeed — https://www.linkedin.com/jobs/view/4493439308
+- **Discovery Content Senior Executive** — John Lewis & Partners — £36,000–£56,900 — London, ENG, UK — posted 2026-11-25 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=718fdd5cd46c5906
+- **EMEA Marketing & Communications Lead (12 month contract)** — Project Worldwide — salary not stated — London Area, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4493433632
+- **Group Brand Lead (FTC - 12 months)** — Arriva — salary not stated — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=d445c710863b35ca
 - **Internal Communications and Policy Manager** — Lift Schools — salary not stated — Greater London, England, UK — posted 2026-11-25 — linkedin, indeed — https://www.linkedin.com/jobs/view/4494674029
+- **Manager - Field & Partner Marketing** — nCino — salary not stated — Croydon, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4494927791
 - **Marketing Manager** — Elect Capital — salary not stated — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4494672577
-- **Marketing Manager - St. Pancras London Autograph Collection** — Marriott International — £47,500 — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=cccdbb19342798e3
 - **Marketing Manager - St. Pancras London Autograph Collection** — Autograph Collection — salary not stated — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4494964634
-- **Midweight Creative Strategist** — BT Group — salary not stated — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4493446064
-- **Product Marketing Manager - Fragrances, Luxe Division** — L'Oréal — salary not stated — London, ENG, UK — posted 2026-11-25 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=d7f74ac2605991ad
+- **Marketing Manager - St. Pancras London Autograph Collection** — Marriott International — £47,500 — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=cccdbb19342798e3
+- **Product Marketing Manager - Fragrances, Luxe Division** — L'Oréal — salary not stated — London, England, UK — posted 2026-11-25 — linkedin, indeed — https://www.linkedin.com/jobs/view/4494931756
 - **SME Sales Manager (Affiliate Marketing)** — Awin AG — salary not stated — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=9bdd64b9b744ea2e
 - **Senior Campaign Manager** — WISER — salary not stated — London, ENG, UK — posted 2026-11-25 — indeed, linkedin — https://uk.indeed.com/viewjob?jk=ff4eb31a472b487a
 - **Senior Content Manager** — OLIVER | The Brandtech Group — salary not stated — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4478430763
 - **Senior Digital Marketing Executive** — CLOSERSTILL MEDIA — salary not stated — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=39bfc4db4ff20358
 - **Senior PR & Partnerships Manager** — Iris London — salary not stated — London Area, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4493454247
-- **Senior Product Marketing Manager** — Unity Technologies — £90,600–£254,300 — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=1ef20822b709c8be
 - **Senior Product Marketing Manager** — Unity — salary not stated — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4494933403
+- **Senior Product Marketing Manager** — Unity Technologies — £90,600–£254,300 — London, ENG, UK — posted 2026-11-25 — indeed — https://uk.indeed.com/viewjob?jk=1ef20822b709c8be
 - **Senior Product Marketing Manager, Veeqo** — Veeqo — salary not stated — London, England, UK — posted 2026-11-25 — linkedin — https://www.linkedin.com/jobs/view/4487271855
