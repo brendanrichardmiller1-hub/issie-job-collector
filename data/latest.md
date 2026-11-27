@@ -1,14 +1,27 @@
-# Jobs collected 2026-11-27 (36 new)
+# Jobs collected 2026-11-27 (49 new)
 
 - **AVP Marketing** — UnderwriteMe — salary not stated — London, England, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4472014698
+- **Brand Manager** — Bandai Namco Amusement Europe Ltd. — salary not stated — Richmond, ENG, UK — posted 2026-11-27 — indeed — https://uk.indeed.com/viewjob?jk=4c5616657e71f5e8
+- **Brand Marketing Manager** — WYSE London — salary not stated — London Area, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4493888735
 - **Brand Marketing Manager** — CDW — salary not stated — London, England, UK — posted 2026-11-27 — linkedin, indeed — https://www.linkedin.com/jobs/view/4495541498
-- **Business Development Manager (B2B Pharmacy Partnerships)** — NewGen Pharmacy — £45,000–£55,000 — Stratford, East London — posted 2026-11-27 — adzuna — https://www.adzuna.co.uk/jobs/details/5980554646?utm_medium=api
+- **Campaign Manager** — CDP Global — £34,313 (estimate) — London, UK — posted 2026-11-27 — adzuna — https://www.adzuna.co.uk/jobs/details/5980596502?utm_medium=api
+- **Campaign Operations Manager, EMEA (12 month Contract)** — Strava — £57,000–£63,000 — London, England, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4477354635
 - **Communications Officer (REDEPLOYEE APPLICANTS ONLY)** — City St George's, University of London — salary not stated — London, ENG, UK — posted 2026-11-27 — indeed — https://uk.indeed.com/viewjob?jk=4102af6223db86d6
+- **Content Production Lead** — Department for Environment, Food and Rural Affairs — salary not stated — London, England, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4495302021
+- **Content Production Lead** — DEFRA — £64,015–£71,178 — London, ENG, UK — posted 2026-11-27 — indeed — https://uk.indeed.com/viewjob?jk=4e8036b3526b51ed
+- **Expert Opportunity - Group Brand Manager ($70/hr, up to $1,400/week)** — Begun — salary not stated — London, England, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4453385824
+- **Group Marketing Manager** — Recruitment Evangelists — salary not stated — London Area, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4495596452
+- **Marketing Lead** — Orchard.IO — salary not stated — London Area, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4495588854
+- **Marketing Manager** — Minut — salary not stated — London Area, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4495093690
 - **Product Marketing Manager** — RTB House — salary not stated — London, England, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4486704227
+- **Senior Digital Marketing Manager (E-commerce) Shopify | Healthcare** — Rightangled — salary not stated — London, England, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4479784736
+- **Senior Field Marketing Manager, UK & Ireland** — Index Exchange — salary not stated — London Area, UK — posted 2026-11-27 — linkedin — https://www.linkedin.com/jobs/view/4479154436
+- **Shopper Marketing Manager** — Red Bull — £37,834 (estimate) — London, UK — posted 2026-11-27 — adzuna — https://www.adzuna.co.uk/jobs/details/5980596260?utm_medium=api
 - **Brand & Trade Marketing Manager** — BOLDCUBE — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495551209
 - **Brand Building & Innovation Capability Lead** — Diageo — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed — https://uk.indeed.com/viewjob?jk=1c4382f4a1d87e8d
 - **Branding & PR Manager** — Joseph Hage Aaronson & Bremen LLP — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4495553063
 - **Communications Campaigns Manager** — DiverseJobsMatter — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4486770920
+- **Content, Community & Insight Manager - Consumer Products Division (FTC)** — L'Oréal — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4486598738
 - **Creative Strategist** — Atherton Stone — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4493843017
 - **Customer Lifecycle Marketing Manager** — Barclays — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4493836465
 - **Digital Marketing Manager / Executive** — Lubbock Fine — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4493849217
@@ -26,13 +39,13 @@
 - **Regional Field Marketing Manager, EMEA Commercial** — Stripe — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4487780802
 - **Regional Field Marketing Manager, EMEA Platforms** — Stripe — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4487792527
 - **Regional Marketing Manager, UKI** — Aircall.io, Inc. — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed — https://uk.indeed.com/viewjob?jk=6fdbccb5a174d2e1
-- **Senior Brand Manager  - High-growth Food Brand** — PIE Recruitment — £65,000–£70,000 — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4493819926
+- **Senior Brand Manager  - High-growth Food Brand** — PIE Recruitment — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4493819926
 - **Senior Content & Engagement Manager** — 7IM — salary not stated — London Area, UK — posted 2026-11-26 — linkedin, indeed — https://www.linkedin.com/jobs/view/4495058167
 - **Senior Content & Engagement Manager** — Seven Investment Management — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed — https://uk.indeed.com/viewjob?jk=167beb820585713a
 - **Senior Content & Search Activation Lead** — Oliver Agency — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed — https://uk.indeed.com/viewjob?jk=e73e0eafa45f2e79
 - **Senior Field Marketing Manager** — Verda — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4487729340
 - **Senior Manager, Content Operations** — The Walt Disney Company — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed — https://uk.indeed.com/viewjob?jk=894fec890077d0b6
 - **Senior Partner Marketing Manager, Retail** — Deliveroo — salary not stated — London, England, UK — posted 2026-11-26 — linkedin, indeed, Deliveroo careers — https://www.linkedin.com/jobs/view/4495027975
-- **Senior Partner Marketing Manager, Retail** — VISSPO — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4493843713
+- **Senior Performance Creative Strategist** — Cranberry Panda — salary not stated — London Area, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4493814217
 - **Trade Marketing Executive** — EssilorLuxottica — salary not stated — London, ENG, UK — posted 2026-11-26 — indeed — https://uk.indeed.com/viewjob?jk=b0ccdbbf48ededdd
 - **UK & Europe Corporate Communications Lead** — TransUnion — salary not stated — London, England, UK — posted 2026-11-26 — linkedin — https://www.linkedin.com/jobs/view/4469478045

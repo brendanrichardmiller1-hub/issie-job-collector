@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-27T09:44:00.565389+00:00",
+ "generated_at": "2026-11-27T12:25:15.457999+00:00",
  "window_start": "2026-11-26",
  "counts": {
-  "raw": 1148,
-  "after_filters": 107,
-  "new_in_window": 36,
+  "raw": 1169,
+  "after_filters": 109,
+  "new_in_window": 49,
   "dropped": {
-   "title": 796,
-   "salary": 11,
+   "title": 791,
+   "salary": 17,
    "location": 26
   }
  },
@@ -37,6 +37,54 @@
    "is_new": true
   },
   {
+   "title": "Brand Manager",
+   "company": "Bandai Namco Amusement Europe Ltd.",
+   "location": "Richmond, ENG, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://uk.indeed.com/viewjob?jk=4c5616657e71f5e8",
+   "description": "Competitive Rate\n\n**Brand Manager**\n\n**Location:** Richmond,London (Office-based,5 days per week)\n\n**Reporting to:** Senior Brand Manager\n\n**Territory:** United Kingdom\n\n**Overview**\n\nBandai Namco is seeking an organised,analytical and proactive Brand Manager with experience in the UK tabletop gaming and / or Trading Card Game industry. Attention will be given to candidates who are familiar with handling ‘Organised Play’ activities.\n\nThis is a broad commercial role combining product brand management,project coordination & reporting as a key responsible person for the assigned brand(s).\n\nThe successful candidate will work closely with internal teams and retail partners to support product launches,handle ‘Organised Play’ activities,manage product information and allocations and contribute to brand marketing initiatives and events.\n\n**Ideal Candidate Profile**\n\nWe are looking for a highly organised and detail-oriented individual with strong analytical skills and the ability to manage multiple projects simultaneously.\n\nCandidates may come from backgrounds such as:\n\n* **Brand Management**\n* **Organised Play Co-ordinator**\n* Product Management / Product Marketing\n* Category Management\n* Trade Marketing\n* Commercial or Sales Support\n* Consumer Products,Toys,Collectibles,Licensing or FMCG\n\n**Previous experience within the UK Tabletop Gaming and / or Trading Card Game industry is preferred.**\n\n**Key Skills & Experience**\n\n**Essential**\n\n* Exceptional attention to detail and accuracy\n* Strong organisational and project management skills\n* Advanced Excel capability,including:\n* Data analysis\n* Lookups and formulas\n* PivotTables\n* Strong PowerPoint presentation skills\n* Ability to analyse commercial data,sales reports and inventory performance\n* Strong communication and stakeholder management skills\n* Ability to manage multiple priorities and deadlines\n* Proactive approach with a willingness to take ownership and follow tasks through to completion\n\n**Preferred**\n\n* Experience in brand management,product management,marketing,retail,licensing,toys,collectibles or consumer products\n* Experience coordinating events,exhibitions,retail activations or consumer-facing projects\n* Interest in Tabletop gaming products\n* Interest in Trading card game products\n* Japanese language capability (advantageous but not essential)\n\n**Personal Attributes**\n\nThe ideal candidate will be:\n\n* Detail-oriented and highly accurate\n* Organised and dependable\n* Analytical and numerically confident\n* Adaptable and comfortable working in a fast-paced environment\n* A proactive self-starter\n* Collaborative and team-focused\n* Curious,enthusiastic and eager to learn\n* Comfortable balancing creative brand initiatives with data-driven and administrative responsibilities\n\n**About Bandai Namco :**\n\nBandai Namco exists to share Dreams,Fun and Inspiration with people around the world. Connecting people and societies in the enjoyment of uniquely entertaining products and services,we’re working to create a brighter future for everyone.\n\nBandai Toys,Hobby & Collectibles is a UK division of Bandai Namco Amusement Europe,a global leader in entertainment-related products and services in a wide range of fields,including toys,amusement facilities,and video game software. As an affiliate of the Bandai Namco Group,we work arm-in-arm with colleagues across the world including Europe,USA & Japan to provide Fun for All into the Future across our breadth of products & services.\n\n**About Bandai Namco T&H Brand Department :**\n\nThe Brand Department are the principal team responsible for setting & delivering fiscal Brand Budgets by strategic planning & collaboration with the Sales Department & IP Departments. The team is responsible for all product-based activities & projects as we oversee the full product lifecycle from source to shelf with a broad portfolio of formats including Action Figures,Prize Figures,Model Kits,Collectibles,Digital Pets,Construction,Lifestyle & more. Working closely with our Japanese Head Office teams,we bring authentic products & experiences to consumers in the UK with a fan-first,long-term planning mentality.\n\n**What do we offer successful candidates?**\n\n* Competitive salary\n* Employee pension scheme\n* Ongoing training and development opportunities\n* Supportive team environment\n* Employee Assistance Programme (EAP) from day 1 of employment\n* Optional Private Health Insurance\n* Staff discount card\n* Staff Parking\n* 33 days annual leave (25 days + 8 Bank Holidays)\n* Flexi Working schedule (In agreement with Line Manager)\n* Annual Bonus Scheme – Employees may be eligible for an annual bonus,subject to both individual performance and overall company performance. Please note that bonus payments are discretionary and not guaranteed.\n* Opportunities for International Travel in-line with role responsibility (Consumer Events / Trade Shows / Business Conferences etc.)",
+   "apply_url": "https://careers.bandainamco-am.co.uk/job/1xkcpHAjyKRFuYjXaFyjmP?source=Indeed",
+   "company_size": "501 to 1,000",
+   "company_industry": "",
+   "key": "bandai namco amusement europe|brand manager",
+   "sources": [
+    "indeed"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Brand Marketing Manager",
+   "company": "WYSE London",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "contract",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4493888735",
+   "description": "**Position:**\nBrand Marketing Manager\n\n**Reports to:**\nMarketing Director\n\n**Location:**\nHead Office, Shepherd’s Bush, London. 4 days in the office, Fridays from home\n\n**Contract:**\nFull-time, fixed-term maternity cover for 12 months\n\n**Role description**\n\nWe are looking for a creative, hands-on Brand Marketing Manager to join us on a 12-month maternity cover contract, owning channel planning and execution across all WYSE London brand marketing channels, including social media, creators, affiliates, community and PR.\n\nThis is an exciting opportunity to join the brand as we develop our marketing strategy and take WYSE London into its next stage of growth.\n\nThe role has a strong emphasis on social media management and content, including elevating our channels, testing new content and owning our ambassador and community programmes. It is a hands-on role, suited to a creative thinker who is not afraid to think outside the box.\n\nYour ability to work closely with the Marketing Director and coordinate across departments, will be essential to the role.\n\n**Key responsibilities**\n\n**1. Campaign planning & delivery**\n\n• Channel planning across social media, creators, affiliates, PR and partnerships\n\n• Managing the marketing calendar in-line with top-line messaging, product launches and key trading moments\n\n**2. Social media & content**\n\n• Managing all organic social channels, including content planning, posting and community management\n\n• Growing audience and engagement across all channels\n\n• Planning and briefing founder-led content\n\n• Writing clear social content briefs for the in-house creative team, creators, photographers and freelancers\n\n• Producing shoot plans, shot lists and content schedules to support social content production\n\n• Supporting performance marketing channel content needs, working with the Marketing Director and performance marketing team to brief and deliver creative assets for paid social and other performance channels\n\n• Ensuring all content follows the WYSE London visual and written tone of voice\n\n**3. Ambassadors, creators, affiliates & community**\n\n• Managing the ambassador programme across current ambassadors and new recruits\n\n• Managing creator relationships, including gifting and paid partnerships\n\n• Managing the affiliate programme and partners\n\n• Growing and managing the WYSE London community, online and through events\n\n**4. PR, partnerships & collaborations**\n\n• Managing the PR agency, including briefing on launches, campaigns and key brand stories\n\n• Identifying and suggesting brand partnerships and collaborations, drawing on a strong awareness of the WYSE London customer\n\n**5. Brand reporting & stakeholder management**\n\n• Reporting on brand performance, including social growth, engagement, creator and affiliate performance and PR coverage\n\n• Communicating results to senior stakeholders\n\n**Knowledge and skills**\n\n• Previous brand marketing or social media experience is essential, ideally 6+ years in fashion, lifestyle or e-commerce\n\n• Proven experience growing social channels and creating content\n\n• Experience managing creators, ambassadors or affiliate programmes\n\n• Experience managing a PR agency\n\n• Creative, with the confidence to think outside the box\n\n• Forward-thinking about the use of AI tools to enhance creativity, scale content and speed up delivery, while maintaining brand quality and tone of voice\n\n• Strong organisational and project management skills\n\n• Commercially minded and able to report on performance\n\n• Able to work under pressure, to tight deadlines, and to show initiative\n\n• Collaborative, with strong interpersonal and team skills\n\n• Resilient and adaptable\n\n**About WYSE London**\n\nWYSE London is a UK online womenswear brand founded by Marielle Wyse, by women for women. The brand is for women with a joie de vivre, whatever their age or shape, offering elevated clothing that is unexpected and fun.\n\n**How to apply**\n\nPlease email your CV and a covering letter to careers@wyselondon.com, with links to campaigns or social content you've delivered. Only successful applicants will be contacted.",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Retail Apparel and Fashion",
+   "key": "wyse london|brand marketing manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
    "title": "Brand Marketing Manager",
    "company": "CDW",
    "location": "London, England, UK",
@@ -48,10 +96,10 @@
    "contract": "fulltime",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4495541498",
-   "description": "At CDW, we make it happen, together. Trust, connection, and commitment are at the heart of how we work together to deliver for our customers. It’s why we’re coworkers, not just employees. Coworkers who genuinely believe in supporting our customers and one another. We collectively forge our path forward with a level of commitment that speaks to who we are and where we’re headed. We’re proud to share our story and Make Amazing Happen at CDW.\n  \n  \nThe Brand Marketing Manager will play a key role in shaping and strengthening CDW's UK brand, translating our global brand strategy into a compelling and locally relevant presence for customers, partners and coworkers. Reporting to the Creative and Brand Strategy Lead, you'll bring CDW's story to life through strategic content, customer advocacy, thought leadership, website management and social media engagement.\n  \n  \nThis is more than a traditional brand marketing role. We're looking for someone who can confidently immerse themselves in the technology landscape and work closely with subject matter experts to create content that positions CDW's capabilities across areas such as AI, cloud, security, networking, digital infrastructure and digital transformation. You'll help articulate our value proposition in a way that resonates with business decision-makers, building awareness, trust and engagement across the market.\n  \n  \nThe successful candidate will combine strategic thinking with hands-on execution, bringing strong storytelling skills, commercial awareness and a passion for translating complex topics into engaging, impactful content. They will play a critical role in strengthening CDW's market presence through compelling brand storytelling, customer advocacy, thought leadership and proposition-led content that showcases the value and expertise CDW brings to customers.\n  \n  \nWhat You Will Do\n  \n  \n\n* Develop and deliver CDW's UK brand strategy, ensuring alignment with the global brand while creating a distinctive and relevant presence in the UK market.\n* Create and execute content and editorial strategies that position CDW as a trusted technology advisor, showcasing our expertise, customer outcomes, culture and people through thought leadership, campaigns and brand storytelling.\n* Work closely with internal subject matter experts, sales leaders and technology specialists to create compelling content across areas including AI, cloud, security, networking and digital transformation.\n* Translate complex technology concepts into clear, engaging and commercially relevant messaging for business audiences.\n* Build and manage a pipeline of customer success stories and case studies, partnering with sales, customers and stakeholders to develop impactful advocacy content.\n* Own the planning, governance and optimisation of website content, ensuring it is accurate, engaging, accessible, search-friendly and aligned to business priorities.\n* Manage CDW UK's organic social media channels and content calendar, balancing corporate messaging, thought leadership, customer stories and colleague advocacy.\n* Monitor content, campaign and channel performance, using insights and market trends to continuously optimise engagement, reach and brand awareness.\n* Collaborate with partner marketing teams to align content strategies, amplify thought leadership and maximise the impact of joint marketing initiatives.\n* Work closely with stakeholders across Marketing, Sales and the wider business to maintain consistency in messaging, brand governance and market positioning.\n\nWhat We Expect of You\n  \n  \n\n* Minimum 5 years' experience in Brand Marketing, Content Marketing or Integrated Marketing.\n* Experience within the technology sector is highly desirable, although IT Channel experience is not essential.\n* A genuine interest in technology and the ability to quickly understand complex solutions, market trends and customer challenges.\n* Proven experience developing local brand strategies and translating global brand frameworks into impactful market activity.\n* Strong storytelling, copywriting and content creation skills, with the ability to simplify technical concepts without losing credibility.\n* Experience creating thought leadership content, customer case studies and integrated brand campaigns.\n* Confidence working with technical subject matter experts and transforming their expertise into compelling content and proposition-led messaging.\n* Hands-on experience managing website content through CMS platforms, with a strong understanding of SEO, accessibility and content governance.\n* Experience managing organic social media strategies, editorial calendars, community engagement and performance reporting.\n* Excellent stakeholder management and project management skills, with the ability to manage multiple priorities and influence across the organisation.\n* A data-driven mindset, able to define KPIs, analyse performance metrics and turn insights into action.\n* Bachelor's degree in Marketing, Communications, Business or a related discipline, or equivalent professional experience.\n* A passion for creating engaging content that increases awareness, strengthens brand reputation and clearly communicates business value to customers and partners.\n\n**CDW is committed to being an AI-fluent organization**\nWe’re looking for people who bring curiosity, a learner’s mindset, and a willingness to engage with ever-evolving technology and tools. We value adopting AI as a partner, openness to experimentation, and a shared interest in learning together on AI. Our goal is to create a culture where AI enhances—not replaces—human creativity and decision-making. You don’t need to be an expert today; what matters is your readiness to explore, adapt, and grow with us as we integrate AI responsibly and effectively into our work.\n  \n  \nAdditionally, CDW is committed to fostering an equitable, transparent, and respectful hiring process for all applicants. During our application process, our goal is to underst",
+   "description": "**Description**\n\nAt CDW, we make it happen, together. Trust, connection, and commitment are at the heart of how we work together to deliver for our customers. It’s why we’re coworkers, not just employees. Coworkers who genuinely believe in supporting our customers and one another. We collectively forge our path forward with a level of commitment that speaks to who we are and where we’re headed. We’re proud to share our story and Make Amazing Happen at CDW.\n\nThe Brand Marketing Manager will play a key role in shaping and strengthening CDW's UK brand, translating our global brand strategy into a compelling and locally relevant presence for customers, partners and coworkers. Reporting to the Creative and Brand Strategy Lead, you'll bring CDW's story to life through strategic content, customer advocacy, thought leadership, website management and social media engagement.\n\nThis is more than a traditional brand marketing role. We're looking for someone who can confidently immerse themselves in the technology landscape and work closely with subject matter experts to create content that positions CDW's capabilities across areas such as AI, cloud, security, networking, digital infrastructure and digital transformation. You'll help articulate our value proposition in a way that resonates with business decision-makers, building awareness, trust and engagement across the market.\n\nThe successful candidate will combine strategic thinking with hands-on execution, bringing strong storytelling skills, commercial awareness and a passion for translating complex topics into engaging, impactful content. They will play a critical role in strengthening CDW's market presence through compelling brand storytelling, customer advocacy, thought leadership and proposition-led content that showcases the value and expertise CDW brings to customers.\n\n### **What You Will Do**\n\n* Develop and deliver CDW's UK brand strategy, ensuring alignment with the global brand while creating a distinctive and relevant presence in the UK market.\n* Create and execute content and editorial strategies that position CDW as a trusted technology advisor, showcasing our expertise, customer outcomes, culture and people through thought leadership, campaigns and brand storytelling.\n* Work closely with internal subject matter experts, sales leaders and technology specialists to create compelling content across areas including AI, cloud, security, networking and digital transformation.\n* Translate complex technology concepts into clear, engaging and commercially relevant messaging for business audiences.\n* Build and manage a pipeline of customer success stories and case studies, partnering with sales, customers and stakeholders to develop impactful advocacy content.\n* Own the planning, governance and optimisation of website content, ensuring it is accurate, engaging, accessible, search-friendly and aligned to business priorities.\n* Manage CDW UK's organic social media channels and content calendar, balancing corporate messaging, thought leadership, customer stories and colleague advocacy.\n* Monitor content, campaign and channel performance, using insights and market trends to continuously optimise engagement, reach and brand awareness.\n* Collaborate with partner marketing teams to align content strategies, amplify thought leadership and maximise the impact of joint marketing initiatives.\n* Work closely with stakeholders across Marketing, Sales and the wider business to maintain consistency in messaging, brand governance and market positioning.\n\n### **What We Expect of You**\n\n* Minimum 5 years' experience in Brand Marketing, Content Marketing or Integrated Marketing.\n* Experience within the technology sector is highly desirable, although IT Channel experience is not essential.\n* A genuine interest in technology and the ability to quickly understand complex solutions, market trends and customer challenges.\n* Proven experience developing local brand strategies and translating global brand frameworks into impactful market activity.\n* Strong storytelling, copywriting and content creation skills, with the ability to simplify technical concepts without losing credibility.\n* Experience creating thought leadership content, customer case studies and integrated brand campaigns.\n* Confidence working with technical subject matter experts and transforming their expertise into compelling content and proposition-led messaging.\n* Hands-on experience managing website content through CMS platforms, with a strong understanding of SEO, accessibility and content governance.\n* Experience managing organic social media strategies, editorial calendars, community engagement and performance reporting.\n* Excellent stakeholder management and project management skills, with the ability to manage multiple priorities and influence across the organisation.\n* A data-driven mindset, able to define KPIs, analyse performance metrics and turn insights into action.\n* Bachelor's degree in Marketing, Communications, Business or a related discipline, or equivalent professional experience.\n* A passion for creating engaging content that increases awareness, strengthens brand reputation and clearly communicates business value to customers and partners.\n\n**CDW is committed to being an AI-fluent organization**\n\nWe’re looking for people who bring curiosity, a learner’s mindset, and a willingness to engage with ever-evolving technology and tools. We value adopting AI as a partner, openness to experimentation, and a shared interest in learning together on AI. Our goal is to create a culture where AI enhances—not replaces—human creativity and decision-making. You don’t need to be an expert today; what matters is your readiness to explore, adapt, and grow with us as we integrate AI responsibly and effectively into our work.\n\nAdditionally, CDW is committed to fostering an equitable, transparent, and respectful hiring process for all applicants. During our application process, our goal is to understand",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "IT Services and IT Consulting",
+   "company_industry": "",
    "key": "cdw|brand marketing manager",
    "sources": [
     "linkedin",
@@ -64,21 +112,45 @@
    "is_new": true
   },
   {
-   "title": "Business Development Manager (B2B Pharmacy Partnerships)",
-   "company": "NewGen Pharmacy",
-   "location": "Stratford, East London",
-   "salary_min": 45000.0,
-   "salary_max": 55000.0,
-   "salary_text": "£45,000–£55,000",
-   "salary_is_estimate": false,
+   "title": "Campaign Manager",
+   "company": "CDP Global",
+   "location": "London, UK",
+   "salary_min": 34313.41,
+   "salary_max": 34313.41,
+   "salary_text": "£34,313",
+   "salary_is_estimate": true,
    "work_pattern": "",
    "contract": "full_time permanent",
    "date_posted": "2026-11-27",
-   "url": "https://www.adzuna.co.uk/jobs/details/5980554646?utm_medium=api",
-   "description": "Job title Business Development Manager (B2B Pharmacy Partnerships) Company NewGen Pharmacy, a trading name of New International Medical Ltd Location Hybrid: 245 High Street, Stratford, London E15 2LS, & Unit L & L1 43-49 Fowler Rd, Hainault Essex IG6 3FF plus UK travel to partners and events Contract Permanent, full-time, 40 hours per week 9am-6pm Reports to Superintendent Pharmacist / Director Base salary £45,000 – £55,000 depending on experience Commission and bonus Uncapped commission on par…",
-   "key": "newgen pharmacy|business development manager",
+   "url": "https://www.adzuna.co.uk/jobs/details/5980596502?utm_medium=api",
+   "description": "Job Description : Location(s): Hybrid/Remote Application deadline: 14th August Who we are CDP is a global non-profit that runs the world's environmental disclosure system for investors, companies, cities, and governments to assess their impact and take urgent action to build a truly sustainable economy. We must act urgently to prevent catastrophic climate change and the irreversible loss of nature and habitats. That starts by being aware of our impact so that investors, companies, cities and go…",
+   "key": "cdp global|campaign manager",
    "sources": [
     "adzuna"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Campaign Operations Manager, EMEA (12 month Contract)",
+   "company": "Strava",
+   "location": "London, England, UK",
+   "salary_min": 57000.0,
+   "salary_max": 63000.0,
+   "salary_text": "£57,000–£63,000",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "contract",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4477354635",
+   "description": "**About Strava**\nStrava is the app for active people. With over 200 million athletes in more than 185 countries, it’s more than tracking workouts—it’s where people make progress together, from new habits to new personal bests. No matter your sport or how you track it, Strava’s got you covered. Find your crew, crush your goals, and make every effort count. Start your journey with Strava today.\n  \n  \nOur mission is simple: to motivate people to live their best active lives. We believe in the power of movement to connect and drive people forward.\n  \n  \n**About this role:**\nWe’re looking for a Campaign Operations Manager to join Strava for Business on a 12-month maternity cover contract, owning the delivery of sponsored campaigns across EMEA. You’ll be accountable for every campaign you run from signed contract to partner recap: multi-format, multi-stakeholder, and on time.\n  \n  \nYou’ll work with Account Managers as your commercial counterpart, and lead the delivery work with Copywriting, Localisation and external contractors where necessary. When something is at risk, you decide what to do about it and bring people along, rather than waiting to be told.\n  \n  \n**What you’ll do:**\n\n* Own delivery end to end: Take the signed contract and own the campaign through launch, live and wrap-up across every format in the deal, including challenges and additional promotion. You’re the single point of accountability for scope, timeline and quality.\n* Plan and run the build: Turn the contract into a delivery plan. Set up campaigns in our internal tools, brief copy, creative and localisation, and manage contractors and internal teams to deadlines.\n* Quality gate: Run pre-launch QA on copy, assets and targeting against the contract. Nothing goes live that you haven’t signed off.\n* Manage performance in flight: Monitor live delivery, spot risks early, and make or recommend the call: optimise, reallocate or escalate. Take the partner-facing recommendation to AMs rather than just flagging a problem.\n* Close the loop with Account Managers: Close the loop with Account Managers: Support renewal conversations with effective and convincing activation recaps.\n* Manage and coach external contractors: Work with external contractors to enable efficient delivery across timezones.\n* Make the machine better: Fix the process, templates and documentation as you go. You’ll be working in a function that’s still being shaped, so you have room to change how we deliver.\n\n**What you’ll bring to the team:**\n\n* 4–6 years running multi-channel or multi-format campaigns end to end, in sponsorship, partnerships, media, agency or platform environments.\n* Track record of owning delivery across multiple concurrent campaigns, partners and stakeholders, and hitting dates.\n* Strong judgement under pressure. You know when to fix it, when to escalate and when to push back.\n* Confident partner-facing communicator, comfortable presenting results and managing expectations.\n* Exceptional attention to detail without losing sight of the outcome.\n* Comfortable with processes still evolving, and wants to improve them.\n\n****Why Join Us?****\nMovement brings us together. At Strava, we’re building the world’s largest community of active people, helping them stay motivated and achieve their goals.\n  \n  \nOur global team is passionate about making movement fun, meaningful, and accessible to everyone. Whether you’re shaping the technology, growing our community, or driving innovation, your work at Strava makes an impact.\n  \n  \nWhen you join Strava, you’re not just joining a company—you’re joining a movement. If you’re ready to bring your energy, ideas, and drive, let’s build something incredible together.\n  \n  \nStrava builds software that makes the best part of our athletes’ days even better. Just as we’re deeply committed to unlocking their potential, we’re dedicated to providing a world-class, inclusive workplace where our employees can grow and thrive, too. We’re backed by Sequoia Capital, TCV, Madrone Partners and Jackson Square Ventures, and we’re expanding in order to exceed the needs of our growing community of global athletes. Our culture reflects our community. We are continuously striving to hire and engage teammates from all backgrounds, experiences and perspectives because we know we are a stronger team together.\n  \n  \nStrava is an equal opportunity employer. In keeping with the values of Strava, we make all employment decisions including hiring, evaluation, termination, promotional and training opportunities, without regard to race, religion, color, sex, age, national origin, ancestry, sexual orientation, physical handicap, mental disability, medical condition, disability, gender or identity or expression, pregnancy or pregnancy-related condition, marital status, height and/or weight.\n  \n  \nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.\n  \n  \nCalifornia Consumer Protection Act Applicant Notice\n  \n  \nCompensation Range: £57K - £63K",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Software Development",
+   "key": "strava|campaign operations manager emea",
+   "sources": [
+    "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-27",
@@ -109,6 +181,150 @@
    "is_new": true
   },
   {
+   "title": "Content Production Lead",
+   "company": "Department for Environment, Food and Rural Affairs",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495302021",
+   "description": "London\n  \n  \n**Job Summary**\nThis is a senior operational role responsible for the creative and technical production of Defra's digital, print and offline content, with particular emphasis on social media content production and the design and delivery of print and offline creative materials. As Content Production Lead, you will act as the department's brand guardian, bringing advanced design, technical and creative expertise to the department's content output and setting the standard for visual storytelling, brand consistency and compliance across all channels, digital and offline. You will ensure that production flows smoothly from commissioning through to publication; managing workflows, deadlines and resources to deliver a high-quality, consistent digital and brand presence.\n  \n  \nYou will sit at the centre of the digital team, leading a sizeable team of producers and oversee the full production pipeline from concept through to filming, editing, print production and publication. Working closely with content creators, strategists, policy teams and senior leaders, you will combine hands-on technical mastery with strong creative and people leadership, acting as the final point of sign-off on brand application to deliver high-quality, consistent and brand-aligned content across digital and offline channels alike.\n  \n  \n**Job Description**\n\n* Act as the department’s brand guardian, leading the development, maintenance and implementation of brand guidelines across Defra and its Arm's Length Bodies (ALBs), ensuring consistent application of visual identity and His Majesty's Government (HMG) branding standards across digital, print and offline materials, and acting as the final point of approval for brand compliance.\n* Lead the planning and delivery of video, photography and digital production across Defra and its ALBs, providing expert technical and creative direction to ensure high-quality, engaging content tailored to social media, web and other channels.\n* Oversee the end-to-end production of digital, print and offline content, from concept to delivery, ensuring high creative and technical standards through expert use of Adobe Creative Suite and production processes.\n* Plan, manage and deliver livestreamed events and broadcasts, including technical setup, production logistics and troubleshooting, ensuring a smooth and professional output for ministerial and departmental events.\n* Manage and develop a sizeable team of producers, providing technical direction, creative feedback and mentoring to build capability and maintain high production and brand standards across digital, video and print disciplines.\n* Maintain quality assurance and editorial standards across all formats, ensuring content is accurate, inclusive, on-brand and compliant with government guidelines and HMG identity requirements before publication or production.\n* Act as the department's technical, creative and brand authority on video, photography, livestream and print production, advising senior stakeholders on what is achievable, on brand compliance, timelines, costs and best practice.\n* Monitor content performance and support evaluation, providing regular reporting on production output, quality, brand consistency and audience engagement across both digital and offline channels, feeding these insights into the wider evaluation cycle to inform continuous improvement.\n\nIn addition, all Grade 7 (G7) communications professionals within Defra group Communications will:\n  \n  \n\n* Provide professional leadership for their functional area, including line management, performance oversight, quality assurance and capability building. Deploy expertise collaboratively across priorities with other Grade 7s (G7s).\n* Lead and develop their team, motivating staff and embedding new ways of working across the group.\n* Build strong relationships with senior leaders, ministers, Special Advisers and stakeholders, providing trusted strategic communications advice.\n* Foster a proactive, flexible and collaborative team culture, managing competing priorities and balancing reactive work with strategic goals.\n* Communicate complex information clearly and persuasively, both in writing and verbally, adapting style and approach for different audiences and purposes.\n* Support crisis and incident communications, working across disciplines and with partners to ensure timely, coordinated information reaches audiences. This includes out-of-hours working when required.\n* Uphold Government Communication Service (GCS) professional standards, ensuring compliance with the Communication Functional Standard (GovS011), propriety guidance and accessibility requirements.\n* Act as the department’s brand guardian, leading the development, maintenance and implementation of brand guidelines across Defra and its Arm's Length Bodies (ALBs), ensuring consistent application of visual identity and His Majesty's Government (HMG) branding standards across digital, print and offline materials, and acting as the final point of approval for brand compliance.\n* Lead the planning and delivery of video, photography and digital production across Defra and its ALBs, providing expert technical and creative direction to ensure high-quality, engaging content tailored to social media, web and other channels.\n* Oversee the end-to-end production of digital, print and offline content, from concept to delivery, ensuring high creative and technical standards through expert use of Adobe Creative Suite and production processes.\n* Plan, manage and deliver livestreamed events and broadcasts, including technical setup, production logistics and troubleshooting, ensuring a smooth and professional output for ministerial and departmental events.\n* Manage and develop a sizeable team of producers, providing technical direction, creative feedback and mentoring to build capability and maintain high production and brand standards across digital, video and print disciplines.\n* Maintain quality assurance and edi",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Government Administration",
+   "key": "department for environment food and rural affairs|content production lead",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Content Production Lead",
+   "company": "DEFRA",
+   "location": "London, ENG, UK",
+   "salary_min": 64015.0,
+   "salary_max": 71178.0,
+   "salary_text": "£64,015–£71,178",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "parttime, fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://uk.indeed.com/viewjob?jk=4e8036b3526b51ed",
+   "description": "**Details**\n-----------\n\n### **Reference number**\n\n490474\n\n### **Salary**\n\n£64,015 - £71,178\n\nThis role also currently attracts a Specialist Pay Lead allowance of up to £4500.\n  \nFor details of our pay on appointment policy, please see below under the heading Salary.\n\nA Civil Service Pension with an employer contribution of 28.97%\n\nGBP\n\n### **Job grade**\n\nGrade 7\n\n### **Contract type**\n\nPermanent\n\n### **Business area**\n\nDEFRA - SW - Communications\n\n### **Type of role**\n\nCommunications / Marketing\n  \nDigital\n\n### **Working pattern**\n\nFlexible working, Full-time, Job share, Part-time\n\n### **Number of jobs available**\n\n1\n\n**Contents**\n------------\n\n* Location\n* About the job\n* Benefits\n* Things you need to know\n* Apply and further information\n\n**Location**\n------------\n\nLondon\n\n**About the job**\n-----------------\n\n### **Job summary**\n\nThis is a senior operational role responsible for the creative and technical production of Defra's digital, print and offline content, with particular emphasis on social media content production and the design and delivery of print and offline creative materials. As Content Production Lead, you will act as the department's brand guardian, bringing advanced design, technical and creative expertise to the department's content output and setting the standard for visual storytelling, brand consistency and compliance across all channels, digital and offline. You will ensure that production flows smoothly from commissioning through to publication; managing workflows, deadlines and resources to deliver a high-quality, consistent digital and brand presence.\n\nYou will sit at the centre of the digital team, leading a sizeable team of producers and oversee the full production pipeline from concept through to filming, editing, print production and publication. Working closely with content creators, strategists, policy teams and senior leaders, you will combine hands-on technical mastery with strong creative and people leadership, acting as the final point of sign-off on brand application to deliver high-quality, consistent and brand-aligned content across digital and offline channels alike.\n\n### **Job description**\n\n* Act as the departments brand guardian, leading the development, maintenance and implementation of brand guidelines across Defra and its Arm's Length Bodies (ALBs), ensuring consistent application of visual identity and His Majesty's Government (HMG) branding standards across digital, print and offline materials, and acting as the final point of approval for brand compliance.\n* Lead the planning and delivery of video, photography and digital production across Defra and its ALBs, providing expert technical and creative direction to ensure high-quality, engaging content tailored to social media, web and other channels.\n* Oversee the end-to-end production of digital, print and offline content, from concept to delivery, ensuring high creative and technical standards through expert use of Adobe Creative Suite and production processes.\n* Plan, manage and deliver livestreamed events and broadcasts, including technical setup, production logistics and troubleshooting, ensuring a smooth and professional output for ministerial and departmental events.\n* Manage and develop a sizeable team of producers, providing technical direction, creative feedback and mentoring to build capability and maintain high production and brand standards across digital, video and print disciplines.\n* Maintain quality assurance and editorial standards across all formats, ensuring content is accurate, inclusive, on-brand and compliant with government guidelines and HMG identity requirements before publication or production.\n* Act as the department's technical, creative and brand authority on video, photography, livestream and print production, advising senior stakeholders on what is achievable, on brand compliance, timelines, costs and best practice.\n* Monitor content performance and support evaluation, providing regular reporting on production output, quality, brand consistency and audience engagement across both digital and offline channels, feeding these insights into the wider evaluation cycle to inform continuous improvement.\n\nIn addition, all Grade 7 (G7) communications professionals within Defra group Communications will:\n\n* Provide professional leadership for their functional area, including line management, performance oversight, quality assurance and capability building. Deploy expertise collaboratively across priorities with other Grade 7s (G7s).\n* Lead and develop their team, motivating staff and embedding new ways of working across the group.\n* Build strong relationships with senior leaders, ministers, Special Advisers and stakeholders, providing trusted strategic communications advice.\n* Foster a proactive, flexible and collaborative team culture, managing competing priorities and balancing reactive work with strategic goals.\n* Communicate complex information clearly and persuasively, both in writing and verbally, adapting style and approach for different audiences and purposes.\n* Support crisis and incident communications, working across disciplines and with partners to ensure timely, coordinated information reaches audiences. This includes out-of-hours working when required.\n* Uphold Government Communication Service (GCS) professional standards, ensuring compliance with the Communication Functional Standard (GovS011), propriety guidance and accessibility requirements.\n\n### **Person specification**\n\nWe are looking for an experienced digital communications leader with strong strategic judgement, professional expertise and the ability to influence at senior levels.\n\nYou will have:\n\n* Proven experience managing brand identity and guidelines, ensuring consistency across digital, print and offline channels.\n* Significant hands-on experience in video production, filming, photography and editing, with advanced Adobe Creative Suite skills and a strong creative portfolio.\n* Experience d",
+   "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0Jm93bmVyPTUwNzAwMDAmb3duZXJ0eXBlPWZhaXImc2VhcmNoc29ydD1jbG9zaW5nJnBhZ2VjbGFzcz1Kb2JzJnVzZXJzZWFyY2hjb250ZXh0PTIyMjkxMzE3OCZqb2JsaXN0X3ZpZXdfdmFjPTIwMjMxMTEmc2VhcmNocGFnZT0zNiZyZXFzaWc9MTc5NTc4MDgxOC0wM2JjYTEwMWRhMWRkNWMyZDQ0ODk4YTM0NjQ1OWEzZDY3ZmE0ODk3",
+   "company_size": "1,001 to 5,000",
+   "company_industry": "Government",
+   "key": "defra|content production lead",
+   "sources": [
+    "indeed"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Expert Opportunity - Group Brand Manager ($70/hr, up to $1,400/week)",
+   "company": "Begun",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "parttime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4453385824",
+   "description": "**Ethos has rebranded to Begun**\n**About This Opportunity**\nWe're working with a leading foundational AI lab to find experienced group brand managers who can help train their latest language model on professional presentation and slide deck tasks.\n  \n  \nWe're looking for group brand managers with 4+ years at a leading brand, agency, or CPG company to create, evaluate, and refine AI-generated presentations and slide decks across core workflows: brand strategy decks, positioning and architecture presentations, campaign creative rationale slides, brand tracking readouts, and annual brand plan presentations.\n  \n  \n**Compensation:**\n$70/hour\n  \n  \n**Commitment:**\nFlexible, 5-20 hours per week (or more if desired)\n  \n  \n**Location:**\nFully remote, work on your own schedule\n  \n  \n**Start date:**\nASAP\n  \n  \n**Qualifications**\n\n* 4+ years in brand strategy or brand management at a leading company or agency\n* Portfolio of brand strategy presentations that shaped real campaigns or launches\n* Expert-level PowerPoint and slide craftsmanship, with excellent written communication and attention to detail\n\n**About Begun (formerly Ethos)**\nBegun is on a mission to make human opportunity abundant with AI. We use cutting-edge AI to match experts to paid opportunities at scale, from AI model training, investment research to full-time roles. We now pay out more than $1M/day to experts globally. Backed by world-leading investors including a16z, General Catalyst, XTX and more.\n  \n  \n**Key Requirements**\n\n* 4+ years in brand strategy or brand management at a leading company or agency\n* Portfolio of brand strategy presentations that shaped real campaigns or launches\n* Expert-level PowerPoint and slide craftsmanship, with excellent written communication and attention to detail",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Technology, Information and Internet",
+   "key": "begun|expert opportunity group brand manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Group Marketing Manager",
+   "company": "Recruitment Evangelists",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495596452",
+   "description": "**Group Marketing Manager | Restaurant Group | London | £60,000 plus bonus**\n\n**The role**\n\nYou'll lead marketing for an ambitious, independent London restaurant group with two distinct brands across three restaurants, and plans for further expansion.\n\nThis is a hands-on role combining marketing strategy with day-to-day delivery. You'll be equally comfortable developing a quarterly marketing plan, writing copy, delivering campaigns and managing external agencies.\n\nYou'll report directly to the founders and take responsibility for building both brands. That means driving covers and revenue, attracting new guests and encouraging repeat visits.\n\n**What you'll own**\n\n* Group marketing strategy, budgets and quarterly marketing plans\n* Brand positioning, tone of voice and creative direction across both brands\n* Campaigns that support restaurant trading and commercial objectives\n* CRM, email marketing, guest segmentation and retention\n* Social media, content creation, photography and video\n* PR, paid media, creative agencies and freelancers\n* Website content, SEO, Google Business Profiles and online booking conversion\n* Local marketing and partnerships that grow group bookings, private dining and corporate sales\n* AI and automation tools that improve marketing effectiveness\n* Monthly commercial reporting on campaign performance, spend and return on investment\n\n**What you'll bring**\n\n* Marketing experience in multi-site hospitality, ideally restaurants\n* A track record of personally delivering campaigns that drive bookings and revenue\n* Hands-on experience across CRM, email, social media and digital marketing\n* Excellent copywriting and editorial skills\n* An understanding of premium hospitality brands and restaurant trading patterns\n* Experience managing marketing budgets, agencies and external partners\n\n**What's in it for you**\n\n* Ownership of the marketing function across two distinctive, growing restaurant brands\n* A direct working relationship with the founders, so ideas move quickly from plan to launch\n* The chance to shape the marketing function as the group expands\n* A performance bonus linked to measurable commercial and marketing results\n* A varied role with genuine creative and commercial responsibility\n\n**Apply**\n\nApply with Easy Apply, or message Graham Townley Chartered MCIPD directly for a confidential conversation. All applications are handled in strict confidence.",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Hospitality, Restaurants, and Marketing Services",
+   "key": "recruitment evangelists|group marketing manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Marketing Lead",
+   "company": "Orchard.IO",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495588854",
+   "description": "**About Orchard**\n\nOrchard is a SaaS security and compliance platform that helps organisations keep their Apple devices secure, up to date and audit-ready.\n\nWe continuously manage macOS updates, application patching and essential security controls, helping organisations overcome outdated software, security drift and inconsistent compliance without relying on manual intervention or a particular mobile device management platform.\n\nOrchard isn't an MDM and doesn't aim to replace one. We complement existing tools by helping organisations achieve extremely high levels of patching and security compliance in areas where traditional MDM approaches struggle.\n\nWe're an early-stage company with a UK-based, fully remote team of around 10 people. We're now moving from product development and launch into our first phase of commercial growth.\n\nThat's where this role comes in.\n\n**The role**\n\nWe're looking for an experienced, hands-on Marketing Lead to take ownership of marketing at Orchard.\n\nYou'll join at an unusually interesting point in our journey. We have a differentiated product and a clear problem to solve, but we don't have a pre-written marketing playbook for you to execute.\n\nThere are ideas, expertise and support across the business, but you'll be responsible for turning those ingredients into a coherent marketing strategy and then making it happen.\n\nThe long-term ambition is for organisations using Macs around the world to know who Orchard is, understand what makes the platform different and believe in its ability to solve problems that other approaches can't.\n\nThis isn't a role where you'll develop a strategy and hand execution to a marketing team. We don't expect you to hire or manage a team at this stage. You'll be both the person shaping our marketing approach and the person doing much of the work.\n\nYou'll report directly to our Chief Revenue Officer and work particularly closely with our CTO and Engineering Lead to develop a deep understanding of Orchard, our market and upcoming product developments.\n\n**What you'll be doing**\n\nYou'll take day-to-day ownership of Orchard's marketing activities and relationships. Your remit will be broad and will evolve as we learn what works.\n\n**You'll be responsible for:**\n\n* Developing Orchard's marketing plan and recommending where we should focus our time and budget.\n* Working with the CRO to agree overall marketing strategy, priorities and spend.\n* Building awareness of Orchard and communicating clearly why the platform is different.\n* Helping establish credibility and confidence in Orchard amongst the Mac Admin community and the wider IT, security and compliance audience.\n* Creating compelling content for our website, LinkedIn, email and other relevant channels.\n* Planning, creating and running email campaigns using HubSpot Marketing Hub.\n* Developing and improving our SEO activity and organic visibility.\n* Identifying relevant events and opportunities, and taking responsibility for the marketing activity around them.\n* Representing and promoting Orchard at events in the UK and overseas.\n* Building relationships with relevant communities, podcasts, partners and other organisations that can help us reach our audience.\n* Developing our presence within communities used by Mac administrators and other relevant technology professionals.\n* Supporting our channel strategy by helping build awareness and engagement with partners and MSPs who may sell Orchard.\n* Owning the marketing side of product launches, new features and important product updates.\n* Working closely with technical colleagues to turn product capabilities into clear, credible and engaging market-facing messages.\n* Coming up with new campaigns, events, partnerships and other ideas that can increase awareness and generate demand.\n* Measuring the effectiveness of our activity and using what we learn to continually improve our approach.\n\nSome of our initial focus will include podcasts and community engagement, events, LinkedIn and email, but we don't expect that list to remain static. Part of your job will be helping us discover which channels and activities work best for Orchard.\n\n**What success looks like**\n\nUltimately, we want marketing to contribute to Orchard gaining customers.\n\nThere are important steps along the way, and we'll look at a combination of measures to understand whether we're making progress. These are likely to include:\n\n* Free-trial sign-ups.\n* Qualified interest and inbound enquiries.\n* Website traffic and engagement.\n* Growth in awareness and engagement within our target communities.\n* Performance of campaigns, content and events.\n* Contribution to sales pipeline and customer acquisition.\n* Ultimately, growth in the number of organisations becoming paying Orchard customers.\n\nWe're realistic about how marketing works, particularly at an early-stage company. We don't expect you to arrive with a perfect plan on day one, and we don't expect every campaign or idea to succeed.\n\nWe do expect thoughtful experimentation: develop a hypothesis, try things, measure what happens, learn from it and put more energy into what works.\n\n**Who we're looking for**\n\nYou'll already have meaningful marketing experience and be comfortable taking responsibility for both strategy and execution.\n\nWe're particularly interested in someone who:\n\nHas strong B2B marketing experience and understands how marketing to organisations differs from consumer marketing.\n\nHas previous marketing experience in SaaS, technology, cybersecurity or marketing to technical audiences\n\nHas experience delivering a range of marketing activities rather than specialising exclusively in a single channel.\n\nCan take a broad commercial objective and turn it into a practical marketing plan.\n\nIs equally comfortable thinking about strategy and getting into the detail to execute it.\n\nCan create strong written content and communicate technical or complex ideas clearly.\n\nHas experience with campaigns, content, events and digital marketing",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Computer and Network Security",
+   "key": "orchard io|marketing lead",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Marketing Manager",
+   "company": "Minut",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495093690",
+   "description": "We're looking for an all-round Marketing Manager who builds things. You'll work across the whole of marketing: campaigns that bring new customers in and help existing ones get more from Minut, the copy and content behind all of it, brand and community, and the AI workflows, automation, and reporting that keep it all running.\n\nNo two weeks look the same. You might launch a campaign on Monday, write a feature launch email for customers on Wednesday, and build a reporting workflow on Friday. You start from the product and the customer, you own clear numbers, and you'd rather ship a working version this week than plan the perfect one next quarter.\n\n**What you'll work on**\n\n**Demand generation and campaign management**\n\n* Planning, launching and optimising campaigns across email, social, events and partners, from brief to results.\n* Working with our paid media and sales teams so every campaign tells one story and drives pipeline and revenue.\n* Testing audiences, offers and landing pages, then scaling what works and stopping what doesn't.\n* Customer marketing campaigns for existing customers, such as feature launches, upgrade offers, and seasonal pushes, planned with product marketing, who own the customer lifecycle.\n\n**AI and marketing operations**\n\n* Building AI workflows and automation that speed up research, campaign set-up, journeys, and reporting.\n* Owning our marketing automation and CRM set-up, including triggers, segments, and data quality.\n* Clear tracking and dashboards across the funnel, so decisions are based on data.\n\n**Brand and community**\n\n* Keeping our brand voice consistent across campaigns and customer communications.\n* Growing a community of hosts and property managers, plus our reviews and referral programme.\n* Writing copy across your campaigns: emails, ads, landing pages, website pages, in-app messages and sales materials, in a voice that is clear, warm and sounds like Minut.\n* Planning and briefing website and SEO content, produced with AI tools and freelancers, to support organic and AI search growth.\n\n**How we'll measure success**\n\n* New customers and self-serve sign-ups from your campaigns\n* Revenue from the campaigns you run, for new and existing customers\n* Pipeline from campaigns, with sales\n* Reviews and referrals\n* Time saved and data quality from the AI workflows and automation you build\n\n**In your first six months, you'll**\n\n* Plan and launch a campaign calendar across new and existing customers, aligned with product, sales, and paid media.\n* Set up clean campaign tracking and a dashboard from first touch to revenue.\n* Run at least one customer marketing campaign, such as a feature launch or upgrade push, with product marketing.\n* Run at least one campaign end to end and report on its results.\n* Ship at least one AI workflow that saves the team real time every week.\n\n**What you'll bring**\n\n* 4+ years in B2B or B2B2C marketing, ideally as a generalist who has worked across campaigns, customer marketing, content, and marketing operations, often in a small team.\n* Proven results in more than one area of marketing, such as campaigns or content that moved pipeline, sign-ups, upgrades, or retention, with the numbers to show it.\n* Hands-on experience with marketing automation and CRM tools: you can set up a segment, a trigger, or an A/B test yourself.\n* Hands-on experience using AI tools and automation in your daily work. Show us something you've built.\n* Comfort with data: you can set up tracking, read a cohort or a dashboard, and make a call from it.\n* Strong copywriting. You write clear, persuasive copy that sounds human, can move between a punchy ad, a helpful onboarding email, and a full website page, and can edit an AI draft until it's ready to publish.\n* A product-first, customer-focused mindset. You're curious about why people buy, stay, and leave.\n* A build-it, jack-of-all-trades attitude. You take ownership, move fast, switch easily between strategy and hands-on work, and don't wait for perfect conditions.\n\n**Nice to have**\n\n* Experience marketing subscription products, ideally with hardware, or in proptech, hospitality, or SaaS.\n* Experience with product-led growth and in-app messaging tools.\n* Experience building a community, ambassador, or referral programme.\n* Experience with customer.io, HubSpot or similar, n8n, Clay, GA4 and AirOps.\n\n**How to apply**\n\nSend us your CV and a short note on two or three different things you've built, such as a customer journey, a campaign, a piece of content, or a workflow, and what each one achieved. Please include two or three samples of copy you've written.",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Software Development and Computers and Electronics Manufacturing",
+   "key": "minut|marketing manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
    "title": "Product Marketing Manager",
    "company": "RTB House",
    "location": "London, England, UK",
@@ -127,6 +343,75 @@
    "key": "rtb house|product marketing manager",
    "sources": [
     "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Senior Digital Marketing Manager (E-commerce) Shopify | Healthcare",
+   "company": "Rightangled",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4479784736",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "rightangled|senior digital marketing manager shopify healthcare",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Senior Field Marketing Manager, UK & Ireland",
+   "company": "Index Exchange",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4479154436",
+   "description": "**About Index Exchange**\nIndex Exchange is a globally trusted independent supply-side platform, powering intelligent decisioning that maximizes value for media owners. As a neutral, conflict-free exchange, we help media owners connect more effectively with the world’s leading brands, enabling marketers to achieve stronger performance while advancing efficiency, transparency, and quality across the programmatic ecosystem.\n  \n  \nWith more than 20 years of industry leadership, we continue to accelerate the ad technology evolution by applying intelligence closer to the impression and reducing waste across the supply chain. Through radically transparent practices and exceptional standards, we deliver long-term value for media owners, marketers, and partners worldwide.\n  \n  \n**What’s it like to work at Index?**\nIndex is an exciting and fast-paced place to work. You'll be able to feed your ambition, lean into trust and transparency, and feel genuine support from your colleagues. We’re built on our core values and live them each day. They're‌ not just buzzwords.\n  \n  \nWe pride ourselves on our independence and openness, not only in our technology, but in our teams, too. Our diverse and inclusive culture celebrates how we can leverage our unique differences to help drive Index forward.\n  \n  \nWe have more than 550 Indexers around the globe dedicated to building a safe and transparent marketplace that provides a trusted experience for consumers, and we’re looking for talented professionals to help take us to the next level.\n  \n  \n**Are you ready to join the programmatic evolution?**\nIndex Exchange is looking for a Senior Field Marketing Manager for Europe to plan and execute a regional strategy that will make an impact on our rapidly growing regional business. The role will have a primary focus on programmes that will drive brand recognition, positive brand perception and local customer acquisition and retention.\n  \n  \nThis position reports directly to the Head of International Marketing, based in London (UK), but will work globally with members of the Sales, Services, and wider Marketing organisation to ensure the main outcomes for the business are achieved.\n  \n  \n**What We’re Looking For**\nThe Senior Field Marketing Manager spans multiple marketing disciplines in one role, establishing a country-level strategy to delivering customer events, sponsorships, and digital marketing, to working with press and industry partners as well as content and programme specialists. Success in this role requires the ability to understand local nuances and market maturity, and adapting our global messages that will effectively land. The successful candidate will also need to be able to outline success metrics, have exceptional project management skills and be comfortable establishing scalable processes to achieve repeated success in the region.\n  \n  \nAs the marketer-in-region, the successful candidate will serve as a regional expert--and will need to be comfortable setting up a high-level strategy and executive meetings to bringing this vision to life through strong ownership across the UK market.\n  \n  \n**We’re Looking For Someone Who Is**\n\n* Very organised, detail-oriented, deadline-disciplined and can work autonomously\n* Able to create innovative marketing and communications programmes that drive impact\n* Experienced in building and executing go-to-market plans and integrated marketing programs by country or region\n* Hands-on, collaborative, a multi-tasker, strategic thinker, self-motivated and analytical\n* A superior communicator, both written and verbal with excellent presentation skills\n* Able to make the complex simple--in communication and in streamlining or improving processes\n\n**Here’s What You’ll Be Doing**\n\n* Extend and localise our global marketing and communications strategy to the UK market, along with identifying local marketing opportunities to create a holistic strategy and a value proposition that will drive growth\n* Work cross-functionally with the marketing & communications team, product marketing, and regional sales to deliver consistent storytelling of our solutions\n* Manage the marketing budget for the region and provide updates on impact in the funnel including ROI\n* Manage vendor relationships and ensure best outcomes for Index Exchange across a variety of settings\n* Identify localisation opportunities and amplify global content campaigns to fit market needs and expectations\n* Identify and secure speaking opportunities at industry events within the region, to either increase, maintain or solidify awareness for Index Exchange\n* Maintain, amplify, and discover new ways to leverage industry memberships\n* Identify local stakeholder needs, and relay information to the relevant teams\n* Ensure regular communication and marketing business reviews to measure the effectiveness of local marketing programmes\n* Oversee regional speaking and thought leadership strategy, supporting the team in securing high-impact speaking opportunities and industry visibility\n* Develop and oversee regional industry partnership and membership strategies to maximise brand visibility, engagement, and business impact\n* Identify local stakeholder needs, and relay information to the relevant teams\n* Lead regional marketing planning and business reviews, using performance insights to optimise programmes, investment decisions, and team priorities\n* Drive the development of customer advocacy programmes and case studies that support regional growth objectives and key marketing initiatives\n* Collect product and competitive knowledge, communicating all critical points to regional & central teams\n* Own the regional content and audience engagement strategy, ensuring alignment across European markets and effective execution through the field marketing team\n\n**Here's What You Need**\n\n* 7-8 years of experience in a marketing position, in a comparable fast-growing company\n* Track record of creating impactful marketing campaigns tied back ",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Technology, Information and Internet",
+   "key": "index exchange|senior field marketing manager ireland",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Shopper Marketing Manager",
+   "company": "Red Bull",
+   "location": "London, UK",
+   "salary_min": 37834.42,
+   "salary_max": 37834.42,
+   "salary_text": "£37,834",
+   "salary_is_estimate": true,
+   "work_pattern": "",
+   "contract": "full_time",
+   "date_posted": "2026-11-27",
+   "url": "https://www.adzuna.co.uk/jobs/details/5980596260?utm_medium=api",
+   "description": "Job Description : Company Description Red Bull UK is recruiting for a Shopper Marketing Manager to be based within London, UK. The Shopper Marketing Manager is responsible in delivering Perfect Store across the Off Premise customer base, ensuring Red Bull looks like 1 in store. Our aim is to increase sales and market share by accelerating availability to put Red Bull in the maximum danger of being sold. We need to ensure we are siting great placements in all locations of the shopper's journey i…",
+   "key": "red bull|shopper marketing manager",
+   "sources": [
+    "adzuna"
    ],
    "other_urls": [],
    "first_seen": "2026-11-27",
@@ -221,6 +506,30 @@
    "company_size": "",
    "company_industry": "Advertising Services",
    "key": "diversejobsmatter|communications campaigns manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "title": "Content, Community & Insight Manager - Consumer Products Division (FTC)",
+   "company": "L'Oréal",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-26",
+   "url": "https://www.linkedin.com/jobs/view/4486598738",
+   "description": "Content, Community & Skincare Insight Manager\n  \n  \nWe're looking for a highly creative, culturally plugged-in skincare expert to join the team supporting social, content and community strategy across two new CPD skincare brands. This role combines hands-on content creation with community management, requiring someone who lives and breathes social media, understands how to nurture and grow brand communities, and stays ahead of the latest social trends. Skincare expertise is essential, with the ability to translate product and category knowledge into clear, trusted content for brand social channels and communities. You'll play a key role in shaping how our new brands show up and connect with audiences online.\n  \n  \nA DAY IN THE LIFE\n  \n  \n\n* Create active content including filming, editing and appearing in social-first content for brand channels.\n* Manage social calendars, schedule weekly content, and support copywriting for captions and on-screen text with SEO/GEO considerations.\n* Lead the content factory approach alongside the social agency to ensure trend agility across brand social, affiliate and UGC content.\n* Spot viral trends and skincare conversations to fuel content ideas, and identify emerging talent and skincare KOLs for campaigns.\n* Support TikTok livestream team with real-time content creation and comment moderation during live moments.\n* Prepare presentations and analyse monthly Owned Social results to support key meetings.\n* Work with the TikTok Shop team to engage the affiliate network through webinars and masterclasses offering skincare education.\n* Support community management through social flirting, surprise and delight moments, and identifying new talent for L’Orealistar and brand TikTok communities.\n\n**Who You Are**\n\n* You have genuine skincare expertise and can translate product and category knowledge into trusted, engaging content.\n* You are highly creative and culturally plugged-in, with a strong understanding of social media trends.\n* You have experience creating social-first content, including filming and editing.\n* You understand how to nurture and grow an online brand community.\n* You are organised and comfortable managing content calendars and scheduling.\n* You have strong copywriting skills with an understanding of SEO/GEO principles.\n* You can confidently spot emerging trends, talent and KOLs within the skincare space.\n* You are a strong communicator, able to support presentation preparation and results analysis.\n\n**What We Offer**\nOur industry-leading award-winning benefits package shows how much we value our people. We know they're at the heart of L'Oréal's success, so we offer a fair and competitive package to help you thrive. Enjoy perks like money-saving offers, free mortgage advice, share options and an enhanced pension plan. Love our brands? You'll get up to 60% off iconic names like YSL, CeraVe, Armani, Kiehl's and Garnier! Because health matters, we offer private medical and dental insurance, discounted gym memberships, and onsite mental health support. We also provide enhanced family leave for all and up to 4 weeks of paid fertility leave, so you can prioritise what matters most. Learning is in our DNA at L'Oréal. We'll help you master your role, build skills, and access top-notch leadership programs and monthly expert talks. And there's lots more too!\n  \n  \n**Who We Are**\nL'Oréal is present in 150 markets on five continents. For more than a century, L'Oréal has devoted itself solely to 'Create beauty that moves the world'; it is now the industry world leader with €29 billion consolidated sales. Together, we solve complex challenges at scale, while making sure we stay committed to making the world a more inclusive and a better place for everyone and our planet. Experience the excitement of agility to shape the future of beauty; where diversity and purpose come together to create meaningful impact.\n  \n  \nIn the L'Oréal Consumers Products Division, our mission is to democratize the best of beauty, which means bringing beauty to all. And for us, beauty must be sustainable. The Consumer Product Divisions holds the world's #1 beauty brand with L'Oréal Paris, the #1 makeup brand with Maybelline New York, the #1 natural brand with Garnier, and NYX Professional Makeup. Beyond our four iconic global brands, we have a unique brand portfolio including others like Essie and Carols Daughter.\n  \n  \n**How We Recruit**\nAt L'Oréal, we take pride in creating a diverse, equitable and inclusive environment where everyone is welcome and their contributions are valued. When we recruit, hire, train, promote or engage in any other employment practice, we are committed to being an inclusive employer regardless of race, religion, gender identity, sexual orientation, national origin, age, socioeconomic status, medical condition or disability, or any other protected status. When we look for talent, we welcome difference—different backgrounds, experiences, personalities and perspectives. The beauty we find in our differences gives us the freedom to go beyond. That's the beauty of L'Oréal.\n  \n  \nWe are a Disability Confident Employer and will offer an interview to applicants with a disability or long-term condition who best meet the minimum/essential criteria for the role. You can let us know if you would like your application to be considered under the Disability Confident Scheme within your application.",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Manufacturing and Personal Care Product Manufacturing",
+   "key": "l or al|content community insight manager consumer products division",
    "sources": [
     "linkedin"
    ],
@@ -486,7 +795,7 @@
    "description": "**Who Are We Looking For**\nInspire movement. Elevate athletes. Shape the future of Running in one of the world’s most influential sport cities. As Running Brand Manager, you will drive the strategy and execution that brings Nike Running to life across the UK & Ireland, with London as the epicentre.\n  \n  \nYou’ll shape the future of Running by connecting deeply with athletes\\*, creators, communities, and cultural leaders — translating global direction into locally resonant stories, experiences, activations and partnerships that move the next generation.\n  \n  \nWe are looking for an experienced and talented brand marketeer with a passion for Running & sport, a curiosity for our young consumer, and an ability to uncover stories that will inspire movement. A marketeer experienced in brand management and cross-functional marketing (including digital & retail marketing), keen to create a culture of high performance and inspiration to reimagine the future of sport and make athletes’ dreams real. A talent who thrives on creativity and innovation, turning insights into ideas and ideas into storytelling and experiences that resonate. Driven by consumer obsession, with a growth mindset, you’re willing to adapt on the fly to deliver awe inspiring marketing plans.\n  \n  \n**What Will You Work On**\nYou will drive the brand offense for Nike Running across the UK & Ireland, ensuring cultural relevance, athlete\\* obsession, and business impact.\n  \n  \n\n* Drive the Nike Running Brand Strategic Plan on the ground for UKI&I.\n\nTranslate global and EMEA direction into sharp, insight‑led, London‑rooted strategies. Build integrated seasonal and daily plans that elevate brand strength and drive consumer engagement.Ensure London’s PoV shapes EMEA and Global strategy.\n  \n  \n\n* Drive Cross‑Functional Execution Across London & UK&I.\n\nLead end‑to‑end execution of Running campaigns & initiatives, including London specific moments, working closely with retail and partner marketing. Ensure global and EMEA Concept Map moments land powerfully on the ground through activations, community experiences and marketplace executions.\n  \n  \n\n* Create and sustain London’s Nike Running Ecosystem.\n\nIdentify and nurture relationships with the people & organisations that embody our brand values and bring our strategy to life, then manage these relationships in a robust & sustainable fashion. Obsess the Running marketplace in London and across the UKI — understand where the consumer is moving, why and how Nike running can best serve them.\n  \n  \n\n* Fuel Nike with Sharp Consumer Insight\n\nThrough keeping Nike’s ear to the ground. Gather structured, continuous learnings from athletes\\* and communities to allow us to better serve them on the ground and to feed insights back to EMEA/Global to refine longer term strategy. Identify cultural opportunities, emerging trends, and tension points that shape future strategy.\n  \n  \n\n* Lead Project Management, People Leadership & Operational Excellence.\n\nManage timelines, budgets, and cross‑functional alignment to deliver work at a pinnacle level. Build & lead cross-functional teams to deliver true high performance, through diverse thinking & skillsets. Develop and empower one direct report fostering a performance and growth‑minded culture.\n  \n  \n**Who Will You Work With**\nReporting to the Brand Director, Running, Training & Brand Initiatives, UK & Ireland, you will sit within the UK & Ireland Brand Marketing Team. You will work collaboratively with UK&I and EMEA partners across Brand, Creative, Sports Marketing, Integrated Retail Marketing, Energy Marketing, Marketplace, Communications and SCI — as well as the communities, individuals and organisations helping shape running culture across London and the UKI.\n  \n  \nWhile focused on Running, you'll have opportunities to contribute to broader UK & Ireland marketing priorities as business needs evolve.\n  \n  \n**What You Bring To Nike**\nA culturally tuned‑in brand leader with a deep understanding of London’s Running scene and a passion for sport, running and community. Someone who can move fluidly between strategy and execution — equally comfortable shaping a narrative, building disruptive ideas, leading a team, or being on the ground with athletes\\*.\n  \n  \n**You Bring**\n\n* Proven experience in brand management or consumer marketing, with a strong focus on cross- functional marketing.\n* A genuine passion for Running with a deep understanding of the London Running landscape, consumer, communities and Nike’s position within.\n* A strong track record in partnership management with experience identifying, owning and managing external relationships with individuals and organisations.\n* Experience building consumer-led brand strategy from insight through to execution.\n* Proven ability to develop and deliver impactful marketing ideas and initiatives through cross-functional team leadership.\n* High‑level communication skills and the ability to influence across the organisation.\n* Agility, resilience, and a growth mindset — thriving in dynamic environments and elevating the work at every turn.\n* Strong leadership and people development skills, with previous people management experience.\n\n*Applications will be accepted until 3rd of December. We encourage external candidates to apply as soon as possible, as the posting may close earlier if we receive a sufficient number of applications.*",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Retail",
+   "company_industry": "",
    "key": "nike|manager brand marketing running ireland",
    "sources": [
     "linkedin"
@@ -576,13 +885,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "",
+   "contract": "fulltime",
    "date_posted": "2026-11-26",
    "url": "https://www.linkedin.com/jobs/view/4487780802",
-   "description": "",
+   "description": "Who we are\n  \n  \n**About Stripe**\nStripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\n  \n  \n**About The Team**\nOur EMEA Marketing team is a dynamic, fast-growing group that loves turning customers into enthusiastic Stripe advocates. We work hand-in-hand with our Sales team to build demand, help users get the most out of our products, and craft marketing plans that truly resonate with local audiences.\n  \n  \nWe have a lot still to build, and we’re tackling it as a diverse, international team that thrives on collaboration, bold innovation, and genuine curiosity. If you love to learn and want to make a meaningful impact, we’d love to have you join us.\n  \n  \nWhat you’ll do\n  \n  \nAs a senior individual contributor, you’ll align regional and global marketing teams around shared priorities for EMEA Velocity, secure investment to deliver them, and balance global strategy with regional needs. You’ll directly lead high-priority initiatives across the region.\n  \n  \nYou’ll shape how Stripe grows its Velocity segment across EMEA, with a particular focus on winning and expanding relationships with priority commercial accounts. You’ll combine regional strategy with hands-on field marketing, building programs that generate demand and accelerate pipeline across different markets.\n  \n  \nAs the primary marketing partner on the EMEA Velocity leadership team, you’ll own the regional marketing strategy and investment plan. You’ll work closely with Sales leadership to identify the biggest opportunities across markets, decide where marketing can make the greatest difference, and turn those priorities into measurable business results.\n  \n  \nYou’ll lead account-based programs, executive engagement, and market-relevant campaigns for priority commercial accounts, bringing together regional and global teams to deliver them. Your programs will engage senior decision makers and operational leaders on reducing developer complexity, improving conversion, and increasing the return on their financial infrastructure. You’ll also partner with Demand Generation on scaled digital demand campaigns and programs, connecting those efforts with regional business priorities.\n  \n  \nAs a senior individual contributor, you’ll lead through influence across markets and teams, aligning Sales, Demand Generation, Product Marketing, and Global Campaigns around a shared plan. You’ll balance regional priorities with local customer needs, use results to guide investment, and build approaches that can scale across EMEA. You’ll help shape the marketing approach and directly lead the initiatives where regional context and ownership matter most.\n  \n  \n**Responsibilities**\n\n* Define and own the integrated marketing strategy for the Velocity segment across EMEA, turning business goals, market dynamics, customer needs, and competitors into clear priorities.\n* Partner with regional Sales and Sales Development (SDR) leadership to set shared priorities, take part in pipeline reviews, and steer marketing investments.\n* Build full-funnel campaigns around the problems businesses are trying to solve, such as taking payments online, growing recurring revenue, and getting paid faster.\n* Lead high-touch field marketing, targeted account-based programs, and executive events, including dinners and roadshows, for priority commercial accounts. Partner with Demand Generation on scaled digital demand campaigns and programs, connecting those programs with regional Sales priorities.\n* Co-market with the SaaS Platforms and Partner teams to reach merchants through the software they already use.\n* Build Stripe’s brand with these businesses through customer stories, executive engagement, and industry initiatives, and lead the programs yourself where local context and senior ownership matter most.\n* Own the regional marketing budget and use pipeline generation, pipeline progression, priority-account engagement, and ROI to guide investment. Partner with relevant teams to measure contributions to product adoption and customer advocacy, and use results to prioritise, scale, or change programs.\n* Bring regional and global teams (including Demand Generation, Product Marketing, and Global Campaigns) together to deliver the plan, and adapt global strategy to local buyer expectations, regulation, and the competitive landscape.\n\nWho you are\n  \n  \nYou’re an experienced B2B marketing leader who has owned an integrated marketing strategy across a country, region, or comparably broad portfolio. You can set clear direction, make clear commercial trade-offs, and partner credibly with senior Sales and go-to-market (GTM) leaders—all while staying close enough to execution to turn strategy into measurable business results.\n  \n  \nWe’re looking for someone who meets the minimum requirements for the role. If you meet them, we encourage you to apply. Preferred qualifications are a bonus, not a requirement.\n  \n  \n**Minimum Requirements**\n\n* 10+ years of B2B marketing experience, including ownership of integrated marketing strategy and budget for a region or broad portfolio in tech.\n* GTM business partnering: Proven track record partnering with senior Sales and GTM leaders to turn commercial targets into marketing plans and investment decisions.\n* Scaled and high-touch marketing: Experience running both scaled digital demand and high-touch account-based marketing for larger prospects.\n* Commercial accountability: Success generating pipeline, accelerating deal velocity, and managing multi-program budgets tied to clear ROI.\n* Cross-functional leadership: Demonstra",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "Software Development, Financial Services, and Technology, Information and Internet",
    "key": "stripe|regional field marketing manager emea commercial",
    "sources": [
     "linkedin"
@@ -643,18 +952,18 @@
    "title": "Senior Brand Manager  - High-growth Food Brand",
    "company": "PIE Recruitment",
    "location": "London Area, UK",
-   "salary_min": 65000.0,
-   "salary_max": 70000.0,
-   "salary_text": "£65,000–£70,000",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "contract",
+   "contract": "",
    "date_posted": "2026-11-26",
    "url": "https://www.linkedin.com/jobs/view/4493819926",
-   "description": "**Senior Brand Manager - 12-month maternity cover**\n\n**London**\n\n* £65,000 - £70,000\n* Pension\n* 25 days holiday\n\n**This is a 12-month maternity cover contract with the opportunity to take ownership of a high-profile brand agenda at a pivotal point in the business’s growth.**\n\n**Who They Are**\n\nThey are a fast-growing, purpose-led food brand creating nutritious meals that make family life easier. The business combines a clear social mission with ambitious growth plans, and this role will help shape how the brand shows up during an important next phase.\n\nYou’ll join an incredible high-growth business with a major TV and integrated campaign in development for 2027. Reporting to the Head of Brand & Communications, you’ll have genuine influence across brand campaigns, content, partnerships, social and new product launches.\n\nIt is a hands-on role for someone who enjoys turning smart strategy into work consumers actually notice. You’ll be trusted to manage projects end to end, work with talented creative partners and make sound commercial decisions about where the marketing budget will have the greatest impact.\n\n**What You’ll Be Doing**\n\n* Lead integrated brand campaigns from brief and budget through to delivery, measurement and clear recommendations on ROI.\n* Own the content and social plan across earned, owned and paid channels including influencer partnerships, community management and newsletters.\n* Manage creative production across product and lifestyle photography, film, copy and branded assets while briefing agencies, creators and designers.\n* Partner with product, digital, category, nutrition and PR teams to launch NPD, build brand fame and deliver consistent consumer messaging.\n\n**What You’ll Need to Bring**\n\n* Proven Senior Brand Manager experience within blue-chip FMCG or a successful scaled SME, with full marketing mix ownership.\n* A strong track record of delivering campaigns from concept to execution and reporting, with clear commercial awareness and focus on sales and ROI.\n* Hands-on experience across content creation, influencer partnerships, paid social and digital, photoshoots and agency management.\n* Excellent project management, copywriting and creative judgement plus the confidence to work autonomously in a fast-moving smaller business.\n\n**If this sounds like the perfect next step for you, reach out today at george.robinson@pie-recruitment.com or give me a call on 07885 484489. Don’t wait; this opportunity won’t be available for long**\n.",
+   "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Food and Beverage Manufacturing, Food and Beverage Retail, and Wholesale Food and Beverage",
+   "company_industry": "",
    "key": "pie recruitment|senior brand manager high growth food brand",
    "sources": [
     "linkedin"
@@ -753,7 +1062,7 @@
    "description": "At Verda, we're building a full-stack AI cloud, covering everything from data centers and hardware to our own cloud platform that the world's leading AI teams use to do serious AI work.\n  \n  \nWe strive to make a positive mark on the world through the infrastructure we build and give leading teams a service they can truly depend on. Headquartered in Helsinki, we operate globally with offices in London and San Francisco.\n  \n  \nJoin Verda while it’s still being built - not once it’s finished.\n  \n  \n**Why Verda**\n\n* Cash and equity compensation along with local benefits.\n* 40+ nationalities, with 6 different ones on the management team.\n* A real chance to make an impact and work alongside world class engineers, researchers, and partners across the global AI ecosystem.\n\n**About The Role**\nWe're looking for a senior field marketer to own the EMEA go-to-market motion end to end — from strategy through execution. This is a high-autonomy, high-impact role: you'll define the regional plan, run the programs, and be accountable for pipeline contribution across a diverse and technically sophisticated set of markets.\n  \n  \nYou'll work closely with EMEA sales leadership, co-owning account priorities, shaping joint go-to-market plans, and making marketing investment decisions that move revenue. The role spans the full mix: executive engagement programs, field events, ABM, demand generation, and partner marketing, coordinated into a regional calendar with a clear line to pipeline.\n  \n  \nThis is a builder role at a company growing fast in a space that's moving faster. You'll be the first or one of the first dedicated field marketers in the region, which means real scope to shape how marketing operates across EMEA and real accountability for the results.\n  \n  \n**What You Will Do**\n\n* Define and own the EMEA field marketing strategy: the regional approach to pipeline generation, in-market presence, and customer engagement, aligned to revenue priorities.\n* Build and run an integrated regional marketing calendar spanning field events, executive programs, ABM, and demand generation.\n* Plan and execute regional events end to end — executive roundtables, roadshows, conferences, webinars — including theme, logistics, vendor management, sales staffing, follow-up, and reporting.\n* Run 1:1, 1:few ABM programs against the region's priority accounts, partnering with Sales on account selection and activating personalized, multi-channel programs to engage buying groups.\n* Serve as the primary marketing stakeholder for EMEA sales leadership — co-developing go-to-market plans, aligning marketing investment to revenue priorities, and maintaining direct alignment on account priorities, campaign promotion, and pre/post-event communication.\n* Support deal acceleration with targeted programs, and fold Sales feedback back into execution.\n* Execute integrated demand generation across digital, events, email, and third-party channels across the full buyer journey; localize global campaigns for EMEA markets.\n* Partner with Growth and Business Development on lead-generating and pipeline-creation programs.\n* Work with the partner marketing function\n* Coordinate across content, partner, and product marketing to deliver cohesive programs against the accounts that matter most.\n* Establish measurement frameworks and reporting cadences connecting marketing activity to pipeline, revenue influence, and account expansion; track pipeline, conversion, ROI, and cost-per-pipeline, and optimize programs and spend with a test-and-learn approach.\n\n**Your key competencies**\n\n* 8+ years in field marketing, regional marketing, or demand generation in enterprise B2B technology.\n* Proven ability to define and own a regional marketing strategy, not just execute against one.\n* Track record of building peer-level relationships with sales leadership and influencing joint planning without direct authority.\n* Hands-on experience running executive engagement programs and field events that deliver measurable pipeline, including larger-scale events\n* Strong command of ABM, from account selection through multi-channel activation and measurement.\n* Demonstrated negotiation skills with vendors and suppliers.\n* Proficiency with CRM, marketing automation, and analytics platforms as supporting tools; comfort using AI workflows to drive scale and efficiency.\n* You personally ship the work — programs, briefs, follow-up, reporting — rather than orchestrating others who do.\n\n**Strong Differentiators**\n\n* Experience shaping field marketing across multiple EMEA sub-regions simultaneously.\n* Background in cloud, data, AI, or infrastructure platform marketing.\n* Working knowledge of AI/ML infrastructure — training vs. inference, GPU economics — enough to hold your own in a technical conversation and market credibly to a technical buyer.\n* Familiarity with ABM tooling and account engagement platforms.\n* Experience building a regional field function from scratch at an early-stage, fast-moving company.\n\n**What's Next**\nWe're building fast and this role needs the right person behind it. There's no artificial deadline, but when we find who we're looking for, we move. If this sounds like your next move, apply now.\n  \n  \nPlease submit your application through our Careers page. We don't accept applications sent by email.\n  \n  \nBy submitting this application, you confirm that the information you provide is accurate. We will process your personal data to assess your application for this role, as described in our Candidate Privacy Policy. Keeping your data to consider you for future roles is optional and only applies if you tick the box below.",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "Technology, Information and Internet",
    "key": "verda|senior field marketing manager",
    "sources": [
     "linkedin"
@@ -816,9 +1125,9 @@
    "is_new": true
   },
   {
-   "title": "Senior Partner Marketing Manager, Retail",
-   "company": "VISSPO",
-   "location": "London, England, UK",
+   "title": "Senior Performance Creative Strategist",
+   "company": "Cranberry Panda",
+   "location": "London Area, UK",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
@@ -826,12 +1135,12 @@
    "work_pattern": "",
    "contract": "fulltime",
    "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4493843713",
-   "description": "Our Global Structure\n  \n  \nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team.\n  \n  \n**About The Role**\nThe Senior Marketing Manager, Retail will sit within the New Verticals marketing team, which looks after our grocery and retail businesses and is responsible for driving forward our company mission of transforming the way customers shop and eat across the UK & Ireland. It's a hugely exciting time for on-demand retail, with customers increasingly wanting everyday essentials, home and DIY, beauty, toys and gifts delivered quickly, and a huge opportunity to shape the future of Deliveroo.\n  \n  \nIn this position, you will own the Retail marketing plan end to end, developing and executing growth initiatives with some of the best-known high street and home brands and managing a Marketing Manager.\n  \n  \nKey responsibilities\n  \n  \n\n* Developing and delivering joint business plans with our key retail partners, so that we are a world-class marketing partner to them.\n* Working effectively alongside the Retail commercial team to understand the strategy and vision, what it means for our partners, and how we deliver with impact.\n* Engaging partners with marketing strategy and plans, pitching new ideas and innovations, and spotting opportunities across brand, promotion and performance.\n* Leading quarterly planning cycles, starting with consumer insight, building propositional periods and category trade plans, and engaging partners to deliver best-in-class campaigns through the year.\n* Reporting in monthly and quarterly reviews on the impact of marketing campaigns, using the results to improve future campaigns.\n* Owning Retail growth targets and budgets, tracking performance and course-correcting quickly.\n* Embedding a test-and-learn mindset in everything we do: analysing data, building playbooks and codifying learnings.\n* Building partner-first lifecycle strategies, toolkits and templates that deliver growth at scale.\n* Supporting Commercial in winning and launching new retail partners with relevant launch plans and a repeatable playbook.\n* Managing, coaching and developing a Marketing Manager, and working across verticals within the marketing team so campaigns fit the team's strategy and vision.\n\n**Key Skills And Experience**\n\n* Partner, trade or category marketing experience, ideally in retail, marketplace, eCommerce or tech.\n* Strong communication, influence and negotiation skills, building relationships with senior stakeholders inside and outside Deliveroo.\n* Strong grasp of marketing strategy, consumer insight and commercial data, able to turn complex data into a clear narrative and recommendations.\n* Experience delivering multi-channel campaigns across CRM, digital and social, with promotional plans that show clear ROI, and forecasting and managing budgets.\n* Knowledge of the UK & Ireland retail landscape, and how shoppers behave in it.\n* Able to deliver autonomously on complex challenges, collaborate across teams and develop others.\n\nDiversity, Equity and Inclusion\n  \n  \nAt Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong.\n  \n  \nWe believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief.\n  \n  \nIf you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience.\n  \n  \nIf you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you!\n  \n  \nPrivacy\n  \n  \nDeliveroo will process your personal information in accordance with our Candidate Privacy Policy.\n  \n  \nBeware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness.",
+   "url": "https://www.linkedin.com/jobs/view/4493814217",
+   "description": "**Senior Performance Creative Strategist - DTC Ecommerce**\n\n**London - Hybrid**\n\n**£70,000 to £80,000**\n\nI'm working with an exciting, fast-growing DTC subscription brand and they're looking for a Senior Creative Strategist to join their ambitious growth team.\n\nThis is a fantastic opportunity for someone who loves combining creative thinking with performance data, developing scroll-stopping paid social content that drives real commercial results.\n\n**Responsibilities:**\n\n* Develop creative concepts and messaging for Meta and TikTok\n* Write engaging, conversion-focused UGC scripts and briefs\n* Work closely with creators, editors and media buyers\n* Analyse creative performance, identify winning concepts\n* Research customer insights, competitors and emerging trends\n\n**Requirements:**\n\n* 3+ years' in creative strategy or performance marketing\n* Experience developing performance-driven paid social creative\n* Strong understanding of UGC and creative testing\n* Confident using data and insights to inform creative decisions\n* DTC, ecommerce or subscription experience would be a bonus",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Technology, Information and Internet",
-   "key": "visspo|senior partner marketing manager retail",
+   "company_industry": "Staffing and Recruiting",
+   "key": "cranberry panda|senior performance creative strategist",
    "sources": [
     "linkedin"
    ],
@@ -888,24 +1197,99 @@
    "is_new": true
   },
   {
-   "title": "Senior Growth Marketing Executive",
-   "company": "Allica Bank",
-   "location": "London, UK",
-   "salary_min": 32175.1,
-   "salary_max": 32175.1,
-   "salary_text": "£32,175",
-   "salary_is_estimate": true,
+   "title": "Brand Manager - Emerging Markets",
+   "company": "Vita Coco",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "full_time",
+   "contract": "fulltime",
    "date_posted": "2026-11-27",
-   "url": "https://www.adzuna.co.uk/jobs/details/5980554775?utm_medium=api",
+   "url": "https://www.linkedin.com/jobs/view/4495095604",
    "description": "",
-   "key": "allica bank|senior growth marketing executive",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Construction, Software Development, and IT Services and IT Consulting",
+   "key": "vita coco|brand manager emerging markets",
    "sources": [
-    "adzuna"
+    "linkedin"
    ],
    "other_urls": [],
-   "first_seen": "2026-11-25",
+   "first_seen": "2026-11-19",
+   "is_new": false
+  },
+  {
+   "title": "PR Senior Account Manager - Automotive Brands",
+   "company": "PRFutures",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4491922185",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Public Relations and Communications Services and Marketing Services",
+   "key": "prfutures|pr senior account manager automotive brands",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-20",
+   "is_new": false
+  },
+  {
+   "title": "Product Marketing Lead - Up to £80,000",
+   "company": "Blu Digital",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4488921596",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Retail Apparel and Fashion and Retail Luxury Goods and Jewelry",
+   "key": "blu digital|product marketing lead up to 80 000",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-13",
+   "is_new": false
+  },
+  {
+   "title": "Senior Brand Manager",
+   "company": "Spotlight Recruitment",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495597276",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "spotlight recruitment|senior brand manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-18",
    "is_new": false
   },
   {
@@ -923,7 +1307,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "IT Services and IT Consulting",
    "key": "rldatix ireland|solutions marketing manager",
    "sources": [
     "linkedin"
@@ -992,7 +1376,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Restaurants",
+   "company_industry": "",
    "key": "raising cane s chicken fingers|area leader of marketing",
    "sources": [
     "linkedin"
@@ -1026,54 +1410,6 @@
    "is_new": false
   },
   {
-   "title": "Brand Manager at Marketplace startups (£40-55k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 40000.0,
-   "salary_max": 55000.0,
-   "salary_text": "£40,000–£55,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495274281",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|brand manager at marketplace startups",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Brand Manager at VC backed Sport & Fitness startups (£40-55k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 40000.0,
-   "salary_max": 55000.0,
-   "salary_text": "£40,000–£55,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495283028",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|brand manager at vc backed sport fitness startups",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
    "title": "Change Communications Executive (Contract)",
    "company": "Harnham - Data & Analytics Recruitment",
    "location": "London",
@@ -1095,46 +1431,22 @@
    "is_new": false
   },
   {
-   "title": "Content Marketing Manager at Consumer Brands startups (£50-65k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 50000.0,
-   "salary_max": 65000.0,
-   "salary_text": "£50,000–£65,000",
+   "title": "Content Marketing Lead",
+   "company": "Verda",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
    "contract": "fulltime",
    "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495267712",
+   "url": "https://www.linkedin.com/jobs/view/4487727293",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|content marketing manager at consumer brands startups",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Content Marketing Manager at VC backed Sport & Fitness startups (£50-65k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 50000.0,
-   "salary_max": 65000.0,
-   "salary_text": "£50,000–£65,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495278168",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|content marketing manager at vc backed sport fitness startups",
+   "company_industry": "Technology, Information and Internet",
+   "key": "verda|content marketing lead",
    "sources": [
     "linkedin"
    ],
@@ -1157,7 +1469,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Social Networking Platforms",
+   "company_industry": "",
    "key": "reddit|country lead business marketing",
    "sources": [
     "linkedin"
@@ -1182,30 +1494,6 @@
    "key": "monzo|creator marketing executive",
    "sources": [
     "Monzo careers"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Demand Marketing Lead, UK",
-   "company": "Euromonitor International",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4494997794",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet",
-   "key": "euromonitor international|demand marketing lead",
-   "sources": [
-    "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-26",
@@ -1250,7 +1538,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "Events Services, Technology, Information and Media, and Book and Periodical Publishing",
    "key": "marketing talent publishing events tech recruitment|events marketing manager b2b conferences",
    "sources": [
     "linkedin"
@@ -1268,110 +1556,14 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-26",
    "url": "https://www.linkedin.com/jobs/view/4461551740",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Software Development",
-   "key": "fireworks ai|field marketing manager emea",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Growth Marketing Manager at Insurtech startups (£50-60k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 50000.0,
-   "salary_max": 60000.0,
-   "salary_text": "£50,000–£60,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495273326",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|growth marketing manager at insurtech startups",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Growth Marketing Manager at PropTech startups (£50-60k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 50000.0,
-   "salary_max": 60000.0,
-   "salary_text": "£50,000–£60,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495265688",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|growth marketing manager at proptech startups",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Growth Marketing Manager at VC backed Climate Tech startups (£50-60k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495271546",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
    "company_industry": "",
-   "key": "jumpstart|growth marketing manager at vc backed climate tech startups",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Growth Marketing Manager at VC backed EdTech startups (£50-60k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 50000.0,
-   "salary_max": 60000.0,
-   "salary_text": "£50,000–£60,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495263841",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|growth marketing manager at vc backed edtech startups",
+   "key": "fireworks ai|field marketing manager emea",
    "sources": [
     "linkedin"
    ],
@@ -1427,54 +1619,6 @@
    "other_urls": [
     "https://job-boards.greenhouse.io/deliveroo/jobs/8418964"
    ],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Marketing Lead at VC backed EdTech startups (£45-55k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 45000.0,
-   "salary_max": 55000.0,
-   "salary_text": "£45,000–£55,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495278159",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|marketing lead at vc backed edtech startups",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Marketing Lead at VC backed Sport & Fitness startups (£45-55k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 45000.0,
-   "salary_max": 55000.0,
-   "salary_text": "£45,000–£55,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495278139",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|marketing lead at vc backed sport fitness startups",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
    "first_seen": "2026-11-26",
    "is_new": false
   },
@@ -1544,33 +1688,12 @@
    "company_industry": "Internet And Software",
    "key": "microsoft|marketing services centre execution lead emea",
    "sources": [
-    "indeed"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "PR & Communications Manager at PropTech startups (£35-45k)",
-   "company": "Jumpstart",
-   "location": "London Area, UK",
-   "salary_min": 35000.0,
-   "salary_max": 45000.0,
-   "salary_text": "£35,000–£45,000",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4495267730",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet and Consumer Services",
-   "key": "jumpstart|pr communications manager at proptech startups",
-   "sources": [
+    "indeed",
     "linkedin"
    ],
-   "other_urls": [],
+   "other_urls": [
+    "https://www.linkedin.com/jobs/view/4495515405"
+   ],
    "first_seen": "2026-11-26",
    "is_new": false
   },
@@ -1583,38 +1706,14 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-26",
    "url": "https://www.linkedin.com/jobs/view/4495500796",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Wellness and Fitness Services and Hospitals and Health Care",
+   "company_industry": "",
    "key": "growth company|performance creative strategist",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-13",
-   "is_new": false
-  },
-  {
-   "title": "Product Marketing Lead - Up to £80,000",
-   "company": "Blu Digital",
-   "location": "London Area, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4488921596",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Retail Apparel and Fashion and Retail Luxury Goods and Jewelry",
-   "key": "blu digital|product marketing lead up to 80 000",
    "sources": [
     "linkedin"
    ],
@@ -1655,13 +1754,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "contract",
+   "contract": "",
    "date_posted": "2026-11-26",
    "url": "https://www.linkedin.com/jobs/view/4495283711",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Business Consulting and Services",
+   "company_industry": "",
    "key": "tms|project manager partner communications compliance",
    "sources": [
     "linkedin"
@@ -1685,7 +1784,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Software Development",
+   "company_industry": "",
    "key": "aircall|regional marketing manager uki",
    "sources": [
     "linkedin",
@@ -1712,7 +1811,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Retail",
+   "company_industry": "",
    "key": "salt|search engine marketing manager",
    "sources": [
     "linkedin"
@@ -1760,37 +1859,13 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Non-profit Organizations",
+   "company_industry": "",
    "key": "great ormond street hospital charity|senior brand marketing manager",
    "sources": [
     "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-25",
-   "is_new": false
-  },
-  {
-   "title": "Senior Field Marketing Manager, EMEA Financial Services",
-   "company": "Equinix",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4485076548",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "IT Services and IT Consulting",
-   "key": "equinix|senior field marketing manager emea financial services",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-11",
    "is_new": false
   },
   {
@@ -1802,13 +1877,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "",
+   "contract": "fulltime",
    "date_posted": "2026-11-26",
    "url": "https://www.linkedin.com/jobs/view/4493664459",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "Events Services and Technology, Information and Media",
    "key": "marketing talent publishing events tech recruitment|senior marketing executive b2b events",
    "sources": [
     "linkedin"
@@ -1879,37 +1954,13 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Financial Services",
+   "company_industry": "",
    "key": "sumup|senior marketing manager b2c",
    "sources": [
     "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-26",
-   "is_new": false
-  },
-  {
-   "title": "Senior Product Marketing Manager",
-   "company": "Appfire",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4473553744",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "",
-   "key": "appfire|senior product marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-17",
    "is_new": false
   },
   {
@@ -1927,7 +1978,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "Financial Services",
    "key": "monzo|senior product marketing manager",
    "sources": [
     "linkedin",
@@ -1937,6 +1988,30 @@
     "https://job-boards.greenhouse.io/monzo/jobs/7861991"
    ],
    "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
+   "title": "Senior Product Marketing Manager",
+   "company": "Appfire",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-26",
+   "url": "https://www.linkedin.com/jobs/view/4473553744",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "appfire|senior product marketing manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-17",
    "is_new": false
   },
   {
@@ -1990,7 +2065,7 @@
   {
    "title": "Social Content Manager",
    "company": "Monzo",
-   "location": "Cardiff, London or Remote (UK)",
+   "location": "London, England, UK",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
@@ -1998,13 +2073,19 @@
    "work_pattern": "",
    "contract": "",
    "date_posted": "2026-11-26",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8414122",
+   "url": "https://www.linkedin.com/jobs/view/4495038382",
    "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
    "key": "monzo|social content manager",
    "sources": [
+    "linkedin",
     "Monzo careers"
    ],
-   "other_urls": [],
+   "other_urls": [
+    "https://job-boards.greenhouse.io/monzo/jobs/8414122"
+   ],
    "first_seen": "2026-11-26",
    "is_new": false
   },
@@ -2012,48 +2093,24 @@
    "title": "Social Media & Content Manager",
    "company": "WeAreAspire",
    "location": "City Of London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
+   "salary_min": 60000.0,
+   "salary_max": 65000.0,
+   "salary_text": "£60,000–£65,000",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "",
+   "contract": "fulltime",
    "date_posted": "2026-11-26",
    "url": "https://www.linkedin.com/jobs/view/4493803648",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "Retail",
    "key": "weareaspire|social media content manager",
    "sources": [
     "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "title": "Sr Marketing Specialist",
-   "company": "Gartner",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-26",
-   "url": "https://www.linkedin.com/jobs/view/4478417900",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "IT Services and IT Consulting, Information Services, and Research Services",
-   "key": "gartner|sr marketing specialist",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-26",
    "is_new": false
   },
   {
@@ -2065,7 +2122,7 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "",
+   "contract": "fulltime",
    "date_posted": "2026-11-26",
    "url": "https://www.linkedin.com/jobs/view/4494611094",
    "description": "",
