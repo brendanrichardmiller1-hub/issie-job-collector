@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-28T08:57:00.015711+00:00",
+ "generated_at": "2026-11-28T11:49:50.586032+00:00",
  "window_start": "2026-11-27",
  "counts": {
-  "raw": 1119,
-  "after_filters": 101,
-  "new_in_window": 30,
+  "raw": 1039,
+  "after_filters": 102,
+  "new_in_window": 31,
   "dropped": {
-   "title": 742,
-   "salary": 8,
-   "location": 37
+   "title": 725,
+   "salary": 7,
+   "location": 40
   }
  },
  "jobs": [
@@ -21,7 +21,7 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-28",
    "url": "https://uk.indeed.com/viewjob?jk=0375cbf684be1722",
    "description": "**Our Team: How We Enrich Everyday Life**  \nShape the Stories. Create the Experiences. Influence the Future of Media Advertising.\n\nJoin Bauer Media's Commercial Marketing Team and help bring the power of audio, publishing and outdoor advertising to life!\n\nWorking alongside commercial, insight and creative specialists, you'll create experiences, content and moments that help some of the UK's leading advertisers and agencies see Bauer Media differently. From immersive workshops and client events to innovative new concepts in our interactive Playground space, you'll play a key role in showcasing the Bauer Effect and demonstrating how we help brands own every moment.\n\nThis is an exciting opportunity to join a highly collaborative team that combines strategic thinking, creativity and commercial expertise to build stronger relationships with clients and agencies across the media landscape.\n\n**The Difference You Will Make**  \nThis is more than a content role. It's an opportunity to shape how Bauer Media engages with its most valuable commercial partners.\n\nAs our Commercial Brand Planning Manager, you'll transform insight, creativity and commercial thinking into unforgettable client experiences. You'll help advertisers and agencies better understand our audiences, brands and capabilities, creating compelling narratives that drive engagement and strengthen Bauer Media's reputation across the industry.\n\nWorking across Audio, Publishing and Outdoor, you'll bring together expertise from across the business to create experiences and stories that inspire action, challenge thinking and unlock new opportunities.\n\n**Your Role**  \nKey responsibilities include:\n\n* Partnering closely with commercial teams to understand advertiser and agency challenges and develop engaging content, ideas and experiences that support their objectives.\n* Creating and delivering workshops, client immersions, events and strategic experiences that showcase the Bauer Effect.\n* Developing a consistent approach for Bauer Media's immersion programme while tailoring experiences to individual clients when appropriate.\n* Evolving and enhancing content within Bauer Media's interactive Playground environment.\n* Building compelling cross-platform stories that bring together Bauer Media's audio, publishing and outdoor capabilities.\n* Owning and developing the commercial content library, ensuring teams have access to engaging, relevant and up-to-date materials.\n* Creating and maintaining credentials, presentations, insight pieces, client-facing collateral and case studies.\n* Identifying opportunities to strengthen commercial storytelling through new content, experiences and innovative thinking.\nStaying ahead of developments in media, advertising, technology, culture and consumer behaviour to ensure our content remains fresh, relevant and impactful.  \n\n**The Skills You Will Bring**  \nWe're looking for someone who combines strategic thinking with creative curiosity and a strong understanding of the advertising landscape.\n\nYou may come from a media agency, brand strategy, media owner or marketing background. Most importantly, you'll have strategic advertising experience and be excited by the opportunity to translate insight into powerful stories and memorable experiences.\n\nYou'll bring:\n\n* Strong storytelling skills with the ability to translate complex insight, data and ideas into compelling narratives.\n* Experience developing content, presentations, workshops, events or client experiences.\n* A strong understanding of the advertising, media and marketing ecosystem.\n* Commercial awareness and an understanding of what creates value for advertisers and agencies.\n* Confidence engaging with senior stakeholders and building credibility across multiple audiences.\n* Excellent collaboration skills and the ability to bring together expertise from across a large organisation.\n* Strong organisational skills and the ability to balance multiple priorities effectively.\n* Curiosity, creativity and a desire to continually explore new ways to engage audiences.\n* A passion for media, culture and the evolving advertising landscape.\n  \n\n**Why Join Bauer Media?**  \n**Make Your Mark** -This is a newly created role with significant visibility and the opportunity to shape how Bauer Media engages with key commercial partners.\n\n**Work Across Multiple Media Channels** -Create stories and experiences that span some of the UK's most recognised audio, publishing and outdoor brands.\n\n**Innovate Every Day** - Bring fresh thinking to client immersions, events and Bauer Media's unique interactive Playground space.\n\n**Collaborate With Experts** - Work alongside talented colleagues from commercial, insight, creative and content teams across the business.\n\n**Grow Your Career** - Develop your strategic, creative and commercial expertise while building relationships with senior stakeholders and industry-leading clients.\n\n  \n\n**Location & Working Pattern**  \nLondon | Hybrid Working**.** Typically three days per week in the office for full-time colleagues, with flexibility based on team and business needs.\n\n#LI-Hybrid\n\n  \n\n**About Bauer Media Group**  \nWe are a media business focused on creating content that matters to millions of people across Europe. Our offering extends from print and online publishing to audio broadcasting and entertainment, alongside investments in other media related sectors. With more than 500 million copies sold each year, we are one of Europe’s largest Publishers. From women’s and celebrities’ magazines to TV listings to food and special interest, we own some of the most popular publishing brands in Germany, UK, Poland and France – both digital and print. But not only that. Reaching over 61 million listeners weekly, we operate over 150 radio and podcast brands in nine countries, spanning the UK, Ireland, Poland, Slovakia, Denmark, Sweden, Finland, Norway and Portugal. Family-owned in the 5th generation, Bauer Media focuses on the long-term, with a consumer-fi",
@@ -30,31 +30,31 @@
    "company_industry": "",
    "key": "bauer media|commercial brand planning manager",
    "sources": [
-    "indeed",
-    "linkedin"
+    "indeed"
    ],
-   "other_urls": [
-    "https://www.linkedin.com/jobs/view/4494232048"
-   ],
+   "other_urls": [],
    "first_seen": "2026-11-28",
    "is_new": true
   },
   {
-   "title": "Freelance Email Marketing Executive (Mailchimp)",
-   "company": "Sphere Digital Recruitment",
-   "location": "London, UK",
-   "salary_min": 45965.84,
-   "salary_max": 45965.84,
-   "salary_text": "£45,966",
-   "salary_is_estimate": true,
+   "title": "Global Marketing Manager （Mandarin required)",
+   "company": "LEON CYCLE",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "full_time contract",
+   "contract": "fulltime",
    "date_posted": "2026-11-28",
-   "url": "https://www.adzuna.co.uk/jobs/details/5981488223?utm_medium=api",
-   "description": "Love building campaigns that go out on time and land well? The Role Our customer, a global sports and entertainment brand, needs a freelance Email Marketing Executive to build and send their campaigns. This is a 2 week contract, based in London. In event weeks you'll set up and send up to 3 campaigns a week. Between events it drops to around 1 a week. Next week is the busiest stretch before Christmas, so an immediate start matters. Your Responsibilities Build and set up up to 3 email campaigns …",
-   "key": "sphere digital recruitment|freelance email marketing executive",
+   "url": "https://www.linkedin.com/jobs/view/4495362612",
+   "description": "Leon Cycle is an e-bike business that was established in Germany in 2014 and has since developed business operations in over 10 countries across Europe, North America and APAC. Leon Cycle offers a range of e-bike models from mountain e-bikes, folding e-bikes, trekking e-bikes and step thru e-bikes. We are a Direct-to-Consumer (D2C) business with our own online and offline operations, as well as other online marketplaces. With strong growth and expansions in place, we are now seeking a Marketing Manager to join our London HQ .\n\nThe Global Marketing Manager will understand the customer and their needs and lead various internal functions, including Marketing, Creative, Digital, Retail marketing and customer experience. The ideal candidate will be a growth-oriented leader who adopts an analytical, entrepreneurial, data-driven, and operationally focused approach.\n\nThis role will require you to:\n\n* Lead the marketing and design team to create, deliver and execute full 360 integrated marketing campaigns from brand building, product launches, customer experience, and retail marketing.\n* Lead the team to manage key marketing channels – Content Marketing, PR, Influencers, Email, and social media.\n* Plan and develop annual marketing calendar and collaborate with E-commerce and Retail team on seasonal promotions and new product launches.\n* Brand management - help define our brand positioning and storytelling, localizing global content and establish the right tone of voice for the market.\n* Be a team leader and manage the progress of the team on performance and KPIs.\n* Serves as a consumer insights subject matter expert by staying on top of current trends and industry changes.\n* Be a visible, collaborative leader who can develop, scale and build out the existing team in place to the next level.\n\nIdeally you will have:\n\n* 10+ years of experience in Brand Management, Marketing, PR, ideally from a similar industry\n* Experienced with commercial businesses both with online and digital / E-Commerce operations as well as brick & mortar operations.\n* Strong executional background with the ability to drive the team towards a common goal.\n* Exceptional communication skills, with the ability to adapt communication to multiple audiences.\n* Possesses a positive, can-do attitude, highly collaborative and able to work well cross-functionally and effectively with both creative and operational partners; able to develop and nurture effective relationships at every level of the organization.\n* Able to work in a fast-paced work environment, comfortable with rapidly changing landscapes and market pressures.\n* Bachelor's degree in marketing, or a business-related field required.",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "leon cycle|global marketing manager mandarin required",
    "sources": [
-    "adzuna"
+    "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-28",
@@ -102,7 +102,7 @@
    "description": "**Department:**\nMarketing\n  \n  \n**Location:**\nLondon\n  \n  \n**Job Level:**\nMarketing & Business Development Manager\n  \n  \n**Reports To:**\nMarketing & Business Development Director\n  \n  \n**The Business**\nGreenberg Traurig LLP is a leading global law firm, with more than 3,100 lawyers across 51 offices worldwide. Since establishing its London office in 2009, GT has built a substantial, full-service practice of almost 200 lawyers, advising an increasingly diverse international client base on complex, high-value and often cross-border matters.\n  \n  \nOur London team brings together market-leading expertise across a broad range of disciplines, including Corporate & M&A, Private Equity, Real Estate, Funds, Banking & Finance, Capital Markets, Restructuring & Insolvency, Dispute Resolution and International Arbitration. These core practices are complemented by specialist capabilities in areas including Tax, Regulatory, Commercial, Energy, Infrastructure, Employment, Competition Law, Intellectual Property and Data Protection, enabling us to deliver joined-up, commercially focused advice across the full spectrum of our clients' needs.\n  \n  \nWe work with an ambitious and diverse client base spanning financial services, private capital, real estate, life sciences, industrials, automotive, retail, sports, media and communications. Our approach is built around long-term relationships, deep sector understanding and close collaboration across practices and jurisdictions, bringing together the right expertise to help clients navigate their most important challenges and opportunities.\n  \n  \nThe quality of our work and our commitment to client service are reflected in consistent recognition from leading legal directories, including Chambers & Partners and Legal 500. Recent accolades include Best Client Service at both The Lawyer Awards 2025 and The Lawyer European Awards 2025, alongside the Future Readiness – Next Gen AI in Legal Services award at the Legal Technology Awards 2026, recognising our commitment to innovation and the evolution of legal service delivery.\n  \n  \nAt GT, we believe that our people are fundamental to our success. We are committed to fostering an inclusive, collaborative environment where talented individuals are supported, encouraged to develop and given the opportunity to make a meaningful contribution. We welcome conversations about any reasonable adjustments that may be required during the recruitment process or upon joining the firm.\n  \n  \n**The Role**\nThe Marketing & Business Development Manager will play a key role in developing and implementing the marketing and business development strategy for an allocated portfolio of London practice groups. Working closely with practice group leaders, individual shareholders and other senior stakeholders, the role will identify opportunities to strengthen client relationships, develop new business and raise the profile of the firm's capabilities in the London and wider international markets.\n  \n  \nThe successful candidate will act as a trusted adviser to lawyers, providing strategic marketing and business development support while taking ownership of a broad range of initiatives, projects and day-to-day activities. This will include developing practice-specific business plans, leading strategic pitches and client development initiatives, and overseeing marketing and profile-raising activities.\n  \n  \nThe role requires someone who can operate independently, demonstrate strong commercial awareness and exercise sound judgement, while remaining highly collaborative and willing to take a hands-on approach to delivery. The successful candidate will work closely with colleagues in the London team and across the firm's global marketing and business development function.\n  \n  \n**Key Responsibilities**\n**Business Development & Practice Group Management**\n\n* Build strong relationships with practice group leaders, shareholders and senior associates, acting as a trusted adviser on marketing and business development matters.\n* Develop and implement strategic business development and marketing plans aligned with practice group and firm-wide objectives, identifying opportunities to grow client relationships and generate new business.\n* Provide commercial insight and strategic guidance on client development, targeting, cross-selling and market positioning, informed by an understanding of practice capabilities, key clients and market trends.\n* Proactively identify and recommend initiatives to strengthen practice group performance, raise market profile and support revenue growth.\n\n**Pitches, Proposals & Client Development**\n\n* Lead strategic pitches, proposals and RFPs, developing compelling strategies and messaging and coordinating input from lawyers and relevant regional and global teams.\n* Oversee the preparation of presentations, credentials and other business development materials, ensuring the firm's capabilities and relevant experience are effectively communicated.\n* Work with lawyers to develop and maintain client and matter credentials, and evaluate pitch outcomes to identify opportunities for improvement.\n\n**Marketing, Communications & Profile Raising**\n\n* Develop and oversee targeted marketing campaigns and profile-raising initiatives, including thought leadership, media opportunities, speaking engagements and client communications.\n* Lead the preparation of submissions for Chambers & Partners, Legal 500 and other relevant directories and awards, working with lawyers to maximise the firm's recognition.\n* Identify opportunities for strategic sponsorships, memberships and industry engagement, evaluating their potential value and contribution to business development objectives.\n* Oversee the accuracy and quality of practice descriptions, lawyer biographies, matter experience and other marketing materials.\n\n**Events & Relationship Development**\n\n* Work with the London Events Manager and practice groups to develop and deliver strategic client events, conf",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Law Practice",
+   "company_industry": "",
    "key": "greenberg traurig london|marketing business development manager",
    "sources": [
     "linkedin"
@@ -136,19 +136,19 @@
    "is_new": true
   },
   {
-   "title": "Senior Creative Artworker and Campaign Creative (FTC)",
-   "company": "Burberry",
+   "title": "VodafoneThree - Sustainable Business Manager - Human Rights and Partnerships (12 Months FTC)",
+   "company": "VodafoneThree",
    "location": "London, UK",
-   "salary_min": 41764.86,
-   "salary_max": 41764.86,
-   "salary_text": "£41,765",
+   "salary_min": 55002.32,
+   "salary_max": 55002.32,
+   "salary_text": "£55,002",
    "salary_is_estimate": true,
    "work_pattern": "",
-   "contract": "contract",
+   "contract": "full_time contract",
    "date_posted": "2026-11-28",
-   "url": "https://www.adzuna.co.uk/jobs/details/5981615326?utm_medium=api",
-   "description": "INTRODUCTION Position Location: London – Hybrid (minimum 4 days per week in the office) At Burberry, our people and culture underpin how we deliver for our customers and our brand. We are building a high-performance culture that encourages creativity and collaboration, and enables colleagues to do their best work. Guided by our reimagined purpose, To Embrace the Elements with Open Arms, we bring together diverse perspectives, skills and expertise to create exceptional luxury products and experi…",
-   "key": "burberry|senior creative artworker and campaign creative",
+   "url": "https://www.adzuna.co.uk/jobs/details/5981663627?utm_medium=api",
+   "description": "Location: The Speechmark, London Hybrid Salary: Excellent basic salary plus bonus and Vodafone benefits Working hours: Full time 37.5 hours per week - Monday to Friday Duration: 12 Months Fixed Term Contract Hybrid We believe that through collaboration and connection with our colleagues we can achieve great things. Our hybrid working approach allows our people to work both in the office and at home, providing the flexibility and resources you need to succeed in your role. We don't require you …",
+   "key": "vodafonethree|vodafonethree sustainable business manager human rights and partnerships",
    "sources": [
     "adzuna"
    ],
@@ -181,6 +181,54 @@
    "is_new": true
   },
   {
+   "title": "Communications & Media Relations Lead",
+   "company": "Systemiq Ltd.",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495843144",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "systemiq|communications media relations lead",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
+   "title": "Communications and Media Relations Lead",
+   "company": "Systemiq Ltd.",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4494215017",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "systemiq|communications and media relations lead",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
    "title": "Content Lead",
    "company": "STACKS",
    "location": "London, ENG, UK",
@@ -205,6 +253,30 @@
    "is_new": true
   },
   {
+   "title": "Creative Solutions Senior Executive",
+   "company": "Hearts & Science",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495313835",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "hearts science|creative solutions senior executive",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
    "title": "Digital Marketing Manager",
    "company": "Independent Builders Merchant Group",
    "location": "London, ENG, UK",
@@ -223,54 +295,6 @@
    "key": "independent builders merchant|digital marketing manager",
    "sources": [
     "indeed"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-28",
-   "is_new": true
-  },
-  {
-   "title": "Digital Marketing Manager",
-   "company": "Love Success",
-   "location": "London Area, UK",
-   "salary_min": 42900.0,
-   "salary_max": 48750.0,
-   "salary_text": "£42,900–£48,750",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "temporary",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4494207500",
-   "description": "**Temporary Digital Marketing Project Manager**\n\n**Location:**\nCentral London\n\n**Working Pattern:**\nMonday – Friday (hybrid 3 days in office)\n\n**Hours:**\n9am-5pm\n\n**Duration:**\nEnd of March 2027\n\n**Salary:**\n£22-25 per hour + holiday pay\n\n**\\*\\*Immediate Start\\*\\***\n\nWe are recruiting a Digital Marketing Project Manager to lead the day-to-day delivery, content management and promotion of a new consumer-facing mobile app. This role would suit a proactive digital marketing professional who enjoys a blend of project management, content creation, stakeholder engagement and campaign delivery.\n\nThe successful candidate will play a key role in preparing the platform for launch, driving user engagement and building relationships with local businesses and partners to ensure the app offers a compelling and regularly updated experience for users.\n\n**Key Responsibilities**\n\n* Manage the day-to-day operation, maintenance and delivery of a consumer-facing mobile app.\n* Source, upload and update engaging content, including offers, promotions, events and business listings.\n* Build and maintain relationships with businesses and partner organisations to encourage participation and content contributions.\n* Promote the platform through proactive outreach via email, telephone and face-to-face engagement.\n* Plan, create and deliver digital marketing campaigns across social media, email and web channels.\n* Develop compelling written content and source imagery for app listings, websites, newsletters and marketing materials.\n* Maintain and update website content, ensuring information remains accurate and relevant.\n* Monitor app performance, user engagement and marketing campaign effectiveness, producing regular reports and insights.\n* Identify opportunities to improve user experience, increase engagement and support platform growth.\n* Provide support to app users, troubleshooting issues and liaising with external suppliers where required.\n* Collaborate with internal and external stakeholders to support launch activities, marketing initiatives and ongoing platform development.\n* Ensure all content and communications are delivered to a high standard, on time and in line with brand guidelines.\n\n**About You:**\n\n* Minimum 3 years' experience in digital marketing, content creation or campaign management.\n* You are comfortable using digital marketing tools, content management systems and social media platforms.\n* You are data-driven and able to use insights and performance metrics to inform decision-making.\n* Experience using email marketing platforms such as Mailchimp or equivalent.\n* Excellent stakeholder engagement and relationship-building abilities.\n* Experience promoting destinations, places, events, retail, hospitality or eisure-related products and services.\n* Previous exposure to app marketing, community engagement or membership-based platforms.\n\nIf you have hands-on experience in digital marketing and content management, with a proven track record of delivering successful campaigns across social media, email and web channels then please apply!",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Media and Marketing Services",
-   "key": "love success|digital marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-28",
-   "is_new": true
-  },
-  {
-   "title": "Expert Opportunity - Brand Marketing Manager ($70/hr, up to $1,400/week)",
-   "company": "Begun",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4442589955",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "",
-   "key": "begun|expert opportunity brand marketing manager",
-   "sources": [
-    "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-28",
@@ -333,13 +357,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4494210366",
-   "description": "**Why Faculty?**\nWe established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.\n  \n  \nWe don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.\n  \n  \nOur business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.\n  \n  \nAI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.\n  \n  \n**About Frontier**\nFaculty Frontier™ is a decision operating system. It puts AI to work on the decisions that matter most to large organisations, such as where to invest, how to allocate resources, and when to act.\n  \n  \nEvery enterprise is investing heavily in AI, but few are confident it will improve performance. Too often it goes to what’s easy to automate, disconnected from the decisions that actually move the business.\n  \n  \nFrontier works backwards from objectives like revenue, margin and risk to the decisions that drive them, then connects the data, models and agents those decisions need into a world model of the business. Teams simulate and optimise options with ADA, our AI decision agent, and every decision is tracked against its outcome so the system keeps learning. Our ambition is to make business decisions as easy to navigate as getting around a city.\n  \n  \nWe don’t believe in AI that thinks for people. We believe in AI that helps people think, with humans and agents working together inside a decision system.\n  \n  \nCustomers start with one high-value decision and prove value in weeks. Over months they connect it into a wider decision network, and over years they build an adaptive enterprise.\n  \n  \nFrontier is built by Faculty, an AI company that has delivered more than 400 systems since 2014 and is now part of Accenture.\n  \n  \n**About The Role**\nAs a Lead Product Marketing Manager at Faculty, you will own how Faculty Frontier reaches the market—shaping the launch plan, release calendar, and product marketing behind every major capability. Faculty Frontier helps the world’s largest organisations model and make their most consequential decisions. Reporting to the Vice President, Product Marketing, you will serve as the vital connective tissue between Product and Go-to-Market teams. In this high-impact individual contributor role, your mission is to ensure every Frontier release lands on time and with clarity, creating a compelling story that Faculty, Accenture, and our technology ecosystem partners can tell with conviction.\n  \n  \n**What You'll Be Doing**\n\n* Owning the Faculty Frontier launch calendar and end-to-end release marketing process, from initial roadmap intake through to launch readiness, general availability, and post-launch review.\n* Partnering with the VP of Product and GTM to maintain a single, shared view of the release schedule so Marketing and field teams know precisely what is shipping and when.\n* Running comprehensive launch plans for each release with clear owners, milestones, and success metrics, while leading cross-functional readiness check-ins.\n* Synthesising market signals, influencer insights, and customer input alongside the product marketing team to provide clear guidance back to Product Management on future releases.\n* Translating release plans and roadmap updates into sharp positioning and messaging inputs that fuel content creation, analyst relations, and sales enablement programmes.\n* Tracking launch performance against adoption and pipeline goals, feeding key learnings directly into subsequent release cycles.\n\n**Who We're Looking For**\n\n* You bring deep enterprise software product marketing experience (typically 10+ years), with a strong track record of owning technical or net-new AI launches end to end and driving measurable adoption and pipeline growth\n* You’ve led and developed product marketers, contractors, or agencies for at least three years—combining strategic leadership with a hands-on willingness to write the brief, build the deck, and run the meeting\n* You’re fluent in AI, machine learning, or data platforms, able to engage credibly with Product and Engineering on roadmap priorities and translate complex technology into clear narratives for executive buyers and industry analysts\n* You’re a natural collaborator who excels at enabling field sales teams, technology partners, and global systems integrators (such as Accenture) through consultative, multi-stakeholder sales cycles\n* You’re analytically minded and disciplined, using market insight, performance data, and strong programme management to keep dependencies on track and stakeholders informed without being chased\n* You thrive in ambitious, fast-scaling environments—bringing comfort with ambiguity, shared commercial drive, and ideally experience across regulated sectors such as life sciences, healthcare, or financial services\n\n**Our Interview Process**\n\n* Talent Team Screen (30 mins)\n* Hiring Manager Introduction (60 mins)\n* Product Interview with VP Product (45 mins)\n* Commercial Interview with VP Commercial (45 mins)\n* Case Study Interview (60 mins + Prep)\n\n**Our Recruitment Ethos**\nWe aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for m",
+   "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Technology, Information and Internet",
+   "company_industry": "",
    "key": "faculty|lead product marketing manager",
    "sources": [
     "linkedin"
@@ -357,13 +381,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4494212277",
    "description": "**Role description**\n\nProduct Marketing Manager Audience Centric Marketing GTM Strategy Buyer Research Thought Leadership cross functional collaboration Content creation Customer Journey mapping five to 7 years of success in marketing and product marketing roles Technical orientation with 3 to 5 years experience with cybersecurity vendors Experience working with cloud service providers Google, Microsoft or AWS Strong passion for product positioning and messaging Outstanding writing and communication skills with English at native-level proficiency Ability to conduct market, competitor, and customer research Experience in creating GTM, product launches, value propositions and messaging strategies Proven ability to build pipelines for new offerings and upsell programs Hands on experience with events, trade shows, webinars and good presentation skills Good to have Proven experience of using AI agents to support product marketing tasks experience working with cybersecurity MSSPs and MDR vendors Good spoken level of at least one of the following language - German, French or Spanish.\n\n **Skills**\n\nProduct Marketing, Market Research, User Research, Cybersecurity, Presentation Development, Competitive Analysis, Customer Experience, Event Marketing, Agentic AI, Launch\n\n **About UST**  \nUST is a global digital transformation solutions provider. For more than 20 years, UST has worked side by side with the world’s best companies to make a real impact through transformation. Powered by technology, inspired by people and led by purpose, UST partners with their clients from design to operation. With deep domain expertise and a future-proof philosophy, UST embeds innovation and agility into their clients’ organizations. With over 30,000 employees in 30 countries, UST builds for boundless impact—touching billions of lives in the process.",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "IT Services and IT Consulting",
+   "company_industry": "",
    "key": "ust|manager i marketing",
    "sources": [
     "linkedin",
@@ -372,6 +396,30 @@
    "other_urls": [
     "https://uk.indeed.com/viewjob?jk=bb555cbed157de21"
    ],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
+   "title": "Marketing Manager - Global Lead Gen & Events (Maternity Cover)",
+   "company": "ToucanTech",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495316154",
+   "description": "**Start date**\n\n: January 2027\n\n**Reporting to**\n\n: Co-founder\n\n**Contract**\n\n: Fixed-term contract (maternity cover) for 12 months. Open to full time or part time (minimum 3 days per week) \n\n**Location**\n\n: UK-based, hybrid role, within commuting distance of our West London office for occasional co-working, team lunches and meetings, plus some event travel and occasional evening calls with other regions\n\n**About ToucanTech**\n\nToucanTech is a  fast-paced tech scale-up transforming workflows for school fundraisers and membership associations. Our smart community management platform combines an all-in-one database, website, email, events, payments, and AI/automation tools to help organisations build stronger, more engaged communities.\n\nThe software is used across 25+ countries by schools, charities, universities, professional associations, and membership bodies, typically in the mid-market (e.g. everything between small volunteer groups and large corporate enterprises).\n\nFrom two founders to a global team of 60+ across the UK, US, Portugal and Australia, we were recently named as a UK Top 50 Fastest Growing Startups - and we’re building market leading positions.\n\n**The role**\n\nWe're looking for an organised, commercially minded marketer to cover our marketing lead's maternity leave. Ideally you'll have experience in the sectors we sell to, particularly US school fundraising, which is a key focus for 2027.\n\nYou'll keep our events programme and day-to-day marketing running across our UK, US and APAC markets, and drive quality lead generation to fuel demo bookings and new sales. Overseeing conferences and events is a large part of the role. This covers industry conferences and sponsorships as well as our own customer events, roundtables, webinars and meetups. Much of the 2027 schedule is already set, with scope to refine partnerships and trial new formats or locations. You'll steer the content, messaging and lead generation from events, and manage our Events Coordinator, who handles event logistics.\n\nYou'll also oversee our other marketing channels (referrals, email and digital campaigns, and SEO/AI search), bringing together customer stories, strong copy and clear performance tracking. You'll manage our Digital Marketing Executive, who runs email, LinkedIn and digital campaigns, and help them focus on the highest-impact activity.\n\nThe role is varied and hands-on, and suits someone who's comfortable making decisions, managing several priorities at once and making sure events and campaigns deliver: generating leads, strengthening customer loyalty and building referrals in our target segments.\n\n**What you'll do**\n\n* Deliver the 2027 marketing plan to drive quality lead generation and demo bookings\n* Own the marketing budget (mostly events), sponsorship decisions and supplier/partner relationships\n* Oversee the events programme, choosing the right mix of conferences, sponsorships, speaking slots and our own events across the UK, US and APAC\n* Work with regional sales and customer teams to plan events, agree goals and make sure pre- and post-event comms and follow-up happen\n* Support the Events Coordinator with event logistics\n* Liaise with conference organisers and sector associations (e.g. CASE, IDPE, Educate+)\n* Support the Digital Marketing Executive with email, LinkedIn (paid and organic) and SEO/AEO activity, including website updates and review sites\n* Brief and review marketing content, from sponsor copy and event invites to newsletters, LinkedIn posts and presentations\n* Track and report on event and campaign performance (leads, pipeline, attendance) and share learnings with the wider team\n* Keep processes, the events calendar and documentation up to date (Notion, Google Workspace, Pipedrive)\n\nYou'll lead the\n**Marketing Team**\n\nand work closely with Operations, Design, Sales, and Customer Success.\n\nProduct marketing sits with our Product Team, so it isn't part of this role. You'll still need a strong understanding of ToucanTech's CRM and website product, and how it differs from competitors, to position our marketing well.\n\n**Required Skills**\n\n* Solid B2B or education marketing and events/ conference experience including in the US\n* Experience managing or mentoring others, and comfortable giving direction and feedback\n* Excellent organisational and project management skills. You can keep track of the details without losing sight of the bigger picture\n* Strong written and verbal communication skills (native English), with a good eye for copy\n* Commercial mindset: you’re focused on the business outcome from marketing activities, and how to measure this\n* Comfortable managing budgets, suppliers and sponsorship decisions\n* Comfortable work across time zones and with regional teams (UK, US, APAC)\n* Proficient in AI tools, Google Workspace, Notion and similar tools\n\n**Desirable Skills**\n\n* Experience in B2B tech/SaaS or education (schools, higher ed, advancement)\n* Familiarity with CRM and marketing tools (e.g. Pipedrive, LinkedIn Campaign Manager, outbound email platforms)\n* Comfortable using AI tools to work smarter\n* Willingness to travel to events occasionally (UK, and occasionally US/Europe) and join occasional early/ late calls for other timezones\n\n**Some benefits of this role:**\n\n* Flexible working location, hours and style\n* Training and support to develop your skills and career\n* Networking exposure to a wide range of interesting professionals across the education advancement, memberships and tech sectors internationally\n* Opportunities for travel, including internationally\n* Friendly nurturing environment with a no blame only learn culture\n* Transparency internally about company direction/ strategy & tactics across teams\n* Regular team events, lunches, and meetups\n* A London office with a fully stocked drinks fridge\n* 24 days holiday per year + public holidays (pro-rata if part time)\n* Potential for a longer-term role depending on business requirements\n\nWe are not able to sponsor fo",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Software Development",
+   "key": "toucantech|marketing manager global lead gen events",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
    "first_seen": "2026-11-28",
    "is_new": true
   },
@@ -405,13 +453,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4495803682",
-   "description": "Based in London or Manchester, this permanent, full-time role will manage and maximise a portfolio of City Football Group's global and regional commercial partnerships across Europe and Africa. You will shape thoughtful partnership strategies, deliver effective activation programmes and help partners achieve meaningful brand and business outcomes, while contributing to the continued growth of CFG's clubs and properties.\n\n**Who We Are**\n\nFounded in 2013, City Football Group is the world's leading private owner and operator of football clubs, with teams across the globe connected by a shared belief in doing things differently. Alongside our clubs, we invest in football-related businesses and build partnerships that help the game, and the communities around it, thrive. Everything we do is guided by our purpose: empowering better lives through football. Rooted in more than a century of \"City\" football, we are proud of the role our clubs play locally and globally, creating positive impact on and off the pitch.\n\nOur Partnerships team builds and grows relationships with commercial partners across the CFG network. Working across planning, marketing, operations, creative and club functions, we create partnership programmes that connect brands with Fans in relevant, credible and measurable ways.\n\n**The Role**\n\nYou will take end-to-end responsibility for a portfolio of commercial partnerships across Europe and Africa, working closely with the Senior Partnerships Marketing Manager. From understanding each partner's world and objectives to shaping strategy and activation plans, you will bring structure, insight and creativity to the planning process and help turn shared opportunities into purposeful programmes.\n\nWorking in partnership with the Partnerships Operations team, you will coordinate the delivery of rights and activations, provide clear briefs, keep partners informed and look for practical ways to improve how programmes are delivered. You will also create clear reporting, end-of-season reviews and case studies that connect objectives to outcomes, while identifying opportunities to showcase partner activity and learning.\n\nYou will collaborate with colleagues across partnership sales, planning, creative, digital, media and other club departments. Your insight will support proposals, pitches and renewal strategies, while your partner and category understanding will help develop ideas that deliver value for partners and contribute to organic revenue growth. The role includes business travel in the UK and overseas, as well as attendance at key meetings, activations and matchdays.\n\n**What You'll Bring**\n\n⚽ Experience in partnerships marketing, sponsorship marketing or a closely related commercial marketing environment.\n\n⚽ Understanding of football sponsorship contracts, rights packages and the practical delivery of partnership programmes.\n\n⚽ Ability to plan and activate integrated marketing programmes, connecting partner objectives with clear activity and outcomes.\n\n⚽ Experience managing partner or client relationships and coordinating multiple stakeholders across different teams.\n\n⚽ Digital marketing literacy, with the ability to contribute to digital and media activity and advise on relevant opportunities.\n\n⚽ Ability to evaluate activity, develop clear reports and case studies, and turn results into practical recommendations.\n\n**Why Choose Us**\n\nWorking at City Football Group means being supported to do your best, with the flexibility and encouragement to look after your wellbeing. We are committed to helping our people learn, grow and thrive in a culture built on collaboration, openness and hard work.\n\nAs part of our team, you will receive 26 days' annual leave plus a day off for your birthday, private healthcare and dental cover, and an annual discretionary bonus. You will also have access to a Health Cash Plan, Employee Assistance Programme with 24/7 GP support, and a company pension and life assurance.\n\nManchester-based employees also benefit from free on-site parking, complimentary breakfast and lunch, and access to a range of sports and leisure clubs.\n\nYou can enjoy a range of additional benefits, including cycle to work, Give As You Earn, discounted match tickets, savings in the City Store, a free City+ subscription, stadium tour discounts, and wider retail and lifestyle offers.\n\n**How to Apply**\n\nIf this role sounds like it is for you, we would love to hear from you. To apply, please submit your application via our careers site by 13 December 2026. We encourage you to apply as soon as you can.\n\nWe work with a select group of agency partners and do not accept unsolicited applications. Any CVs submitted without prior agreement will be treated as a direct application.\n\n**Equal Opportunities**\n\nCity Football Group promotes equal opportunities in employment and we positively welcome applications from all candidates regardless of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex and sexual orientation.\n\nWe will screen all applicants and select candidates whose skills and experience seem to meet our needs. We will carefully consider your application during the initial screening and will contact you only if you are selected for an interview. If you require reasonable adjustments or any support throughout the process, please contact hiring@cityfootball.com and we will be happy to help.\n\nAll CFG recruitment communications originate from @cityfootball.com email addresses. If you receive communications from Gmail, Outlook.com or other personal email services claiming to represent CFG, please verify with the hiring team. Employment is subject to the provision of proof of eligibility to work in the UK.\n\nDue to our safeguarding promise, all UK-based CFG roles will be subject to a DBS check upon commencing employment with us. This will be either a basic, standard or enhanced check depending on the job role and responsibilities.",
+   "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Sports Teams and Clubs",
+   "company_industry": "",
    "key": "city football|partnerships marketing manager",
    "sources": [
     "linkedin"
@@ -456,38 +504,14 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4488078738",
-   "description": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.\n  \n  \nThe Company operates Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc., a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji, Saturn, and other digital services.\n  \n  \nThe Product Marketing team uses creativity, market research, and insights to optimize and inspire roadmaps for products across Snap Inc. This team works in a highly collaborative environment to deliver go-to-market efforts and strategies to demonstrate the role that Snapchat plays in the lives of our community and helps businesses grow.\n  \n  \nWe're looking for a Lead, Product Marketing Manager to own Brand go to market across Europe in our Regional Product Marketing team. Our mission is to make Snapchat a must-buy for brand advertisers in every European market, by growing adoption of our video and Brand solutions across Snap's surfaces (Chat, Spotlight, Stories and Map): Video, Reserved and Takeovers, Creator solutions, and AR. As a senior individual contributor, you will be the brand voice of the region to Sales leadership and Product, and help brands and agencies understand why Snapchat is essential to reach our community.\n  \n  \n**What You'll Do:**\n\n* Own the Europe Brand product goals, from quarterly goaling to delivery, and the go-to-market plans that drive them across European markets.\n* Define the multi-quarter Brand strategy for Europe and fold it into the regional annual plan, with clear bets and trade-offs\n* Develop positioning, narrative and sales activation plans across the Brand portfolio, adapted to how European advertisers and agencies plan and buy video\n* Develop and scale sales enablement for European sellers (pitch narratives, case studies, playbooks and training) that drives adoption and revenue for Brand and video solutions\n* Act as the voice of the European advertiser: gather and synthesize market feedback, and work with global Product and Brand PMM teams to inform product strategy, pricing and roadmap\n* Lead relationships with agency holding companies and key brand advertisers on Brand products, and represent Snap at industry moments\n* Define and track KPIs for adoption, advertiser satisfaction and revenue, and deliver clear performance narratives to senior leadership in strategic reviews\n* Build scalable feedback loops between advertisers, sales and product teams to prioritize high-impact opportunities, and act as a thought partner and mentor within the team\n\n**Knowledge, Skills & Abilities:**\n\n* Strong understanding of brand advertising and how advertisers and agencies in Europe evaluate and buy video, TV (BVOD, CTV) and brand-building media\n* Fluency in the social and video landscape, including how Snap's surfaces compare to and differentiate from competitive platforms\n* Strong command of brand measurement (brand lift, reach and frequency, MMM)\n* Deep understanding of brand marketers' needs across priority verticals such as CPG, Retail, Luxury, Tech, Entertainment and Automotive\n* Strong executive presence with the ability to influence senior leaders without authority\n* Ability to operate autonomously and lead ambiguous, high-impact initiatives across multiple markets, teams and products\n* Exceptional communication and storytelling skills, with experience presenting to sales teams, product teams and advertiser and agency senior leadership\n* Demonstrated ability to champion AI adoption and lead the automation of manual workflows, freeing capacity for high-value strategic work\n\n**Minimum Qualifications:**\n\n* BS/BA degree or equivalent years of experience\n* Significant experience in product marketing, product strategy, or other relevant digital marketing or advertising roles\n* Experience in product marketing for brand advertising, video, or media products\n\n**Preferred Qualifications:**\n\n* Experience leading marketing for video or social advertising products across multiple European markets\n* Experience at a media owner, ad platform or agency holding company on brand or video\n* Proficiency in GTM frameworks and strategic narrative development\n* Comfortable with data analysis and visualisation using tools like Looker or similar\n* Additional European languages a plus\n\nIf you have a disability or special need that requires accommodation, please provide us some information.\n  \n  \n\"Default Together\" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office 4+ days per week.\n  \n  \nAt Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets.\n  \n  \nOur Benefits: Snap Inc. is its own community, so we’ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, ",
+   "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Software Development",
+   "company_industry": "",
    "key": "snap|product marketing manager brand",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-28",
-   "is_new": true
-  },
-  {
-   "title": "Sales Marketing Manager",
-   "company": "Guerrilla Marketing",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4495587755",
-   "description": "**Company Description**\nGuerrilla Marketing is a human-centered marketing agency focused on creating bold, visible, real-world brand experiences. Inspired by the original principles of guerrilla marketing, the company emphasizes face-to-face engagement that builds trust, strengthens loyalty, and drives measurable growth. Its approach centers on transparency, authenticity, and clear communication, representing brands through people rather than processes. As the marketing landscape evolves, Guerrilla Marketing continues to invest in genuine human connection, designing campaigns that create meaningful interactions and lasting relationships.\n  \n**Role Description**\nThe Sales Marketing Manager is a full-time, on-site role based in London, responsible for driving revenue growth and brand visibility through strategic, human-to-human marketing initiatives. This role oversees the planning and execution of integrated sales and marketing campaigns, aligning field activities, digital outreach, and partner programs with business objectives. The Sales Marketing Manager will analyze market opportunities, manage pipelines, and collaborate closely with client-facing teams to convert engagement into measurable results. Day-to-day tasks include developing campaign plans, coordinating events and face-to-face activations, tracking performance metrics, preparing reports, and optimizing strategies based on data and feedback. The role also involves leading and mentoring team members, maintaining strong client relationships, and ensuring that all activities reflect Guerrilla Marketing’s commitment to authenticity and meaningful connection.\n  \n**Qualifications**\n\n* Strong sales and marketing strategy skills, including experience developing and implementing integrated campaigns that drive revenue and brand growth.\n* Proficiency in managing client relationships, stakeholder communication, and cross-functional collaboration within a fast-paced agency or marketing environment.\n* Experience with face-to-face, experiential, or field marketing, including planning and executing events, activations, and human-centered engagement programs.\n* Ability to use data and analytics tools to track performance, interpret metrics, and refine sales and marketing initiatives for continuous improvement.\n* Demonstrated leadership capabilities, including mentoring team members, managing projects, and coordinating resources across multiple campaigns.\n* Excellent written and verbal communication skills, with the ability to present concepts, reports, and campaign results clearly to internal teams and clients.\n* Relevant experience in marketing, sales, or business development; a bachelor’s degree in Marketing, Business, Communications, or a related field is beneficial.\n* Comfort working on-site in London, with flexibility to attend events and client meetings as needed; prior experience in agency or brand-side marketing is an advantage.",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Marketing Services",
-   "key": "guerrilla marketing|sales marketing manager",
    "sources": [
     "linkedin"
    ],
@@ -521,30 +545,6 @@
   },
   {
    "title": "Senior Content Manager",
-   "company": "Heathrow",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4494214781",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "",
-   "key": "heathrow|senior content manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-28",
-   "is_new": true
-  },
-  {
-   "title": "Senior Content Manager",
    "company": "Heathrow Airport",
    "location": "London, ENG, UK",
    "salary_min": null,
@@ -568,6 +568,30 @@
    "is_new": true
   },
   {
+   "title": "Senior Global Internal Communications Manager - Corporate Functions and Transformation",
+   "company": "Haleon",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4486749886",
+   "description": "Welcome to Haleon. We’re a purpose-driven, world-class consumer company putting everyday health in the hands of millions. In just three years since our launch, we’ve grown, evolved and are now entering an exciting new chapter – one filled with bold ambitions and enormous opportunity.\n  \n  \nOur trusted portfolio of brands – including Sensodyne®, Panadol®, Advil®, Voltaren®, Theraflu®, Otrivin®, and Centrum® – lead in resilient and growing categories. What sets us apart is our unique blend of deep human understanding and trusted science.\n  \n  \nNow it’s time to fully realise the full potential of our business and our people. We do this through our Win as One strategy. It puts our purpose – to deliver better everyday health with humanity – at the heart of everything we do. It unites us, inspires us, and challenges us to be better every day, driven by our agile, performance-focused culture.\n  \n  \n**About The Role**\nThe Global Internal Communications Team leads the development and successful delivery of the company-wide internal communication strategy. Driving internal communications at a group level and supporting functional Executive Team members with a key focus on building colleague engagement with Haleon’s ambitions, priorities, leadership and company culture.\n  \n  \nThis is a senior role within the Global Internal Communications Team, responsible for leading internal communications across many of our corporate functions including Digital & Tech, Legal, HBS, and Corporate Affairs, while also supporting the Global Head of Internal Communications in the development and delivery of the communications strategy for Haleon’s enterprise transformation programme.\n  \n  \nThe Senior Manager will be a strategic communications partner to senior functional and programme leaders, responsible for ensuring communications are joined up, audience-led, well planned, effectively delivered and executed to a consistently high standard. The role will translate complex functional and transformation priorities into clear, engaging communications, strengthen leadership engagement, and help colleagues understand what is changing, why it matters, and what it means for them.\n  \n  \nThe role also manages a small team providing direction, coaching, and quality assurance across the corporate functions and transformation agenda. It requires someone confident working with senior stakeholders who can combine strategy judgement and constructive counsel with hands-on delivery in a complex, fast-moving global environment.\n  \n  \n**Role And Responsibilities**\n**Strategic communications partnership and planning**\n\n* Support the Global Head of Internal Communications in executing all aspects of Haleon’s global internal communications strategy.\n* Be a strategic communications partner to the Chief Digital & Technology Officer by leading on driving company-wide communications in support of Haleon Digital Strategy as well as providing strategic communications partnership for the D&T Leadership Team and wider function.\n* Support the Global Head of Internal Communications in developing and delivering an integrated communications strategy for our enterprise transformation programme, aligned with transformation milestones, business priorities, and Haleon’s Win as One Strategy.\n* Lead the day-to-day coordination and delivery of transformation communications across programme mobilisation, design, readiness, deployment and adoption phases.\n* Build strong relationships and understanding of functional strategies, transformation agendas, and priorities, identifying upcoming communications needs, anticipating key moments and supporting the team to ensure timely delivery.\n* Develop and deliver compelling colleague engagement campaigns that connect functional and transformation priorities to Haleon’s strategy, culture, colleague experience and long-term growth ambitions.\n* Collaborating closely with senior leaders, the Senior Manager will provide clear, constructive counsel on best practice communications including narrative, communications planning, audiences, channels, messaging and engagement across the functions, to ensure the most effective approaches and challenging where needed to improve outcomes.\n* Lead coordination of functional communications for D&T, Legal, HBS and Corporate Affairs within the broader internal communications plan, identifying overlaps, gaps and sequencing issues.\n* Partner with Change Management colleagues so communications and engagement activity is aligned with change, business readiness activity and employee feedback to guide priorities.\n* Ensure robust measurement and evaluation of all functional and transformation communications, using engagement metrics, feedback and insights to continuously improve activity and outcomes.\n* Act as a key interface with External Communications team – helping to identify and shape stories which could have external relevance and enabling effective external amplification, while maintaining alignment with internal messaging and context.\n\n**Leadership engagement and storytelling**\n\n* Drive employee engagement through impactful, audience-led storytelling that builds pride and belief in Haleon and brings functional strategies and enterprise transformation to life.\n* Develop and edit high-quality communications across a range of formats, including leadership messages, announcements, articles, briefings, campaign assets and complex or sensitive communications.\n* Support senior leaders to communicate clearly and confidently through leadership meetings, town halls, employee events, function and operating-unit engagement, manager cascades, and programme updates.\n* Identify and develop colleague stories that demonstrate transformation progress, business benefits, collaboration, innovation and new ways of working.\n* Support development of multimedia content including video, infographics, and digital communications assets.\n* Maintain strong editorial standards, providing guidance, review, sign off ",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Consumer Services",
+   "key": "haleon|senior global internal communications manager corporate functions and transformation",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
    "title": "Senior Integrated Marketing Manager",
    "company": "JMR Global | Talent Solutions",
    "location": "London Area, UK",
@@ -582,7 +606,7 @@
    "description": "**Senior Integrated Marketing Manager- Mat Cover, Immediate Start**\n\nLondon, hybrid | Full time | Salary: £60k\n\nOur client is a long-established carbon markets business. They develop and finance climate projects and help large corporates turn climate commitments into verified results. They now need a senior marketer to turn market interest into qualified pipeline.\n\nThis is a hands-on leadership role. You will own engagement marketing from strategy and campaign planning through to the Marketing Qualified Leads (MQLs) that reach Sales and BDR. You will report to the Marketing Director and manage one Marketing Engagement Lead. This role is a 12-month maternity cover contract.\n\n**Why this role**\n\nYou will run the engagement function in a fun and warm business where marketing is measured on pipeline, not activity. The client has deep credibility in its sector, and the work has a direct link to climate outcomes.\n\n**What you will do**\n\n* Set the engagement strategy for prospects, leads and existing clients, tied to commercial priorities.\n* Plan and run campaigns across email, digital, social, partnerships and events. You will own the campaign calendar and budget.\n* Segment audiences by industry, buyer persona and deal stage, and tailor the messaging for each.\n* Build thought leadership with internal experts, such as webinars, reports, roundtables, video and gated content. Keep case studies and client testimonials coming.\n* Create content journeys and sales collateral that move prospects from MQL to opportunity. Support account-based work on priority targets.\n* Work with Sales, BDR, PR, Demand Generation and RevOps on lead handover, attribution and reporting. Set up feedback loops that improve lead quality over time.\n* Report on campaign and pipeline performance with clear recommendations. Improve processes and automate where it makes sense.\n\n**What they are looking for**\n\n* Senior B2B marketing experience with a record of generating MQLs and a measurable contribution to pipeline.\n* Strong integrated campaign skills and experience owning a budget.\n* Comfort working closely with sales teams and senior stakeholders, and turning data into decisions people act on.\n* Experience writing thought leadership for an informed B2B audience.\n* Experience managing and developing others.\n* A working knowledge of sustainability and climate topics, or the appetite to get up to speed quickly.\n\n**On carbon markets experience**\n\nA background in carbon markets, climate finance or sustainability services would be a strong advantage, but it is not essential. If you have done this work in another complex, technical B2B market, such as energy, financial services, ESG data or professional services, and want to move into climate, we would like to hear from you.",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Climate Data and Analytics, Climate Technology Product Manufacturing, and Business Consulting and Services",
+   "company_industry": "",
    "key": "jmr global talent solutions|senior integrated marketing manager",
    "sources": [
     "linkedin"
@@ -603,7 +627,7 @@
    "contract": "fulltime",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4495853173",
-   "description": "**Base Location:**\nYou'll be expected to spend 50% of your working week in one of the following locations :London or Glasgow\n  \n  \n**Salary:**\n£59,800 - £89,800 + performance-related bonus + a range of benefits to support your finances, wellbeing and family.\n  \n  \n**Working Pattern:**\nPermanent | Full Time | Flexible First options available\n  \n  \nThe Role\n  \n  \nAn exciting opportunity to use your communications expertise to build trusted relationships and strengthen SSE's reputation in carefully selected countries, supporting our international activities and longer-term growth opportunities.\n  \n  \nAs Senior Manager, International Communications & Brand, your remit will cover SSE's activities outside the UK and Ireland, our home markets. You'll develop and deliver an integrated communications and brand strategy for that remit, aligned with SSE's wider corporate positioning, strengthening our reputation and relationships as a trusted, long-term partner in the energy transition.\n  \n  \nWorking collaboratively with the Head of Corporate Affairs & Regulation, International; business leaders, Investor Relations, the wider Corporate Affairs team and country teams, you'll bring our international story to life through engaging communications, targeted campaigns and locally relevant brand activity.\n  \n  \n**Your Role Will Focus On Two Key Areas**\n\n* Strategic International Business Development Communications: Develop and deliver communications grounded in SSE's international operations and progress milestones. Explain our ambitions in selected markets in the context of SSE's wider strategy, strengthening our reputation and reflecting the context in which SSE is operating.\n* In-Country Communications & Brand: Partnering with local teams to create tailored communications, brand, media, digital and events activity that reflects individual market needs while maintaining a consistent SSE identity.\n\nYou'll exercise judgement about where, when and how SSE communicates, balancing a consistent Group narrative with different cultural, political and commercial environments. Your approach will keep communications relevant and engaging, with activity proportionate to each market's maturity and aligned with SSE's wider priorities.\n  \n  \nYou Will\n  \n  \n\n* International Communications Strategy: Lead the development and delivery of a prioritised international communications and brand strategy aligned with SSE's Group narrative. Focus activity on agreed business development priorities, supporting longer-term growth opportunities through communications proportionate to the maturity of each market.\n* Country Communications & Market Development: Collaborate with country leaders and Corporate Affairs colleagues to develop tailored communications plans that strengthen SSE's reputation in a specific country.\n* Executive Communications & Thought Leadership: Support senior leaders in building their profiles as trusted voices in the energy transition through thought leadership, industry engagement, media opportunities and executive communications.\n* Events, Partnerships & Sponsorships: Develop and deliver high-value international events, conferences and partnerships that create opportunities for engagement, strengthen relationships and support commercial objectives.\n* Media, Digital & Content Communications: Working with the External Communications and Brand teams to create compelling stories, campaigns and digital content that showcase SSE's international activities, partnerships and achievements across media, web and social channels.\n* Reputation Management & Strategic Collaboration: Provide trusted communications advice on emerging opportunities and reputational risks, working closely with senior leaders, Corporate Affairs colleagues and external partners to deliver a coordinated approach.\n\nYou Have\n  \n  \n\n* Relevant experience within energy, renewables or infrastructure, alongside an understanding of European and/or international energy markets and regulated environments.\n* Demonstrable experience in corporate communications, brand and reputation management, with the ability to develop and deliver strategies that support business priorities and commercial objectives.\n* Experience supporting international business development or market-entry activities, with an appreciation of how communications can be adapted to different markets, cultures and audiences.\n* Effective written, verbal, media and digital communications skills, with experience delivering high-profile campaigns, business announcements and executive thought leadership.\n* A collaborative approach to building trusted relationships, with experience working alongside senior leaders, international teams and external partners to achieve shared objectives.\n* Experience coordinating agencies, budgets and multiple projects, including international events, conferences and sponsorships.\n* Additional European language skills would be advantageous but is not a prerequisite.\n\nWe recognise that skills and experience can be gained in different ways. If you're excited about this opportunity and believe you could make a valuable contribution, we'd encourage you to apply.\n  \n  \n**About SSE**\nSSE’s purpose is to be restless every day until we make electricity clean, affordable and available for all.\n  \n  \nWe do this by developing, building, operating and investing in electricity infrastructure and businesses needed in the energy transition. This includes electricity transmission and distribution networks, onshore and offshore wind farms, hydro-electric power and flexible thermal generation. We also provide products and services for businesses and other customers.\n  \n  \nOur investment plan will see SSE invest £33bn in critical electricity infrastructure to 2030.\n  \n  \nOur Corporate Affairs, Regulation & Strategy (CARS) teams play a vital role in sharing SSE's strategy and achievements with our employees, communities, media, governments, investors and more. They advise our teams on c",
+   "description": "**Base Location:** You'll be expected to spend 50% of your working week in one of the following locations :London or Glasgow\n\n**Salary:** £59,800 - £89,800 + performance-related bonus + a range of benefits to support your finances, wellbeing and family.\n\n**Working Pattern:** Permanent | Full Time | Flexible First options available\n\n### **The Role**\n\nAn exciting opportunity to use your communications expertise to build trusted relationships and strengthen SSE's reputation in carefully selected countries, supporting our international activities and longer-term growth opportunities.\n\nAs Senior Manager, International Communications & Brand, your remit will cover SSE's activities outside the UK and Ireland, our home markets. You'll develop and deliver an integrated communications and brand strategy for that remit, aligned with SSE's wider corporate positioning, strengthening our reputation and relationships as a trusted, long-term partner in the energy transition.\n\nWorking collaboratively with the Head of Corporate Affairs & Regulation, International; business leaders, Investor Relations, the wider Corporate Affairs team and country teams, you'll bring our international story to life through engaging communications, targeted campaigns and locally relevant brand activity.\n\nYour role will focus on two key areas:\n\n* Strategic International Business Development Communications: Develop and deliver communications grounded in SSE's international operations and progress milestones. Explain our ambitions in selected markets in the context of SSE's wider strategy, strengthening our reputation and reflecting the context in which SSE is operating.\n\n* In-Country Communications & Brand: Partnering with local teams to create tailored communications, brand, media, digital and events activity that reflects individual market needs while maintaining a consistent SSE identity.\n\nYou'll exercise judgement about where, when and how SSE communicates, balancing a consistent Group narrative with different cultural, political and commercial environments. Your approach will keep communications relevant and engaging, with activity proportionate to each market's maturity and aligned with SSE's wider priorities.\n\n### **You Will**\n\n* International Communications Strategy: Lead the development and delivery of a prioritised international communications and brand strategy aligned with SSE's Group narrative. Focus activity on agreed business development priorities, supporting longer-term growth opportunities through communications proportionate to the maturity of each market.\n\n* Country Communications & Market Development: Collaborate with country leaders and Corporate Affairs colleagues to develop tailored communications plans that strengthen SSE's reputation in a specific country.\n* Executive Communications & Thought Leadership: Support senior leaders in building their profiles as trusted voices in the energy transition through thought leadership, industry engagement, media opportunities and executive communications.\n* Events, Partnerships & Sponsorships: Develop and deliver high-value international events, conferences and partnerships that create opportunities for engagement, strengthen relationships and support commercial objectives.\n* Media, Digital & Content Communications: Working with the External Communications and Brand teams to create compelling stories, campaigns and digital content that showcase SSE's international activities, partnerships and achievements across media, web and social channels.\n* Reputation Management & Strategic Collaboration: Provide trusted communications advice on emerging opportunities and reputational risks, working closely with senior leaders, Corporate Affairs colleagues and external partners to deliver a coordinated approach.\n\n### **You Have**\n\n* Relevant experience within energy, renewables or infrastructure, alongside an understanding of European and/or international energy markets and regulated environments.\n* Demonstrable experience in corporate communications, brand and reputation management, with the ability to develop and deliver strategies that support business priorities and commercial objectives.\n* Experience supporting international business development or market-entry activities, with an appreciation of how communications can be adapted to different markets, cultures and audiences.\n* Effective written, verbal, media and digital communications skills, with experience delivering high-profile campaigns, business announcements and executive thought leadership.\n* A collaborative approach to building trusted relationships, with experience working alongside senior leaders, international teams and external partners to achieve shared objectives.\n* Experience coordinating agencies, budgets and multiple projects, including international events, conferences and sponsorships.\n* Additional European language skills would be advantageous but is not a prerequisite.\n\nWe recognise that skills and experience can be gained in different ways. If you're excited about this opportunity and believe you could make a valuable contribution, we'd encourage you to apply.\n\n**About SSE**\n\nSSE’s purpose is to be restless every day until we make electricity clean, affordable and available for all.\n\nWe do this by developing, building, operating and investing in electricity infrastructure and businesses needed in the energy transition. This includes electricity transmission and distribution networks, onshore and offshore wind farms, hydro-electric power and flexible thermal generation. We also provide products and services for businesses and other customers.\n\nOur investment plan will see SSE invest £33bn in critical electricity infrastructure to 2030.\n\nOur Corporate Affairs, Regulation & Strategy (CARS) teams play a vital role in sharing SSE's strategy and achievements with our employees, communities, media, governments, investors and more. They advise our teams on complex political and regulatory changes, and inf",
    "apply_url": "",
    "company_size": "",
    "company_industry": "",
@@ -619,21 +643,45 @@
    "is_new": true
   },
   {
-   "title": "Senior Manager, Stakeholder Engagement & Comms",
-   "company": "Ellwood Atfield",
-   "location": "London Area, UK",
-   "salary_min": 58000.0,
-   "salary_max": 66000.0,
-   "salary_text": "£58,000–£66,000",
+   "title": "Senior Manager, Events & Experiential Marketing -  18m FTC",
+   "company": "Checkout.com",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
    "contract": "fulltime",
    "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4494201675",
-   "description": "Ellwood Atfield is partnering with a prominent national regulatory body in the health sector to appoint a Senior Communications and Stakeholder Engagement Manager to lead communications and engagement across a significant programme of legislative and regulatory reform.\n\n**The opportunity**\n\nThe organisation is embarking on an ambitious programme of reform to modernise its regulatory framework and ensure it remains responsive to a changing external environment.\n\nThis newly created role offers an opportunity to shape the communications and stakeholder engagement strategy from the outset. Working closely with senior leaders and colleagues across the organisation, you will build understanding and support for reform among political, regulatory and wider external stakeholders.\n\nExperience of working on the passage of a bill is critical to this role, and it would appeal to an experienced public affairs, policy or broad communications/engagement practitioner.\n\n**Key responsibilities**\n\n* Develop and deliver an integrated engagement strategy for a major programme of reform.\n* Provide strategic advice to senior leaders on political engagement, parliamentary handling and communications.\n* Build effective relationships with government, Parliament and wider external stakeholders.\n* Translate complex policy, legislative and regulatory issues into clear and compelling communications.\n* Lead multidisciplinary workstreams, collaborating with colleagues across communications, policy, legal and programme delivery.\n* Ensure stakeholder insight informs organisational decision-making and the management of emerging risks and opportunities.\n* Represent the organisation externally, building understanding and confidence in its work.\n\n**Skills and experience**\n\n* Direct experience of supporting or influencing the development and passage of legislation.\n* Strong political judgement and experience of advising senior leaders on complex and sensitive issues.\n* Experience of developing and delivering communications or stakeholder engagement strategies for high-profile programmes.\n* The ability to lead and influence across multidisciplinary teams and complex organisational structures.\n* Excellent communication skills, with the ability to translate complex issues into accessible and compelling narratives.\n* A proactive, collaborative approach and the confidence to provide strategic advice and constructive challenge.\n* Represent the organisation externally, building understanding and confidence in its wo\n\nWe welcome applications from candidates across the public, private and not-for-profit sectors. Previous experience within a regulatory environment would be advantageous but is not essential.\n\nTo apply\n\nPlease submit your CV and we will be in touch to discuss next steps.",
+   "url": "https://www.linkedin.com/jobs/view/4485851367",
+   "description": "**Company Description**\n*We’re*\n*Checkout.com*\n*. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day.*\n*We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppers.*\n*Whether you want to book a holiday, order food, renew a subscription, or check out online, there’s a good chance our tech powers the payments behind the scenes. Our platform helps the most ambitious businesses deliver effortless digital experiences, at scale.*\n*If you want to do career-defining work, you’ve come to the right place. We move fast, think globally, and believe great teams are built by hiring exceptional people with conviction, curiosity, and the desire to make an impact.*\n*With 20 offices across six continents and London as our HQ, we’re shaping the future of fintech – and we’re just getting started.*\nAs a Senior Manager, Events & Experiential Marketing, you’ll lead a portfolio of high-impact experiences for Checkout.com’s customers, prospects, partners and people.\n  \n  \nThis is a hands-on leadership role. You’ll own complex, high-priority programs from strategy through to delivery, measurement and reconciliation, while managing and developing early-career marketers and coaching colleagues across the business.\n  \n  \nWorking closely with the Director of Events & Experiential Marketing, you’ll translate marketing and commercial priorities into annual plans, quarterly commitments and measurable results. You’ll be accountable for the delivery, budget and quality of your work, helping to strengthen the team’s capabilities and raise the standard of our work.\n  \n  \n**This role is offered on an 18-month fixed-term basis as maternity leave cover.**\n**How You’ll Make An Impact**\n**Portfolio planning and delivery**\n\n* Turn business priorities into a focused annual plan and quarterly commitments, directly contributing to relevant team OKRs and helping to make prioritization calls across audience, scope, resources and timing\n* Act as the subject matter expert for experiences such as SXSW London, the Checkout Advisory Board, Commercial Kickoff, Thrive, owned roadshows and more\n* Personally lead the most complex programs from business case and experience design through execution, measurement and closeout, coordinating suppliers and internal partners\n* Set clear responsibilities, milestones and review points. Anticipate risks, resolve escalations and maintain pace without compromising accuracy or the audience experience\n\n**Budget management and performance**\n\n* Manage the portfolio’s allocated budget, shape investment cases and recommend spending across programs based on expected value and evidence of returns\n* Define the right program measures of success across brand, audience engagement, customer and prospect relationships, commercial contribution, content performance and operational excellence\n* Use reporting and post-event reviews to decide what to improve, scale or stop\n* Ground decisions in customer insight and stakeholder feedback, connecting events and their content to wider campaigns and commercial follow-through.\n\n**Lead and develop people**\n\n* Manage and develop Marketing Graduates through clear goals, coaching, feedback, meaningful ownership and structured opportunities to build their marketing capabilities\n* Coach team members and project partners to think strategically, make sound decisions and connect their work to wider marketing and business outcomes\n* Balance personal delivery with team execution: step into complex work when your expertise is needed, while ensuring the team retains ownership and grows through the work\n\n**Cross-functional influence and expertise**\n\n* Align senior stakeholders across Marketing, Commercial and partner functions, securing agreement on objectives, investment and delivery expectations\n* Represent Events & Experiential Marketing in various forums, communicating recommendations clearly and resolving competing priorities constructively\n* Set the quality bar for the portfolio and help others meet it; introduce relevant industry practices and share learning to strengthen the team’s craft\n\n**What We’re Looking For**\n\n* Proven experience in a similar role (7+ years), preferably in a B2B or event agency setting\n* Deep events and experiential marketing expertise, demonstrated through leadership across complex, high-priority programs with sound operational judgement\n* Strong commercial understanding, with experience managing substantial budgets, assessing ROI and using data to guide decisions.\n* Exceptional writing, communication, and presentation skills with excellent attention to detail.\n* Effective people management and coaching, with the ability to develop early-career talent and build capability across project teams.\n* Confident communication and stakeholder management, including influencing senior leaders and creating clarity when requirements are ambiguous.\n* Proficiency in marketing tools, marketing automation, CRM, analytics and AI, including Salesforce, Pardot, Looker, Cvent, Google Workspace, Claude and Glean.\n* Willingness and ability to travel 20%-40% of the time for event management and delivery.\n\n**Additional Information**\n**Bring all of you to work**\nWe create the conditions for high performers to thrive, through real ownership, fewer blockers, and work that makes a difference from day one.\n  \n  \nHere, you’ll move fast, take on meaningful challenges, and be recognized for the impact you deliver. It’s a place where ambition gets met with opportunity, and where your growth is in your hands.\n  \n  \nWe work as one team, and we back each other to succeed. So whatever your background or identity, if you’re ready to grow and make a difference, you’ll be right at home here.\n  \n  \nIt’s important we set you up for success and make our process as accessible as possible. So let us know in your application, or tell your ",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Hospitals and Health Care",
+   "company_industry": "Financial Services",
+   "key": "checkout com|senior manager events experiential marketing 18m ftc",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
+   "title": "Senior Manager, Stakeholder Engagement & Comms",
+   "company": "Ellwood Atfield",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4494201675",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
    "key": "ellwood atfield|senior manager stakeholder engagement comms",
    "sources": [
     "linkedin"
@@ -668,30 +716,6 @@
     "https://www.linkedin.com/jobs/view/4495324291",
     "https://job-boards.greenhouse.io/deliveroo/jobs/8420953"
    ],
-   "first_seen": "2026-11-28",
-   "is_new": true
-  },
-  {
-   "title": "Senior Marketing Officer (Digital)",
-   "company": "North London NHS Foundation Trust",
-   "location": "London, ENG, UK",
-   "salary_min": 47951.0,
-   "salary_max": 56863.0,
-   "salary_text": "£47,951–£56,863",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-27",
-   "url": "https://uk.indeed.com/viewjob?jk=2f42caa75c275299",
-   "description": "The Senior Marketing Officer (Digital) will support all digital marketing activity at North London NHS Foundation Trust – focusing primarily (c.80%) on higher education marketing for Tavistock Education and Training, with additional support (c.20%) for wider health-related marketing activity.\n  \n  \nThe Senior Marketing Officer (Digital) will report directly to the Head of Marketing, while working closely with the wider Marketing, Communications and Engagement function and building strong links with Tavistock Education and Training staff. A team-player, they will be willing to work flexibly and collaboratively across multiple, simultaneous projects and campaigns, while managing competing priorities and deadlines. They will help to bring consistency and clarity to all strands of digital activity – introducing robust processes and procedures that will underpin our growth and transformation objectives.\n  \n  \nThe Senior Marketing Officer (Digital) will bring their technical expertise and experience to enhance each stage of the customer journey and manage a variety of digital channels and tools. They will work across various key areas of activity – including maintaining the Tavistock Education and Training website, creating and managing conversion-focused automation journeys, briefing and monitoring digital advertising campaigns, and structuring and maintaining the Tavistock Education and Training marketing database.\n  \n  \nTarget-driven and data-focused, with a keen eye for detail, the post-holder will seek out opportunities to optimise and iterate processes – offering actionable insights and recommendations based on in-depth analysis and reporting. They will also play a key role in bringing various digital projects to fruition, including the acquisition and implementation of a new CRM System – helping to establish innovative and future-facing ways of working for the wider team.\n  \n  \nTavistock Education and Training offers a wide range of short CPD and postgraduate courses, including Diplomas, Master’s Degrees and Professional Doctorates validated by the University of Essex, clinical programmes accredited by leading professional bodies, and bespoke trainings for organisations. As part of North London NHS Foundation Trust , we ground our students’ learning in the latest clinical insights and research, with each course developed and delivered by our expert clinician-tutors, in the only NHS Trust registered with the Office for Students (OfS). We are proud to have supported thousands of students to build meaningful careers in mental health, healthcare, social work, education and consultancy, and have ambitious plans for national and international growth in the coming months and years.\n  \n  \nPlease see the person specification/job description for a detailed description of main responsibilities.",
-   "apply_url": "http://www.northlondonmentalhealth.nhs.uk/current-vacancies?ref=Indeed#!/job/v8390410?_ts=",
-   "company_size": "",
-   "company_industry": "",
-   "key": "north london nhs foundation trust|senior marketing officer",
-   "sources": [
-    "indeed"
-   ],
-   "other_urls": [],
    "first_seen": "2026-11-28",
    "is_new": true
   },
@@ -771,6 +795,51 @@
    "is_new": false
   },
   {
+   "title": "Content Manager",
+   "company": "Morgan McKinley",
+   "location": "London, UK",
+   "salary_min": 45000.0,
+   "salary_max": 50000.0,
+   "salary_text": "£45,000–£50,000",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "full_time",
+   "date_posted": "2026-11-28",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5981677539?se=GpUJSyLr8RGTKtsZlPx8Mw&utm_medium=api&v=5BA6A815AB53272726835885B5780E6468FBBEE3",
+   "description": "",
+   "key": "morgan mckinley|content manager",
+   "sources": [
+    "adzuna"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-24",
+   "is_new": false
+  },
+  {
+   "title": "Content Manager - 12 months FTC",
+   "company": "Schroders",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-28",
+   "url": "https://www.linkedin.com/jobs/view/4488185580",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Financial Services",
+   "key": "schroders|content manager 12 months ftc",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
    "title": "Customer Lifecycle Marketing Manager",
    "company": "Barclays",
    "location": "London, England, UK",
@@ -785,32 +854,8 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Banking and Financial Services",
+   "company_industry": "",
    "key": "barclays|customer lifecycle marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-27",
-   "is_new": false
-  },
-  {
-   "title": "AVP Marketing",
-   "company": "UnderwriteMe",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4472014698",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Software Development",
-   "key": "underwriteme|avp marketing",
    "sources": [
     "linkedin"
    ],
@@ -833,7 +878,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Financial Services, Insurance, and Insurance and Employee Benefit Funds",
+   "company_industry": "",
    "key": "emr specialist in marketing recruitment|brand manager",
    "sources": [
     "linkedin"
@@ -857,7 +902,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Construction, Software Development, and IT Services and IT Consulting",
+   "company_industry": "",
    "key": "vita coco|brand manager emerging markets",
    "sources": [
     "linkedin"
@@ -881,34 +926,10 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Retail Apparel and Fashion",
+   "company_industry": "",
    "key": "wyse london|brand marketing manager",
    "sources": [
     "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-27",
-   "is_new": false
-  },
-  {
-   "title": "Brand Marketing Manager",
-   "company": "CDW",
-   "location": "London, ENG, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-27",
-   "url": "https://uk.indeed.com/viewjob?jk=b4933b9e9e02de7c",
-   "description": "",
-   "apply_url": "https://www.cdwjobs.com/en/jobs/18521762-brand-marketing-manager?tm_job=R26%255F00003499&tm_event=view&tm_company=2376",
-   "company_size": "10,000+",
-   "company_industry": "",
-   "key": "cdw|brand marketing manager",
-   "sources": [
-    "indeed"
    ],
    "other_urls": [],
    "first_seen": "2026-11-27",
@@ -964,30 +985,6 @@
   },
   {
    "title": "Content Production Lead",
-   "company": "Department for Environment, Food and Rural Affairs",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4495302021",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Government Administration",
-   "key": "department for environment food and rural affairs|content production lead",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-27",
-   "is_new": false
-  },
-  {
-   "title": "Content Production Lead",
    "company": "DEFRA",
    "location": "London, ENG, UK",
    "salary_min": 64015.0,
@@ -1011,6 +1008,30 @@
    "is_new": false
   },
   {
+   "title": "Content Production Lead",
+   "company": "Department for Environment, Food and Rural Affairs",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495302021",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Government Administration",
+   "key": "department for environment food and rural affairs|content production lead",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": false
+  },
+  {
    "title": "Content and Communications Manager",
    "company": "Kingsley Napley",
    "location": "London Area, UK",
@@ -1019,13 +1040,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4495810838",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Legal Services",
+   "company_industry": "",
    "key": "kingsley napley|content and communications manager",
    "sources": [
     "linkedin"
@@ -1049,7 +1070,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Staffing and Recruiting",
+   "company_industry": "",
    "key": "stopgap marketing digital creative recruitment|digital marketing operations manager",
    "sources": [
     "linkedin"
@@ -1067,43 +1088,19 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4490417340",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Events Services, Marketing Services, and Advertising Services",
+   "company_industry": "",
    "key": "media search|event marketing manager spanish speaker",
    "sources": [
     "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-17",
-   "is_new": false
-  },
-  {
-   "title": "Expert Opportunity - Group Brand Manager ($70/hr, up to $1,400/week)",
-   "company": "Begun",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "parttime",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4453385824",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet",
-   "key": "begun|expert opportunity group brand manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-27",
    "is_new": false
   },
   {
@@ -1115,13 +1112,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4495596452",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Hospitality, Restaurants, and Marketing Services",
+   "company_industry": "",
    "key": "recruitment evangelists|group marketing manager",
    "sources": [
     "linkedin"
@@ -1145,7 +1142,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Data Infrastructure and Analytics",
+   "company_industry": "",
    "key": "sagacity|growth marketing demand generation manager",
    "sources": [
     "linkedin"
@@ -1163,13 +1160,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4477061826",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Technology, Information and Internet",
+   "company_industry": "",
    "key": "meta|growth marketing manager emea",
    "sources": [
     "linkedin"
@@ -1193,8 +1190,32 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Financial Services, Investment Management, and Banking",
+   "company_industry": "",
    "key": "robeco|innovation growth marketing manager",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-27",
+   "is_new": false
+  },
+  {
+   "title": "Internal Comms & Engagement Lead",
+   "company": "Bravura Solutions",
+   "location": "City Of London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495822410",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Financial Services and Software Development",
+   "key": "bravura solutions|internal comms engagement lead",
    "sources": [
     "linkedin"
    ],
@@ -1280,7 +1301,7 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4469973828",
    "description": "",
@@ -1299,18 +1320,18 @@
    "title": "Marketing Manager",
    "company": "Red Chair Recruitment",
    "location": "London Area, UK",
-   "salary_min": 45000.0,
-   "salary_max": 60000.0,
-   "salary_text": "£45,000–£60,000",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4495097764",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Marketing Services, Social Networking/Social Media, and Accommodation and Food Services",
+   "company_industry": "",
    "key": "red chair recruitment|marketing manager",
    "sources": [
     "linkedin"
@@ -1334,7 +1355,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Financial Services",
+   "company_industry": "",
    "key": "moneycorp|marketing manager",
    "sources": [
     "linkedin",
@@ -1403,13 +1424,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4495093690",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Software Development and Computers and Electronics Manufacturing",
+   "company_industry": "",
    "key": "minut|marketing manager",
    "sources": [
     "linkedin",
@@ -1508,7 +1529,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Financial Services",
+   "company_industry": "",
    "key": "hsbc|marketing manager business marketing",
    "sources": [
     "linkedin",
@@ -1545,6 +1566,54 @@
    "is_new": false
   },
   {
+   "title": "Organic Marketing Lead",
+   "company": "Emma - we are hiring!",
+   "location": "Islington, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4494213227",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "emma we are hiring|organic marketing lead",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
+   "title": "PR Senior Account Manager - Automotive Brands",
+   "company": "PRFutures",
+   "location": "London Area, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4491922185",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "",
+   "key": "prfutures|pr senior account manager automotive brands",
+   "sources": [
+    "linkedin"
+   ],
+   "other_urls": [],
+   "first_seen": "2026-11-20",
+   "is_new": false
+  },
+  {
    "title": "Product Marketing Lead - Up to £80,000",
    "company": "Blu Digital",
    "location": "London Area, UK",
@@ -1559,37 +1628,13 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "",
+   "company_industry": "Retail Apparel and Fashion and Retail Luxury Goods and Jewelry",
    "key": "blu digital|product marketing lead up to 80 000",
    "sources": [
     "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-13",
-   "is_new": false
-  },
-  {
-   "title": "Product Marketing Manager",
-   "company": "RTB House",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4486704227",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "Technology, Information and Internet",
-   "key": "rtb house|product marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-27",
    "is_new": false
   },
   {
@@ -1601,19 +1646,46 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4488847134",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Advertising Services",
+   "company_industry": "",
    "key": "venatus|sales marketing manager",
    "sources": [
     "linkedin"
    ],
    "other_urls": [],
    "first_seen": "2026-11-11",
+   "is_new": false
+  },
+  {
+   "title": "Senior Associate, GTM Marketing",
+   "company": "Deliveroo",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4486921353",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Software Development",
+   "key": "deliveroo|senior associate gtm marketing",
+   "sources": [
+    "linkedin",
+    "Deliveroo careers"
+   ],
+   "other_urls": [
+    "https://job-boards.greenhouse.io/deliveroo/jobs/8353647"
+   ],
+   "first_seen": "2026-11-07",
    "is_new": false
   },
   {
@@ -1631,7 +1703,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Marketing Services, Food and Beverage Retail, and Retail",
+   "company_industry": "",
    "key": "spotlight recruitment|senior brand manager",
    "sources": [
     "linkedin"
@@ -1641,48 +1713,51 @@
    "is_new": false
   },
   {
-   "title": "Senior Field Marketing Manager, UK & Ireland",
-   "company": "Index Exchange",
+   "title": "Senior Manager, Global Internal Communications - Enterprise-wide and people comms",
+   "company": "Haleon",
+   "location": "London, England, UK",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "salary_is_estimate": false,
+   "work_pattern": "",
+   "contract": "fulltime",
+   "date_posted": "2026-11-27",
+   "url": "https://www.linkedin.com/jobs/view/4495304353",
+   "description": "",
+   "apply_url": "",
+   "company_size": "",
+   "company_industry": "Consumer Services",
+   "key": "haleon|senior manager global internal communications enterprise wide and people comms",
+   "sources": [
+    "linkedin",
+    "indeed"
+   ],
+   "other_urls": [
+    "https://uk.indeed.com/viewjob?jk=1978c6c71c33de05"
+   ],
+   "first_seen": "2026-11-27",
+   "is_new": false
+  },
+  {
+   "title": "Senior Marketing Communications Officer",
+   "company": "Russell Tobin",
    "location": "London Area, UK",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4479154436",
+   "url": "https://www.linkedin.com/jobs/view/4493899502",
    "description": "",
    "apply_url": "",
    "company_size": "",
    "company_industry": "",
-   "key": "index exchange|senior field marketing manager ireland",
+   "key": "russell tobin|senior marketing communications officer",
    "sources": [
     "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-27",
-   "is_new": false
-  },
-  {
-   "title": "Senior Manager, Global Internal Communications - Enterprise-wide and people comms",
-   "company": "Haleon",
-   "location": "London, ENG, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-27",
-   "url": "https://uk.indeed.com/viewjob?jk=1978c6c71c33de05",
-   "description": "",
-   "apply_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/UK---London/Senior-Manager--Global-Internal-Communications---Enterprise-wide-and-people-comms_549924-2",
-   "company_size": "10,000+",
-   "company_industry": "",
-   "key": "haleon|senior manager global internal communications enterprise wide and people comms",
-   "sources": [
-    "indeed"
    ],
    "other_urls": [],
    "first_seen": "2026-11-27",
@@ -1703,7 +1778,7 @@
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Retail Apparel and Fashion",
+   "company_industry": "",
    "key": "robert walters|senior marketing manager",
    "sources": [
     "linkedin",
@@ -1724,13 +1799,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4487784225",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Travel Arrangements",
+   "company_industry": "",
    "key": "loveholidays|senior product marketing manager international",
    "sources": [
     "linkedin"
@@ -1767,30 +1842,6 @@
    "is_new": false
   },
   {
-   "title": "Solutions Marketing Manager",
-   "company": "RLDatix UK & Ireland",
-   "location": "London, England, UK",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "fulltime",
-   "date_posted": "2026-11-27",
-   "url": "https://www.linkedin.com/jobs/view/4490804457",
-   "description": "",
-   "apply_url": "",
-   "company_size": "",
-   "company_industry": "IT Services and IT Consulting",
-   "key": "rldatix ireland|solutions marketing manager",
-   "sources": [
-    "linkedin"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-18",
-   "is_new": false
-  },
-  {
    "title": "Sr. Product Marketing Manager, Government",
    "company": "Chainalysis",
    "location": "London Area, UK",
@@ -1799,13 +1850,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4485830553",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Software Development",
+   "company_industry": "",
    "key": "chainalysis|sr product marketing manager government",
    "sources": [
     "linkedin"
@@ -1823,13 +1874,13 @@
    "salary_text": "",
    "salary_is_estimate": false,
    "work_pattern": "",
-   "contract": "fulltime",
+   "contract": "",
    "date_posted": "2026-11-27",
    "url": "https://www.linkedin.com/jobs/view/4495309369",
    "description": "",
    "apply_url": "",
    "company_size": "",
-   "company_industry": "Retail",
+   "company_industry": "",
    "key": "currys|trade planning marketing manager",
    "sources": [
     "linkedin"
@@ -1856,12 +1907,9 @@
    "company_industry": "",
    "key": "policy expert|web content manager",
    "sources": [
-    "indeed",
-    "linkedin"
+    "indeed"
    ],
-   "other_urls": [
-    "https://www.linkedin.com/jobs/view/4495823891"
-   ],
+   "other_urls": [],
    "first_seen": "2026-11-27",
    "is_new": false
   },
@@ -2136,27 +2184,6 @@
    ],
    "other_urls": [],
    "first_seen": "2026-11-17",
-   "is_new": false
-  },
-  {
-   "title": "Senior Associate, GTM Marketing",
-   "company": "Deliveroo",
-   "location": "London, United Kingdom - Deliveroo",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "salary_is_estimate": false,
-   "work_pattern": "",
-   "contract": "",
-   "date_posted": "2026-11-05",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8353647",
-   "description": "",
-   "key": "deliveroo|senior associate gtm marketing",
-   "sources": [
-    "Deliveroo careers"
-   ],
-   "other_urls": [],
-   "first_seen": "2026-11-07",
    "is_new": false
   },
   {
